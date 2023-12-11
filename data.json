@@ -1,0 +1,489 @@
+{
+  "repos": [
+    {
+      "repo": "ministryofjustice/accelerated_claims",
+      "serviceName": "Evict a tenant using accelerated possession",
+      "skip": true
+    },
+    {
+      "repo": "DFE-Digital/access-your-teaching-qualifications",
+      "serviceName": "Access your teaching qualifications",
+      "govukversion": "4.7.0"
+    },
+    {
+      "repo": "Planning-Inspectorate/appeal-planning-decision",
+      "packageLocation": "packages/web-comment/",
+      "serviceName": "Appeal a planning decision",
+      "govukversion": "^3.14.0"
+    },
+    {
+      "repo": "DFE-Digital/Dfe.Academies.External",
+      "serviceName": "Apply to become an Academy",
+      "skip": true
+    },
+    {
+      "repo": "hmcts/div-petitioner-frontend",
+      "serviceName": "Apply for a divorce",
+      "govukversion": "^2.11.0"
+    },
+    {
+      "repo": "InnovateUKGitHub/innovation-funding-service",
+      "packageLocation": "ifs-web-service/",
+      "serviceName": "Apply for innovation funding",
+      "govukversion": "^3.3.0"
+    },
+    {
+      "repo": "hmcts/probate-frontend",
+      "serviceName": "Apply for Probate",
+      "govukversion": "^4.6.0"
+    },
+    {
+      "repo": "DFE-Digital/apply-for-teacher-training",
+      "serviceName": "Apply for teacher training",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "cabinetoffice/grc-app",
+      "serviceName": "Apply for a Gender Recognition Certificate",
+      "govukversion": "^3.14.0"
+    },
+    {
+      "repo": "ministryofjustice/laa-apply-for-legal-aid",
+      "serviceName": "Apply for legal aid",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "SkillsFundingAgency/das-employerapprenticeshipsservice",
+      "serviceName": "Manage apprenticeships",
+      "skip": true
+    },
+    {
+      "repo": "abbott567/bereavement",
+      "serviceName": "Apply for Bereavement Support Payment",
+      "skip": true
+    },
+    {
+      "repo": "UKHomeOffice/brp_enquiry_forms",
+      "serviceName": "Biometric Residence Permits",
+      "skip": true
+    },
+    {
+      "repo": "dwp/carers-allowance-prototype",
+      "serviceName": "Apply for Carer’s Allowance",
+      "skip": true
+    },
+    {
+      "repo": "noms-digital-studio/csra-app",
+      "serviceName": "Cell Sharing Risk Assessment application",
+      "skip": true
+    },
+    {
+      "repo": "ministryofjustice/cla_public",
+      "serviceName": "Check if you can get legal aid",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "UKGovernmentBEIS/payment-practices-reporting",
+      "serviceName": "Payment practices reporting",
+      "skip": true
+    },
+    {
+      "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
+      "serviceName": "Check if your client qualifies for legal aid",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "alphagov/paas-product-pages",
+      "serviceName": "GOV.UK Platform as a Service",
+      "govukversion": "^5.0.0"
+    },
+    {
+      "repo": "UKForeignOffice/fco-consular-appointments-slotpicker",
+      "serviceName": "Book consular appointments",
+      "skip": true
+    },
+    {
+      "repo": "publichealthengland/coronavirus-dashboard",
+      "serviceName": "Coronavirus (COVID-19) in the UK ",
+      "govukversion": "^3.14.0"
+    },
+    {
+      "repo": "UKGovernmentBEIS/energy-label-service",
+      "serviceName": "Create an energy label",
+      "govukversion": "^4.0.1"
+    },
+    {
+      "repo": "alphagov/govuk-design-system",
+      "serviceName": "GOV.UK Design System",
+      "govukversion": "^5.0.0"
+    },
+    {
+      "repo": "alphagov/govuk-frontend",
+      "serviceName": "GOV.UK Design System",
+      "skip": true
+    },
+    {
+      "repo": "DFE-Digital/childrens-social-care-cpd",
+      "packageLocation": "Childrens-Social-Care-CPD/",
+      "serviceName": "Develop your career in child and family social work",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "DFE-Digital/eapim-developer-hub",
+      "serviceName": "Find and Use an API",
+      "govukversion": "^3.6.0"
+    },
+    {
+      "repo": "UKForeignOffice/legalisation-prototype",
+      "serviceName": "Get your document legalised",
+      "skip": true
+    },
+    {
+      "repo": "dvla/Fitness-to-Drive-Pageflow",
+      "serviceName": "Driving with a medical condition",
+      "skip": true
+    },
+    {
+      "repo": "UKHomeOffice?utf8=%E2%9C%93&q=egar",
+      "serviceName": "Electronic General Aviation",
+      "skip": true
+    },
+    {
+      "repo": "UKForeignOffice/emergency-travel-documents",
+      "serviceName": "Apply for an emergency travel document",
+      "skip": true
+    },
+    {
+      "repo": "DFE-Digital/find-a-lost-trn",
+      "serviceName": "Find a lost teacher reference number (TRN)",
+      "govukversion": "^4.6.0"
+    },
+    {
+      "repo": "DFE-Digital/teaching-school-hub-finder",
+      "serviceName": "Find a teaching school hub",
+      "govukversion": "4.6.0"
+    },
+    {
+      "repo": "cabinetoffice/gap-find-apply-web",
+      "packageLocation": "packages/applicant/",
+      "serviceName": "Find a grant",
+      "govukversion": "4.2.0"
+    },
+    {
+      "repo": "ministryofjustice/fala",
+      "serviceName": "Find a legal aid adviser or family mediator",
+      "govukversion": "^3.14.0"
+    },
+    {
+      "repo": "DFE-Digital/npd-find-and-explore",
+      "serviceName": "National Pupil Database (NPD)",
+      "govukversion": "^3.5.0"
+    },
+    {
+      "repo": "DFE-Digital/find-teacher-training",
+      "serviceName": "Find postgraduate teacher training",
+      "govukversion": "^4.4.1"
+    },
+    {
+      "repo": "DFE-Digital/fh-service-directory-ui",
+      "serviceName": "Find support for your family",
+      "skip": true
+    },
+    {
+      "repo": "SkillsFundingAgency/das-findapprenticeshiptraining",
+      "serviceName": "Find apprenticeship training for your apprentice",
+      "skip": true
+    },
+    {
+      "repo": "DEFRA/fmp-app",
+      "serviceName": "Flood map for planning",
+      "govukversion": "^4.0.1"
+    },
+    {
+      "repo": "DEFRA/flood-app",
+      "serviceName": "Check for flooding",
+      "govukversion": "^4.6.0"
+    },
+    {
+      "repo": "alphagov/travel-advice-publisher",
+      "serviceName": "Foreign travel advice",
+      "skip": true
+    },
+    {
+      "repo": "alphagov/forms-product-page",
+      "serviceName": "GOV.UK Forms",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "alphagov/forms-admin",
+      "serviceName": "GOV.UK Forms",
+      "govukversion": "~4.7.0"
+    },
+    {
+      "repo": "cabinetoffice/gender-pay-gap",
+      "packageLocation": "GenderPayGap.WebUI/",
+      "serviceName": "Gender pay gap reporting",
+      "govukversion": "^4.0.1"
+    },
+    {
+      "repo": "UKHomeOffice/gro",
+      "serviceName": "Order a birth, death, marriage or civil partnership certificate",
+      "skip": true
+    },
+    {
+      "repo": "DFE-Digital/buy-for-your-school",
+      "serviceName": "Get help buying for schools",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "DFE-Digital/get-information-about-schools",
+      "packageLocation": "Web/Edubase.Web.UI/",
+      "serviceName": "Get information about schools",
+      "govukversion": "^3.12.0"
+    },
+    {
+      "repo": "DFE-Digital/get-into-teaching-app",
+      "serviceName": "Get Into Teaching",
+      "govukversion": "^3.14.0"
+    },
+    {
+      "repo": "DFE-Digital/get-teacher-training-adviser-service",
+      "serviceName": "Get an adviser",
+      "govukversion": "^4.6.0"
+    },
+    {
+      "repo": "alphagov/frontend",
+      "serviceName": "GOV.UK",
+      "skip": true
+    },
+    {
+      "repo": "ministryofjustice/hwf-publicapp",
+      "serviceName": "Get help paying court and tribunal fees",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "UKHomeOffice/home-office-design-system",
+      "packageLocation": "components/page/",
+      "serviceName": "Home Office Design System",
+      "govukversion": "4.4.1"
+    },
+    {
+      "repo": "UKHomeOfficeForms/hof",
+      "serviceName": "Home Office Forms",
+      "govukversion": "3.14"
+    },
+    {
+      "repo": "DFE-Digital/early-careers-framework",
+      "serviceName": "Manage training for early career teachers",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "hmcts/cmc-legal-rep-frontend",
+      "serviceName": "Make a money claim online",
+      "skip": true
+    },
+    {
+      "repo": "dvsa/mot",
+      "serviceName": "MOT testing service",
+      "skip": true
+    },
+    {
+      "repo": "111Online",
+      "serviceName": "111 online",
+      "skip": true
+    },
+    {
+      "repo": "cabinetoffice/has-nomination-form",
+      "serviceName": "Honours nomination",
+      "skip": true
+    },
+    {
+      "repo": "alphagov/notifications-admin",
+      "serviceName": "GOV.UK Notify",
+      "govukversion": "4.2.0"
+    },
+    {
+      "repo": "alphagov/datagovuk_find",
+      "serviceName": "Find open data",
+      "skip": true
+    },
+    {
+      "repo": "UKHomeOffice?utf8=%E2%9C%93&q=passport",
+      "serviceName": "Apply online for a UK passport",
+      "skip": true
+    },
+    {
+      "repo": "alphagov/pay-frontend",
+      "serviceName": "GOV.UK Pay",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "ministryofjustice/peoplefinder",
+      "serviceName": "People Finder",
+      "skip": true
+    },
+    {
+      "repo": "DFE-Digital/plan-technology-for-your-school",
+      "serviceName": "Plan technology for your school",
+      "packageLocation": "src/Dfe.PlanTech.Web.Node/",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "digital-land/digital-land.info",
+      "serviceName": "planning.data.gov.uk",
+      "govukversion": "4.2.0"
+    },
+    {
+      "repo": "ministryofjustice/prison-visits-2",
+      "serviceName": "Visit someone in prison",
+      "skip": true
+    },
+    {
+      "repo": "UKGovernmentBEIS/beis-opss-psd",
+      "serviceName": "Product safety database",
+      "govukversion": "4.7.0"
+    },
+    {
+      "repo": "alphagov/govuk-prototype-kit",
+      "serviceName": "GOV.UK Prototype Kit",
+      "govukversion": "4.7.0"
+    },
+    {
+      "repo": "DFE-Digital/publish-teacher-training",
+      "serviceName": "Publish teacher training courses",
+      "govukversion": "^4.5.0"
+    },
+    {
+      "repo": "bitzesty/qae",
+      "serviceName": "King's Awards for Enterprise",
+      "govukversion": "^3.13.0"
+    },
+    {
+      "repo": "bitzesty/qavs-v2",
+      "serviceName": "The King’s Award for Voluntary Service",
+      "govukversion": "^3.13.0"
+    },
+    {
+      "repo": "InsolvencyService/rps-alpha",
+      "serviceName": "Claim for redundancy and monies owed",
+      "skip": true
+    },
+    {
+      "repo": "DFE-Digital/refer-serious-misconduct",
+      "serviceName": "Refer serious misconduct by a teacher in England",
+      "govukversion": "4.7.0"
+    },
+    {
+      "repo": "DFE-Digital/npq-registration",
+      "serviceName": "Register for a National Professional Qualification",
+      "govukversion": "^4.6.0"
+    },
+    {
+      "repo": "DFE-Digital/register-trainee-teachers",
+      "serviceName": "Register trainee teachers",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "UKHomeOffice/modern-slavery",
+      "serviceName": "Report modern slavery",
+      "govukversion": "^2.7.0"
+    },
+    {
+      "repo": "UKGovernmentBEIS/beis-report-official-development-assistance",
+      "serviceName": "Report your Official Development Assistance",
+      "govukversion": "^3.11.0"
+    },
+    {
+      "repo": "UKHomeOffice/rotm",
+      "serviceName": "Report online material promoting terrorism or extremism",
+      "skip": true
+    },
+    {
+      "repo": "UKHomeOffice/right-to-rent-check",
+      "serviceName": "View a tenant's right to rent in England",
+      "skip": true
+    },
+    {
+      "repo": "DFE-Digital/schools-experience",
+      "serviceName": "Get school experience",
+      "govukversion": "^4.0.1"
+    },
+    {
+      "repo": "ministryofjustice/money-to-prisoners-send-money",
+      "serviceName": "Send money to someone in prison",
+      "skip": true
+    },
+    {
+      "repo": "alphagov/di-onboarding-product-page",
+      "serviceName": "GOV.UK One Login",
+      "govukversion": "^4.5.0"
+    },
+    {
+      "repo": "alphagov/di-onboarding-self-service-experience",
+      "serviceName": "GOV.UK One Login",
+      "packageLocation": "express/",
+      "govukversion": "^4.5.0"
+    },
+    {
+      "repo": "alphagov/di-account-management-frontend",
+      "serviceName": "GOV.UK One Login",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "DEFRA/flood-xws-contact-web",
+      "serviceName": "Sign up for flood warnings",
+      "govukversion": "4.0.0"
+    },
+    {
+      "repo": "DEFRA/flood-xws-subscription-api",
+      "serviceName": "Sign up for flood warnings",
+      "skip": true
+    },
+    {
+      "repo": "UKGovernmentBEIS/beis-opss-cosmetics",
+      "packageLocation": "cosmetics-web/",
+      "serviceName": "Submit cosmetic product notifications",
+      "govukversion": "4.7.0"
+    },
+    {
+      "repo": "communitiesuk/submit-social-housing-lettings-and-sales-data",
+      "serviceName": "Submit social housing lettings and sales data (CORE)",
+      "govukversion": "4.7.0"
+    },
+    {
+      "repo": "DFE-Digital/ecf-engage-and-learn",
+      "serviceName": "Support for early career teachers",
+      "govukversion": "^3.12.0"
+    },
+    {
+      "repo": "DFE-Digital/teaching-vacancies",
+      "serviceName": "Teaching Vacancies",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "trade-tariff/trade-tariff-frontend",
+      "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "trade-tariff/trade-tariff-backend",
+      "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
+      "skip": true
+    },
+    {
+      "repo": "UKForeignOffice/verify-apostille-service",
+      "serviceName": "Verify an apostille",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "dvla/vdr-core",
+      "serviceName": "View your driving licence information",
+      "skip": true
+    },
+    {
+      "repo": "alphagov/govwifi-product-page",
+      "serviceName": "GovWifi",
+      "govukversion": "^4.3.1"
+    }
+  ]
+}
