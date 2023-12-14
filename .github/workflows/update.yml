@@ -1,0 +1,25 @@
+name: Update stats
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.2'
+    - name: Run update
+      run: ruby ./update.rb
+    - name: Commit and push any changes
+      run: |
+        git config --global user.email "updates@example.com"
+        git config --global user.name "update-bot"
+        git add --all
+        git commit -m "Update stats" || exit 0
+        git push
