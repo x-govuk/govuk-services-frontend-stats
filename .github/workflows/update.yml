@@ -14,6 +14,7 @@ jobs:
       uses: ruby/setup-ruby@v1
       with:
         ruby-version: '3.2'
+        bundler-cache: true
     - name: Run update
       run: ruby ./update.rb
     - name: Commit and push any changes
