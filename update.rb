@@ -31,7 +31,7 @@ end
 data = JSON.parse(File.read("data.json"))
 count = 0
 
-client = Octokit::Client.new(:access_token => ENV.fetch('GITHUB_ACCESS_TOKEN'))
+client = Octokit::Client.new(:access_token => ENV.fetch('GITHUB_TOKEN'))
 
 services_with_source_code.each do |service|
 
