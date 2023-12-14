@@ -90,7 +90,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^4.7.0"
+      "govukversion": "^5.0.0"
     },
     {
       "repo": "alphagov/paas-product-pages",
