@@ -1,8 +1,6 @@
 require 'octokit'
 require 'uri'
-require 'git'
 require 'json'
-
 require 'open-uri'
 
 data = URI.parse("https://govuk-digital-services.herokuapp.com/data.json")
