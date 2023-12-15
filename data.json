@@ -217,7 +217,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "~4.7.0"
+      "govukversion": "~5.0.0"
     },
     {
       "repo": "cabinetoffice/gender-pay-gap",

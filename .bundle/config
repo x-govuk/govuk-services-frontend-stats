@@ -1,0 +1,4 @@
+---
+BUNDLE_PATH: "/home/runner/work/govuk-services-frontend-stats/govuk-services-frontend-stats/vendor/bundle"
+BUNDLE_DEPLOYMENT: "true"
+BUNDLE_JOBS: "4"
