@@ -17,7 +17,7 @@ jobs:
         ruby-version: '3.2'
         bundler-cache: true
     - name: Run update
-      run: ruby ./update.rb
+      run: bundle exec ruby ./update.rb
     - name: Commit and push any changes
       run: |
         git config --global user.email "updates@example.com"
