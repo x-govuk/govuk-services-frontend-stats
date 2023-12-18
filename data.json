@@ -508,7 +508,7 @@
     {
       "repo": "alphagov/finder-frontend",
       "serviceName": "GOV.UK",
-      "skip": "maybe"
+      "skip": true
     },
     {
       "repo": "ministryofjustice/help-with-child-arrangements",
@@ -522,8 +522,8 @@
     },
     {
       "repo": "govuk-one-login/onboarding-self-service-experience",
-      "serviceName": "GOV.UK One Login",
-      "skip": "maybe"
+      "serviceName": "GOV.UK One Login"
+      "packageLocation": "express/",
     },
     {
       "repo": "govuk-one-login/di-account-management-frontend",
