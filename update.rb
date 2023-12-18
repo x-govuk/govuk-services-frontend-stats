@@ -89,7 +89,7 @@ File.open("README.md", 'w') do |file|
 
   repos_with_govuk_frontend.each do |repo|
 
-    file.write "| [" + repo["serviceName"] + "](https://github.com/" + repo["repo"] + "/" + repo["packageLocation"].to_s + ") | " + repo["govukversion"] + " |\n"
+    file.write "| [" + repo["serviceName"].to_s + "](https://github.com/" + repo["repo"].to_s + "/" + repo["packageLocation"].to_s + ") | " + repo["govukversion"].to_s + " |\n"
   end
 
 end
