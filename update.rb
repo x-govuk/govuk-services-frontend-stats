@@ -31,6 +31,8 @@ count = 0
 
 client = Octokit::Client.new(:access_token => ENV.fetch('GITHUB_TOKEN'))
 
+puts "Scanning the package.json of source code"
+
 services_with_source_code.each do |service|
 
   service_metadata = data["repos"].find {|s| s["repo"] == service[:repo] }
@@ -52,6 +54,9 @@ services_with_source_code.each do |service|
 
   begin
     package_json = JSON.parse(Base64.decode64(client.contents(service[:repo], path: package_path).content))
+
+    print "."
+    $stdout.flush
 
     if package_json["dependencies"] && package_json["dependencies"]["govuk-frontend"]
       service_metadata["govukversion"] = package_json["dependencies"]["govuk-frontend"]
@@ -75,7 +80,18 @@ end
 
 repos_with_govuk_frontend = data["repos"].select {|repo|  repo["govukversion"] }
 
-repos_with_govuk_frontend.sort! {|a, b| a["govukversion"].gsub(/[\^\~]/, "") <=> b["govukversion"].gsub(/[\^\~]/, "")  }.reverse!
+repos_with_govuk_frontend.sort! do |a, b|
+  version_a = a["govukversion"].gsub(/[\^\~]/, "")
+  version_b = b["govukversion"].gsub(/[\^\~]/, "")
+
+  if version_a < version_b
+    1
+  elsif version_b > version_a
+    -1
+  else
+    a["serviceName"] <=> b["serviceName"]
+  end
+end
 
 # Update README.md
 File.open("README.md", 'w') do |file|
