@@ -12,6 +12,10 @@ This shows the current known govuk-frontend version of services, based on their 
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.0.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.0.0 |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.0.0 |
+| [GOV.UK One Login](https://github.com//) | ^4.7.0 |
+| [Get help with child arrangements](https://github.com//) | 4.7.0 |
+| [Find unclaimed court money](https://github.com//) | 4.7.0 |
+| [Calculate teacher pay](https://github.com//) | 4.7.0 |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)](https://github.com/trade-tariff/trade-tariff-frontend/) | ^4.7.0 |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^4.7.0 |
@@ -37,11 +41,13 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^4.6.0 |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |
+| [GOV.UK One Login](https://github.com//) | ^4.5.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-onboarding-self-service-experience/express/) | ^4.5.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-onboarding-product-page/) | ^4.5.0 |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^4.5.0 |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/components/page/) | 4.4.1 |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 |
+| [Claim Additional Payments for Teaching](https://github.com//) | ^4.3.1 |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.3.1 |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.2.0 |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 4.2.0 |

@@ -489,6 +489,46 @@
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
       "govukversion": "~5.0.0"
+    },
+    {
+      "repo": "DFE-Digital/teacher-pay-calculator",
+      "serviceName": "Calculate teacher pay",
+      "govukversion": "4.7.0"
+    },
+    {
+      "repo": "DFE-Digital/claim-additional-payments-for-teaching",
+      "serviceName": "Claim Additional Payments for Teaching",
+      "govukversion": "^4.3.1"
+    },
+    {
+      "repo": "ministryofjustice/find-unclaimed-court-money",
+      "serviceName": "Find unclaimed court money",
+      "govukversion": "4.7.0"
+    },
+    {
+      "repo": "alphagov/finder-frontend",
+      "serviceName": "GOV.UK",
+      "skip": "maybe"
+    },
+    {
+      "repo": "ministryofjustice/help-with-child-arrangements",
+      "serviceName": "Get help with child arrangements",
+      "govukversion": "4.7.0"
+    },
+    {
+      "repo": "govuk-one-login/onboarding-product-page",
+      "serviceName": "GOV.UK One Login",
+      "govukversion": "^4.5.0"
+    },
+    {
+      "repo": "govuk-one-login/onboarding-self-service-experience",
+      "serviceName": "GOV.UK One Login",
+      "skip": "maybe"
+    },
+    {
+      "repo": "govuk-one-login/di-account-management-frontend",
+      "serviceName": "GOV.UK One Login",
+      "govukversion": "^4.7.0"
     }
   ]
 }
