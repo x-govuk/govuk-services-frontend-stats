@@ -523,7 +523,8 @@
     {
       "repo": "govuk-one-login/onboarding-self-service-experience",
       "serviceName": "GOV.UK One Login",
-      "packageLocation": "express/"
+      "packageLocation": "express/",
+      "govukversion": "^4.5.0"
     },
     {
       "repo": "govuk-one-login/di-account-management-frontend",
