@@ -86,7 +86,7 @@ repos_with_govuk_frontend.sort! do |a, b|
 
   if version_a < version_b
     1
-  elsif version_b > version_a
+  elsif version_a > version_b
     -1
   else
     a["serviceName"] <=> b["serviceName"]
