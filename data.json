@@ -522,8 +522,8 @@
     },
     {
       "repo": "govuk-one-login/onboarding-self-service-experience",
-      "serviceName": "GOV.UK One Login"
-      "packageLocation": "express/",
+      "serviceName": "GOV.UK One Login",
+      "packageLocation": "express/"
     },
     {
       "repo": "govuk-one-login/di-account-management-frontend",
