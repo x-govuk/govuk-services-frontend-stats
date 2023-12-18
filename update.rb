@@ -92,6 +92,8 @@ File.open("README.md", 'w') do |file|
     file.write "| [" + repo["serviceName"].to_s + "](https://github.com/" + repo["repo"].to_s + "/" + repo["packageLocation"].to_s + ") | " + repo["govukversion"].to_s + " |\n"
   end
 
+  file.write "\n"
+
 end
 
 
