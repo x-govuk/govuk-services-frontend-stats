@@ -341,7 +341,7 @@
     {
       "repo": "UKGovernmentBEIS/beis-opss-psd",
       "serviceName": "Product safety database",
-      "govukversion": "4.7.0"
+      "govukversion": "5.0.0"
     },
     {
       "repo": "alphagov/govuk-prototype-kit",
