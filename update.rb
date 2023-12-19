@@ -20,8 +20,7 @@ services["services"].each do |service|
 
     github_repo = source_code["href"].gsub("https://github.com/", "")
 
-
-    services_with_source_code << {service: service["name"], repo: github_repo}
+    services_with_source_code << {service: service["name"], repo: github_repo, name: source_code["text"]}
   end
 
 end
@@ -46,6 +45,15 @@ services_with_source_code.each do |service|
 
   # Update service name
   service_metadata["serviceName"] = service[:service]
+
+  # Update source code name
+  source_code_name = service[:name].gsub(/source code/i, "").strip
+
+  if !source_code_name.empty?
+    service_metadata["name"] = source_code_name
+  else
+    service_metadata.delete("name")
+  end
 
   # Skip if skipped
   next if service_metadata["skip"] == true
@@ -105,7 +113,17 @@ File.open("README.md", 'w') do |file|
 
   repos_with_govuk_frontend.each do |repo|
 
-    file.write "| [" + repo["serviceName"].to_s + "](https://github.com/" + repo["repo"].to_s + "/" + repo["packageLocation"].to_s + ") | " + repo["govukversion"].to_s + " |\n"
+    display_name = repo["serviceName"].to_s
+
+    other_repos_for_same_service = repos_with_govuk_frontend.detect do |other_repo|
+      (other_repo["serviceName"] == repo["serviceName"]) && (other_repo["repo"] != repo["repo"])
+    end
+
+    if other_repos_for_same_service && repo["name"]
+      display_name += " (" + repo["name"] + ")"
+    end
+
+    file.write "| [" + display_name + "](https://github.com/" + repo["repo"].to_s + "/" + repo["packageLocation"].to_s + ") | " + repo["govukversion"].to_s + " |\n"
   end
 
   file.write "\n"
