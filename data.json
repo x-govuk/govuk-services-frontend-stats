@@ -115,12 +115,14 @@
     {
       "repo": "alphagov/govuk-design-system",
       "serviceName": "GOV.UK Design System",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.0.0",
+      "name": "Website"
     },
     {
       "repo": "alphagov/govuk-frontend",
       "serviceName": "GOV.UK Design System",
-      "skip": true
+      "skip": true,
+      "name": "govuk-frontend"
     },
     {
       "repo": "DFE-Digital/childrens-social-care-cpd",
@@ -207,17 +209,20 @@
     {
       "repo": "alphagov/travel-advice-publisher",
       "serviceName": "Foreign travel advice",
-      "skip": true
+      "skip": true,
+      "name": "Publisher"
     },
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.0.0",
+      "name": "Product pages"
     },
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "~5.0.0"
+      "govukversion": "~5.0.0",
+      "name": "Admin application"
     },
     {
       "repo": "cabinetoffice/gender-pay-gap",
@@ -254,7 +259,8 @@
     {
       "repo": "alphagov/frontend",
       "serviceName": "GOV.UK",
-      "skip": true
+      "skip": true,
+      "name": "for the homepage, transactions and some index pages"
     },
     {
       "repo": "ministryofjustice/hwf-publicapp",
@@ -432,12 +438,14 @@
     {
       "repo": "DEFRA/flood-xws-contact-web",
       "serviceName": "Sign up for flood warnings",
-      "govukversion": "4.0.0"
+      "govukversion": "4.0.0",
+      "name": "Public facing website"
     },
     {
       "repo": "DEFRA/flood-xws-subscription-api",
       "serviceName": "Sign up for flood warnings",
-      "skip": true
+      "skip": true,
+      "name": "API"
     },
     {
       "repo": "UKGovernmentBEIS/beis-opss-cosmetics",
@@ -463,12 +471,14 @@
     {
       "repo": "trade-tariff/trade-tariff-frontend",
       "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
-      "govukversion": "^4.7.0"
+      "govukversion": "^4.7.0",
+      "name": "Front end"
     },
     {
       "repo": "trade-tariff/trade-tariff-backend",
       "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
-      "skip": true
+      "skip": true,
+      "name": "Back end"
     },
     {
       "repo": "UKForeignOffice/verify-apostille-service",
@@ -488,7 +498,8 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "~5.0.0"
+      "govukversion": "~5.0.0",
+      "name": "Forms runner"
     },
     {
       "repo": "DFE-Digital/teacher-pay-calculator",
@@ -508,7 +519,8 @@
     {
       "repo": "alphagov/finder-frontend",
       "serviceName": "GOV.UK",
-      "skip": true
+      "skip": true,
+      "name": "for finder and search pages for GOV.UK"
     },
     {
       "repo": "ministryofjustice/help-with-child-arrangements",
@@ -518,18 +530,21 @@
     {
       "repo": "govuk-one-login/onboarding-product-page",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^4.5.0"
+      "govukversion": "^4.5.0",
+      "name": "Product page"
     },
     {
       "repo": "govuk-one-login/onboarding-self-service-experience",
       "serviceName": "GOV.UK One Login",
       "packageLocation": "express/",
-      "govukversion": "^4.5.0"
+      "govukversion": "^4.5.0",
+      "name": "Admin tool"
     },
     {
       "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^4.7.0"
+      "govukversion": "^4.7.0",
+      "name": "Account management frontend"
     }
   ]
 }

@@ -8,9 +8,9 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.0.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.0.0 |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.0.0 |
-| [GOV.UK Forms](https://github.com/alphagov/forms-product-page/) | ^5.0.0 |
-| [GOV.UK Forms](https://github.com/alphagov/forms-admin/) | ~5.0.0 |
-| [GOV.UK Forms](https://github.com/alphagov/forms-runner/) | ~5.0.0 |
+| [GOV.UK Forms (Product pages)](https://github.com/alphagov/forms-product-page/) | ^5.0.0 |
+| [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | ~5.0.0 |
+| [GOV.UK Forms (Forms runner)](https://github.com/alphagov/forms-runner/) | ~5.0.0 |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.0.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.0.0 |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | 4.7.0 |
@@ -20,7 +20,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/Childrens-Social-Care-CPD/) | ^4.7.0 |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | 4.7.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-account-management-frontend/) | ^4.7.0 |
-| [GOV.UK One Login](https://github.com/govuk-one-login/di-account-management-frontend/) | ^4.7.0 |
+| [GOV.UK One Login (Account management frontend)](https://github.com/govuk-one-login/di-account-management-frontend/) | ^4.7.0 |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^4.7.0 |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 4.7.0 |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^4.7.0 |
@@ -43,8 +43,8 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^4.6.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-onboarding-product-page/) | ^4.5.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-onboarding-self-service-experience/express/) | ^4.5.0 |
-| [GOV.UK One Login](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.5.0 |
-| [GOV.UK One Login](https://github.com/govuk-one-login/onboarding-self-service-experience/express/) | ^4.5.0 |
+| [GOV.UK One Login (Product page)](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.5.0 |
+| [GOV.UK One Login (Admin tool)](https://github.com/govuk-one-login/onboarding-self-service-experience/express/) | ^4.5.0 |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^4.5.0 |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/components/page/) | 4.4.1 |
