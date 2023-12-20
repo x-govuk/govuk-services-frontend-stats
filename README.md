@@ -39,6 +39,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.6.0 |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^4.6.0 |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 |
+| [Find an energy certificate](https://github.com//) | ^4.6.0 |
 | [Get an adviser](https://github.com/DFE-Digital/get-teacher-training-adviser-service/) | ^4.6.0 |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^4.6.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-onboarding-product-page/) | ^4.5.0 |
