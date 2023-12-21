@@ -555,7 +555,7 @@
     {
       "repo": "communitiesuk/epb-register-api",
       "serviceName": "Find an energy certificate",
-      "name": "Energy performance of buildings register api",
+      "name": "Energy performance of buildings register infrastructure",
       "skip": "maybe"
     },
     {
