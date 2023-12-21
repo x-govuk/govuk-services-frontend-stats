@@ -12,6 +12,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | ~5.0.0 |
 | [GOV.UK Forms (Forms runner)](https://github.com/alphagov/forms-runner/) | ~5.0.0 |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.0.0 |
+| [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.0.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.0.0 |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | 4.7.0 |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^4.7.0 |
@@ -27,7 +28,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^4.7.0 |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | 4.7.0 |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)](https://github.com/trade-tariff/trade-tariff-frontend/) | ^4.7.0 |
-| [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^4.7.0 |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^4.7.0 |
