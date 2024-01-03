@@ -7,6 +7,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | ------- | --------------------- |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.0.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.0.0 |
+| [Find an energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.0.0 |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.0.0 |
 | [GOV.UK Forms (Product pages)](https://github.com/alphagov/forms-product-page/) | ^5.0.0 |
 | [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | ~5.0.0 |
@@ -39,7 +40,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.6.0 |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^4.6.0 |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 |
-| [Find an energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^4.6.0 |
 | [Get an adviser](https://github.com/DFE-Digital/get-teacher-training-adviser-service/) | ^4.6.0 |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^4.6.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-onboarding-product-page/) | ^4.5.0 |
