@@ -456,7 +456,7 @@
     {
       "repo": "communitiesuk/submit-social-housing-lettings-and-sales-data",
       "serviceName": "Submit social housing lettings and sales data (CORE)",
-      "govukversion": "4.7.0"
+      "govukversion": "5.0.0"
     },
     {
       "repo": "DFE-Digital/ecf-engage-and-learn",

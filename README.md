@@ -15,6 +15,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.0.0 |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.0.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.0.0 |
+| [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.0.0 |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | 4.7.0 |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^4.7.0 |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 |
@@ -33,7 +34,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^4.7.0 |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 4.7.0 |
-| [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 4.7.0 |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^4.7.0 |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |
