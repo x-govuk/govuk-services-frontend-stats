@@ -254,7 +254,8 @@
     {
       "repo": "DFE-Digital/get-teacher-training-adviser-service",
       "serviceName": "Get an adviser",
-      "govukversion": "^4.6.0"
+      "govukversion": "^4.6.0",
+      "skip": "maybe"
     },
     {
       "repo": "alphagov/frontend",
@@ -548,25 +549,25 @@
     },
     {
       "repo": "communitiesuk/epb-frontend",
-      "serviceName": "Find an energy certificate",
+      "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register front end",
       "govukversion": "^5.0.0"
     },
     {
       "repo": "communitiesuk/epb-register-api",
-      "serviceName": "Find an energy certificate",
+      "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register infrastructure",
       "skip": "maybe"
     },
     {
       "repo": "communitiesuk/epb-auth-server",
-      "serviceName": "Find an energy certificate",
+      "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register auth server",
       "skip": "maybe"
     },
     {
       "repo": "communitiesuk/epb-data-warehouse",
-      "serviceName": "Find an energy certificate",
+      "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register data warehouse",
       "skip": "maybe"
     },

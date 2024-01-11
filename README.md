@@ -7,12 +7,12 @@ This shows the current known govuk-frontend version of services, based on their 
 | ------- | --------------------- |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.0.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.0.0 |
-| [Find an energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.0.0 |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.0.0 |
 | [GOV.UK Forms (Product pages)](https://github.com/alphagov/forms-product-page/) | ^5.0.0 |
 | [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | ~5.0.0 |
 | [GOV.UK Forms (Forms runner)](https://github.com/alphagov/forms-runner/) | ~5.0.0 |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.0.0 |
+| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.0.0 |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.0.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.0.0 |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.0.0 |
