@@ -353,7 +353,7 @@
     {
       "repo": "alphagov/govuk-prototype-kit",
       "serviceName": "GOV.UK Prototype Kit",
-      "govukversion": "4.7.0"
+      "govukversion": "5.0.0"
     },
     {
       "repo": "DFE-Digital/publish-teacher-training",
