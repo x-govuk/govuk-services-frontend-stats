@@ -5,6 +5,7 @@ This shows the current known govuk-frontend version of services, based on their 
 
 | Service | govuk-frontend version |
 | ------- | --------------------- |
+| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.0.0 |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.0.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.0.0 |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.0.0 |
@@ -17,7 +18,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.0.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.0.0 |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.0.0 |
-| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | 4.7.0 |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^4.7.0 |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.7.0 |
