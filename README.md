@@ -17,7 +17,9 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.0.0 |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.0.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.0.0 |
+| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.0.0 |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.0.0 |
+| [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.0.0 |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^4.7.0 |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.7.0 |
@@ -32,9 +34,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)](https://github.com/trade-tariff/trade-tariff-frontend/) | ^4.7.0 |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |
-| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^4.7.0 |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 4.7.0 |
-| [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^4.7.0 |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.6.0 |
