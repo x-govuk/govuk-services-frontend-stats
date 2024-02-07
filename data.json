@@ -115,7 +115,7 @@
     {
       "repo": "alphagov/govuk-design-system",
       "serviceName": "GOV.UK Design System",
-      "govukversion": "^5.0.0",
+      "govukversion": "^5.1.0",
       "name": "Website"
     },
     {
@@ -348,7 +348,7 @@
     {
       "repo": "UKGovernmentBEIS/beis-opss-psd",
       "serviceName": "Product safety database",
-      "govukversion": "5.0.0"
+      "govukversion": "5.1.0"
     },
     {
       "repo": "alphagov/govuk-prototype-kit",
