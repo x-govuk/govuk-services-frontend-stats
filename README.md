@@ -7,6 +7,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | ------- | --------------------- |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.1.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.1.0 |
+| [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 5.1.0 |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.0.0 |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.0.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.0.0 |
@@ -35,7 +36,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)](https://github.com/trade-tariff/trade-tariff-frontend/) | ^4.7.0 |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |
-| [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 4.7.0 |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.6.0 |
