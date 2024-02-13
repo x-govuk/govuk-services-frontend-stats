@@ -556,7 +556,7 @@
     {
       "repo": "communitiesuk/epb-register-api",
       "serviceName": "Get a new energy certificate",
-      "name": "Energy performance of buildings register infrastructure",
+      "name": "Energy performance of buildings register api",
       "skip": "maybe"
     },
     {
@@ -574,6 +574,18 @@
     {
       "repo": "communitiesuk/epb-register-api",
       "serviceName": "Find an energy certificate",
+      "name": "Energy performance of buildings register infrastructure",
+      "skip": "maybe"
+    },
+    {
+      "repo": "communitiesuk/epb-aws-infrastructure",
+      "serviceName": "Find an energy certificate",
+      "name": "Energy performance of buildings register infrastructure",
+      "skip": "maybe"
+    },
+    {
+      "repo": "communitiesuk/epb-aws-infrastructure",
+      "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register infrastructure",
       "skip": "maybe"
     }
