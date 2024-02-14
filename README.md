@@ -22,6 +22,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.0.0 |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.0.0 |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.0.0 |
+| [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/packages/applicant/) | ^4.8 |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^4.7.0 |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.7.0 |
@@ -51,7 +52,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/components/page/) | 4.4.1 |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^4.3.1 |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.3.1 |
-| [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/packages/applicant/) | 4.2.0 |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 4.2.0 |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.2.0 |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^4.0.1 |

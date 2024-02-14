@@ -169,7 +169,7 @@
       "repo": "cabinetoffice/gap-find-apply-web",
       "packageLocation": "packages/applicant/",
       "serviceName": "Find a grant",
-      "govukversion": "4.2.0"
+      "govukversion": "^4.8"
     },
     {
       "repo": "ministryofjustice/fala",
@@ -579,7 +579,7 @@
     },
     {
       "repo": "communitiesuk/epb-aws-infrastructure",
-      "serviceName": "Find an energy certificate",
+      "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register infrastructure",
       "skip": "maybe"
     },
