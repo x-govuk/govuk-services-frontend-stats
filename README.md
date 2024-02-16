@@ -34,6 +34,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^4.7.0 |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^4.7.0 |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | 4.7.0 |
+| [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.7.0 |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)](https://github.com/trade-tariff/trade-tariff-frontend/) | ^4.7.0 |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |
@@ -51,7 +52,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/components/page/) | 4.4.1 |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^4.3.1 |
-| [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.3.1 |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 4.2.0 |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.2.0 |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^4.0.1 |
