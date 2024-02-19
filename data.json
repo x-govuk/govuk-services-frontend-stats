@@ -588,6 +588,17 @@
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register infrastructure",
       "skip": "maybe"
+    },
+    {
+      "repo": "DFE-Digital/early-years-foundation-recovery",
+      "serviceName": "Early years child development training",
+      "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "trade-tariff/trade-tariff-duty-calculator",
+      "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
+      "name": "Calculator front end",
+      "govukversion": "^4.7.0"
     }
   ]
 }

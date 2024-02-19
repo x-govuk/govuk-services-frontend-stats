@@ -27,6 +27,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.7.0 |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/Childrens-Social-Care-CPD/) | ^4.7.0 |
+| [Early years child development training](https://github.com//) | ^4.7.0 |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | 4.7.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-account-management-frontend/) | ^4.7.0 |
 | [GOV.UK One Login (Account management frontend)](https://github.com/govuk-one-login/di-account-management-frontend/) | ^4.7.0 |
@@ -35,7 +36,8 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^4.7.0 |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | 4.7.0 |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.7.0 |
-| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)](https://github.com/trade-tariff/trade-tariff-frontend/) | ^4.7.0 |
+| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) (Front end)](https://github.com/trade-tariff/trade-tariff-frontend/) | ^4.7.0 |
+| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) (Calculator front end)](https://github.com//) | ^4.7.0 |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |
