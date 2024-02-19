@@ -588,6 +588,13 @@
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register infrastructure",
       "skip": "maybe"
+    },
+    {
+      "repo": "alphagov/govuk_publishing_components",
+      "serviceName": "GOV.UK",
+      "govukversion": "^4.8.0",
+      "name": "Frontend components for GOV.UK applications",
+      "skip": "no"
     }
   ]
 }
