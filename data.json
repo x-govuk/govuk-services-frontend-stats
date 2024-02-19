@@ -204,7 +204,7 @@
     {
       "repo": "DEFRA/flood-app",
       "serviceName": "Check for flooding",
-      "govukversion": "^4.6.0"
+      "govukversion": "^4.8.0"
     },
     {
       "repo": "alphagov/travel-advice-publisher",
@@ -215,13 +215,13 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.0.0",
+      "govukversion": "5.1.0",
       "name": "Product pages"
     },
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "~5.0.0",
+      "govukversion": "5.1.0",
       "name": "Admin application"
     },
     {
@@ -388,7 +388,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.1.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -531,20 +531,20 @@
     {
       "repo": "govuk-one-login/onboarding-product-page",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^4.5.0",
+      "govukversion": "^4.8.0",
       "name": "Product page"
     },
     {
       "repo": "govuk-one-login/onboarding-self-service-experience",
       "serviceName": "GOV.UK One Login",
       "packageLocation": "express/",
-      "govukversion": "^4.5.0",
+      "govukversion": "^4.8.0",
       "name": "Admin tool"
     },
     {
       "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^4.7.0",
+      "govukversion": "^4.8.0",
       "name": "Account management frontend"
     },
     {

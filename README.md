@@ -6,50 +6,50 @@ This shows the current known govuk-frontend version of services, based on their 
 | Service | govuk-frontend version |
 | ------- | --------------------- |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.1.0 |
+| [GOV.UK Forms (Product pages)](https://github.com/alphagov/forms-product-page/) | 5.1.0 |
+| [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | 5.1.0 |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.1.0 |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.1.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.1.0 |
+| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.1.0 |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 5.1.0 |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.0.0 |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.0.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.0.0 |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.0.0 |
-| [GOV.UK Forms (Product pages)](https://github.com/alphagov/forms-product-page/) | ^5.0.0 |
-| [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | ~5.0.0 |
 | [GOV.UK Forms (Forms runner)](https://github.com/alphagov/forms-runner/) | ~5.0.0 |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.0.0 |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.0.0 |
-| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.0.0 |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.0.0 |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.0.0 |
+| [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.8.0 |
+| [GOV.UK One Login (Product page)](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.8.0 |
+| [GOV.UK One Login (Admin tool)](https://github.com/govuk-one-login/onboarding-self-service-experience/express/) | ^4.8.0 |
+| [GOV.UK One Login (Account management frontend)](https://github.com/govuk-one-login/di-account-management-frontend/) | ^4.8.0 |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/packages/applicant/) | ^4.8 |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^4.7.0 |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.7.0 |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/Childrens-Social-Care-CPD/) | ^4.7.0 |
-| [Early years child development training](https://github.com//) | ^4.7.0 |
+| [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^4.7.0 |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | 4.7.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-account-management-frontend/) | ^4.7.0 |
-| [GOV.UK One Login (Account management frontend)](https://github.com/govuk-one-login/di-account-management-frontend/) | ^4.7.0 |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^4.7.0 |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^4.7.0 |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^4.7.0 |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | 4.7.0 |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.7.0 |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) (Front end)](https://github.com/trade-tariff/trade-tariff-frontend/) | ^4.7.0 |
-| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) (Calculator front end)](https://github.com//) | ^4.7.0 |
+| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) (Calculator front end)](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | ^4.7.0 |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |
-| [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.6.0 |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 |
 | [Get an adviser](https://github.com/DFE-Digital/get-teacher-training-adviser-service/) | ^4.6.0 |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^4.6.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-onboarding-product-page/) | ^4.5.0 |
 | [GOV.UK One Login](https://github.com/alphagov/di-onboarding-self-service-experience/express/) | ^4.5.0 |
-| [GOV.UK One Login (Product page)](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.5.0 |
-| [GOV.UK One Login (Admin tool)](https://github.com/govuk-one-login/onboarding-self-service-experience/express/) | ^4.5.0 |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^4.5.0 |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/components/page/) | 4.4.1 |
