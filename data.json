@@ -421,20 +421,25 @@
       "skip": true
     },
     {
-      "repo": "alphagov/di-onboarding-product-page",
+      "repo": "govuk-one-login/onboarding-product-page",
       "serviceName": "GOV.UK One Login",
       "govukversion": "^4.5.0"
     },
     {
-      "repo": "alphagov/di-onboarding-self-service-experience",
+      "repo": "govuk-one-login/onboarding-self-service-experience",
       "serviceName": "GOV.UK One Login",
       "packageLocation": "express/",
       "govukversion": "^4.5.0"
     },
     {
-      "repo": "alphagov/di-account-management-frontend",
+      "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
       "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "govuk-one-login/authentication-frontend",
+      "serviceName": "GOV.UK One Login",
+      "govukversion": "^4.8.0"
     },
     {
       "repo": "DEFRA/flood-xws-contact-web",
