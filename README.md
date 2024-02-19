@@ -6,6 +6,8 @@ This shows the current known govuk-frontend version of services, based on their 
 | Service | govuk-frontend version |
 | ------- | --------------------- |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.1.0 |
+| [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.1.0 |
+| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.1.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.1.0 |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 5.1.0 |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.0.0 |
@@ -15,9 +17,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [GOV.UK Forms (Product pages)](https://github.com/alphagov/forms-product-page/) | ^5.0.0 |
 | [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | ~5.0.0 |
 | [GOV.UK Forms (Forms runner)](https://github.com/alphagov/forms-runner/) | ~5.0.0 |
-| [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.0.0 |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.0.0 |
-| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.0.0 |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.0.0 |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.0.0 |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.0.0 |
