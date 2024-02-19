@@ -95,7 +95,7 @@
     {
       "repo": "alphagov/paas-product-pages",
       "serviceName": "GOV.UK Platform as a Service",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.1.0"
     },
     {
       "repo": "UKForeignOffice/fco-consular-appointments-slotpicker",
@@ -551,7 +551,7 @@
       "repo": "communitiesuk/epb-frontend",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register front end",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.1.0"
     },
     {
       "repo": "communitiesuk/epb-register-api",
