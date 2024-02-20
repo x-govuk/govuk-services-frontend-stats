@@ -255,7 +255,7 @@
       "repo": "DFE-Digital/get-teacher-training-adviser-service",
       "serviceName": "Get an adviser",
       "govukversion": "^4.6.0",
-      "skip": "maybe"
+      "skip": "true"
     },
     {
       "repo": "alphagov/frontend",
@@ -542,19 +542,19 @@
       "repo": "communitiesuk/epb-register-api",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register api",
-      "skip": "maybe"
+      "skip": "true"
     },
     {
       "repo": "communitiesuk/epb-auth-server",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register auth server",
-      "skip": "maybe"
+      "skip": "true"
     },
     {
       "repo": "communitiesuk/epb-data-warehouse",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register data warehouse",
-      "skip": "maybe"
+      "skip": "true"
     },
     {
       "repo": "communitiesuk/epb-register-api",
@@ -566,7 +566,7 @@
       "repo": "communitiesuk/epb-aws-infrastructure",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register infrastructure",
-      "skip": "maybe"
+      "skip": "true"
     },
     {
       "repo": "DFE-Digital/early-years-foundation-recovery",
@@ -594,7 +594,7 @@
       "repo": "ministryofjustice/prison-visits-public",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing service",
-      "skip": "maybe"
+      "skip": "true"
     },
     {
       "repo": "DEFRA/rod-catch-returns-frontend",
