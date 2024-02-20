@@ -254,7 +254,6 @@
     {
       "repo": "DFE-Digital/get-teacher-training-adviser-service",
       "serviceName": "Get an adviser",
-      "govukversion": "^4.6.0",
       "skip": true
     },
     {
