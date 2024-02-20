@@ -5,6 +5,7 @@ This shows the current known govuk-frontend version of services, based on their 
 
 | Service | govuk-frontend version |
 | ------- | --------------------- |
+| [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.1.0 |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.1.0 |
 | [GOV.UK Forms (Product pages)](https://github.com/alphagov/forms-product-page/) | 5.1.0 |
 | [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | 5.1.0 |
@@ -15,7 +16,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.1.0 |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 5.1.0 |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.0.0 |
-| [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.0.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.0.0 |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.0.0 |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.0.0 |
@@ -28,13 +28,13 @@ This shows the current known govuk-frontend version of services, based on their 
 | [GOV.UK One Login (Account management frontend)](https://github.com/govuk-one-login/di-account-management-frontend/) | ^4.8.0 |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^4.8.0 |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/packages/applicant/) | ^4.8 |
+| [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^4.7.8 |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^4.7.0 |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.7.0 |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/Childrens-Social-Care-CPD/) | ^4.7.0 |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^4.7.0 |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | 4.7.0 |
-| [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^4.7.0 |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^4.7.0 |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^4.7.0 |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | 4.7.0 |
