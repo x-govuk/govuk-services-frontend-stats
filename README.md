@@ -3,8 +3,8 @@
 
 This shows the current known govuk-frontend version of services, based on their public source code.
 
-| Service | govuk-frontend version |
-| ------- | --------------------- |
+| Service | GOVUK Frontend version |
+| ------- | ---------------------:|
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.1.0 |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.1.0 |
 | [GOV.UK Forms (Product pages)](https://github.com/alphagov/forms-product-page/) | 5.1.0 |
