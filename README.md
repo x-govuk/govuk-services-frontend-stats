@@ -49,7 +49,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 |
-| [Get an adviser](https://github.com/DFE-Digital/get-teacher-training-adviser-service/) | ^4.6.0 |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^4.6.0 |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^4.5.0 |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 |
