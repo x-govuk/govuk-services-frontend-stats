@@ -34,7 +34,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/Childrens-Social-Care-CPD/) | ^4.7.0 |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^4.7.0 |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | 4.7.0 |
-| [GOV.UK One Login](https://github.com/alphagov/di-account-management-frontend/) | ^4.7.0 |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^4.7.0 |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^4.7.0 |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^4.7.0 |
@@ -50,8 +49,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 |
 | [Get an adviser](https://github.com/DFE-Digital/get-teacher-training-adviser-service/) | ^4.6.0 |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^4.6.0 |
-| [GOV.UK One Login](https://github.com/alphagov/di-onboarding-product-page/) | ^4.5.0 |
-| [GOV.UK One Login](https://github.com/alphagov/di-onboarding-self-service-experience/express/) | ^4.5.0 |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^4.5.0 |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/components/page/) | 4.4.1 |

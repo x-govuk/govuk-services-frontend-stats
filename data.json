@@ -422,22 +422,6 @@
       "skip": true
     },
     {
-      "repo": "alphagov/di-onboarding-product-page",
-      "serviceName": "GOV.UK One Login",
-      "govukversion": "^4.5.0"
-    },
-    {
-      "repo": "alphagov/di-onboarding-self-service-experience",
-      "serviceName": "GOV.UK One Login",
-      "packageLocation": "express/",
-      "govukversion": "^4.5.0"
-    },
-    {
-      "repo": "alphagov/di-account-management-frontend",
-      "serviceName": "GOV.UK One Login",
-      "govukversion": "^4.7.0"
-    },
-    {
       "repo": "DEFRA/flood-xws-contact-web",
       "serviceName": "Sign up for flood warnings",
       "govukversion": "4.0.0",
