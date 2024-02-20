@@ -12,6 +12,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [GOV.UK Forms (Forms runner)](https://github.com/alphagov/forms-runner/) | 5.1.0 |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.1.0 |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.1.0 |
+| [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/packages/gafl-webapp-service/) | ^5.1.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.1.0 |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.1.0 |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 5.1.0 |
