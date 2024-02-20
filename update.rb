@@ -84,6 +84,7 @@ end
 # Update data file
 File.open("data.json", 'w') do |file|
   file.write(JSON.pretty_generate(data))
+  file.write "\n"
 end
 
 repos_with_govuk_frontend = data["repos"].select {|repo|  repo["govukversion"] }
