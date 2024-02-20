@@ -588,7 +588,8 @@
     {
       "repo": "DEFRA/rod-licensing",
       "serviceName": "Get a rod fishing licence",
-      "skip": "maybe"
+      "packageLocation": "packages/gafl-webapp-service/",
+      "govukversion": "^5.1.0"
     },
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
