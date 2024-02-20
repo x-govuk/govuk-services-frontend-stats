@@ -109,8 +109,8 @@ File.open("README.md", 'w') do |file|
 
   file.write "This shows the current known govuk-frontend version of services, based on their public source code.\n\n"
 
-  file.write "| Service | govuk-frontend version |\n"
-  file.write "| ------- | --------------------- |\n"
+  file.write "| Service | GOVUK Frontend version |\n"
+  file.write "| ------- | ---------------------:|\n"
 
   repos_with_govuk_frontend.each do |repo|
 
