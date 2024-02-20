@@ -445,11 +445,6 @@
       "govukversion": "5.0.0"
     },
     {
-      "repo": "DFE-Digital/ecf-engage-and-learn",
-      "serviceName": "Support for early career teachers",
-      "govukversion": "^3.12.0"
-    },
-    {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
       "govukversion": "^5.0.0"
@@ -605,6 +600,11 @@
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
       "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "DFE-Digital/support-for-early-career-teachers",
+      "serviceName": "Support for early career teachers",
+      "govukversion": "4.7.0"
     }
   ]
 }
