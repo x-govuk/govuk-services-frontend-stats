@@ -45,6 +45,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^4.7.0 |
+| [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 4.7.0 |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 |
@@ -74,7 +75,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^3.13.0 |
 | [The King’s Award for Voluntary Service](https://github.com/bitzesty/qavs-v2/) | ^3.13.0 |
 | [Get information about schools](https://github.com/DFE-Digital/get-information-about-schools/Web/Edubase.Web.UI/) | ^3.12.0 |
-| [Support for early career teachers](https://github.com/DFE-Digital/ecf-engage-and-learn/) | ^3.12.0 |
 | [Report your Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/) | ^3.11.0 |
 | [Report modern slavery](https://github.com/UKHomeOffice/modern-slavery/) | ^2.7.0 |
 | [Apply for a divorce](https://github.com/hmcts/div-petitioner-frontend/) | ^2.11.0 |
