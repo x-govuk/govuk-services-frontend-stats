@@ -26,7 +26,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [GOV.UK One Login (Product page)](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.8.0 |
 | [GOV.UK One Login (Admin tool)](https://github.com/govuk-one-login/onboarding-self-service-experience/express/) | ^4.8.0 |
 | [GOV.UK One Login (Account management frontend)](https://github.com/govuk-one-login/di-account-management-frontend/) | ^4.8.0 |
-| [Get help with the cost of prison visits](https://github.com//) | ^4.8.0 |
+| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^4.8.0 |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/packages/applicant/) | ^4.8 |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^4.7.0 |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 |
@@ -44,7 +44,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) (Calculator front end)](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | ^4.7.0 |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |
-| [Send legal mail to prisons](https://github.com//) | ^4.7.0 |
+| [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^4.7.0 |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 |
@@ -66,7 +66,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Find and Use an API](https://github.com/DFE-Digital/eapim-developer-hub/) | ^3.6.0 |
 | [National Pupil Database (NPD)](https://github.com/DFE-Digital/npd-find-and-explore/) | ^3.5.0 |
 | [Apply for innovation funding](https://github.com/InnovateUKGitHub/innovation-funding-service/ifs-web-service/) | ^3.3.0 |
-| [Report your salmon or sea trout catch](https://github.com//) | ^3.15.0 |
+| [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | ^3.15.0 |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/packages/web-comment/) | ^3.14.0 |
 | [Apply for a Gender Recognition Certificate](https://github.com/cabinetoffice/grc-app/) | ^3.14.0 |
 | [Coronavirus (COVID-19) in the UK ](https://github.com/publichealthengland/coronavirus-dashboard/) | ^3.14.0 |
