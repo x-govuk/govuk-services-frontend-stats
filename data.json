@@ -90,7 +90,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.1.0"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -174,7 +174,7 @@
     {
       "repo": "ministryofjustice/fala",
       "serviceName": "Find a legal aid adviser or family mediator",
-      "govukversion": "^3.14.0"
+      "govukversion": "^4.8.0"
     },
     {
       "repo": "DFE-Digital/npd-find-and-explore",
@@ -281,7 +281,7 @@
     {
       "repo": "DFE-Digital/early-careers-framework",
       "serviceName": "Manage training for early career teachers",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.1.0"
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
@@ -604,6 +604,34 @@
       "repo": "DFE-Digital/support-for-early-career-teachers",
       "serviceName": "Support for early career teachers",
       "govukversion": "4.7.0"
+    },
+    {
+      "repo": "alphagov/platforms-product-page",
+      "serviceName": "GOV.UK Digital Service Platform ",
+      "skip": "maybe"
+    },
+    {
+      "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
+      "serviceName": "Visit someone in prison",
+      "name": "Staff-facing manage service",
+      "govukversion": "^5.1.0"
+    },
+    {
+      "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
+      "serviceName": "Visit someone in prison",
+      "name": "Public-facing booking service",
+      "govukversion": "^5.1.0"
+    },
+    {
+      "repo": "alphagov/platforms-product-page",
+      "serviceName": "GOV.UK UK Government Security",
+      "skip": "maybe"
+    },
+    {
+      "repo": "govuk-one-login/authentication-frontend",
+      "serviceName": "GOV.UK One Login",
+      "name": "Authentication frontend",
+      "govukversion": "^4.8.0"
     }
   ]
 }
