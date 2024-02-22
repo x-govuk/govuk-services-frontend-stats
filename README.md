@@ -5,32 +5,34 @@ This shows the current known govuk-frontend version of services, based on their 
 
 | Service | GOVUK Frontend version |
 | ------- | ---------------------:|
+| [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.2.0 |
+| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.2.0 |
+| [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.2.0 |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.1.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.1.0 |
-| [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.1.0 |
 | [GOV.UK Forms (Product pages)](https://github.com/alphagov/forms-product-page/) | 5.1.0 |
 | [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | 5.1.0 |
 | [GOV.UK Forms (Forms runner)](https://github.com/alphagov/forms-runner/) | 5.1.0 |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.1.0 |
-| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.1.0 |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/packages/gafl-webapp-service/) | ^5.1.0 |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.1.0 |
-| [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.1.0 |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.1.0 |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 5.1.0 |
-| [Visit someone in prison](https://github.com//) | ^5.1.0 |
-| [Visit someone in prison](https://github.com//) | ^5.1.0 |
+| [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 |
+| [Visit someone in prison (Staff-facing manage service)](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.1.0 |
+| [Visit someone in prison (Public-facing booking service)](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.1.0 |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.0.0 |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.0.0 |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.0.0 |
-| [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.0.0 |
+| [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.0.0 |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.0.0 |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.8.0 |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | ^4.8.0 |
+| [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^4.8.0 |
 | [GOV.UK One Login (Product page)](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.8.0 |
 | [GOV.UK One Login (Admin tool)](https://github.com/govuk-one-login/onboarding-self-service-experience/express/) | ^4.8.0 |
 | [GOV.UK One Login (Account management frontend)](https://github.com/govuk-one-login/di-account-management-frontend/) | ^4.8.0 |
-| [GOV.UK One Login (Authentication frontend)](https://github.com//) | ^4.8.0 |
+| [GOV.UK One Login (Authentication frontend)](https://github.com/govuk-one-login/authentication-frontend/) | ^4.8.0 |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^4.8.0 |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/packages/applicant/) | ^4.8 |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^4.7.8 |
@@ -54,14 +56,12 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^4.6.0 |
-| [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^4.5.0 |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/components/page/) | 4.4.1 |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^4.3.1 |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 4.2.0 |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.2.0 |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^4.0.1 |
-| [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^4.0.1 |
 | [Gender pay gap reporting](https://github.com/cabinetoffice/gender-pay-gap/GenderPayGap.WebUI/) | ^4.0.1 |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^4.0.1 |
 | [Sign up for flood warnings](https://github.com/DEFRA/flood-xws-contact-web/) | 4.0.0 |

@@ -115,7 +115,7 @@
     {
       "repo": "alphagov/govuk-design-system",
       "serviceName": "GOV.UK Design System",
-      "govukversion": "^5.1.0",
+      "govukversion": "^5.2.0",
       "name": "Website"
     },
     {
@@ -199,7 +199,7 @@
     {
       "repo": "DEFRA/fmp-app",
       "serviceName": "Flood map for planning",
-      "govukversion": "^4.0.1"
+      "govukversion": "^4.8.0"
     },
     {
       "repo": "DEFRA/flood-app",
@@ -348,7 +348,7 @@
     {
       "repo": "UKGovernmentBEIS/beis-opss-psd",
       "serviceName": "Product safety database",
-      "govukversion": "5.1.0"
+      "govukversion": "5.2.0"
     },
     {
       "repo": "alphagov/govuk-prototype-kit",
@@ -358,7 +358,7 @@
     {
       "repo": "DFE-Digital/publish-teacher-training",
       "serviceName": "Publish teacher training courses",
-      "govukversion": "^4.5.0"
+      "govukversion": "5.0.0"
     },
     {
       "repo": "bitzesty/qae",
@@ -441,7 +441,7 @@
     {
       "repo": "communitiesuk/submit-social-housing-lettings-and-sales-data",
       "serviceName": "Submit social housing lettings and sales data (CORE)",
-      "govukversion": "5.0.0"
+      "govukversion": "5.1.0"
     },
     {
       "repo": "DFE-Digital/teaching-vacancies",
@@ -530,7 +530,7 @@
       "repo": "communitiesuk/epb-frontend",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register front end",
-      "govukversion": "^5.1.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "communitiesuk/epb-register-api",
@@ -607,7 +607,7 @@
     },
     {
       "repo": "alphagov/platforms-product-page",
-      "serviceName": "GOV.UK Digital Service Platform ",
+      "serviceName": "GOV.UK UK Government Security",
       "skip": "maybe"
     },
     {
