@@ -8,7 +8,7 @@
     {
       "repo": "DFE-Digital/access-your-teaching-qualifications",
       "serviceName": "Access your teaching qualifications",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
@@ -95,7 +95,7 @@
     {
       "repo": "alphagov/paas-product-pages",
       "serviceName": "GOV.UK Platform as a Service",
-      "govukversion": "^5.1.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "UKForeignOffice/fco-consular-appointments-slotpicker",
@@ -281,7 +281,7 @@
     {
       "repo": "DFE-Digital/early-careers-framework",
       "serviceName": "Manage training for early career teachers",
-      "govukversion": "^5.1.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
@@ -353,12 +353,12 @@
     {
       "repo": "alphagov/govuk-prototype-kit",
       "serviceName": "GOV.UK Prototype Kit",
-      "govukversion": "5.0.0"
+      "govukversion": "5.2.0"
     },
     {
       "repo": "DFE-Digital/publish-teacher-training",
       "serviceName": "Publish teacher training courses",
-      "govukversion": "5.0.0"
+      "govukversion": "5.2.0"
     },
     {
       "repo": "bitzesty/qae",
@@ -446,7 +446,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",

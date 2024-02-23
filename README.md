@@ -5,27 +5,27 @@ This shows the current known govuk-frontend version of services, based on their 
 
 | Service | GOVUK Frontend version |
 | ------- | ---------------------:|
+| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.2.0 |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.2.0 |
+| [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.2.0 |
+| [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.2.0 |
+| [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.2.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.2.0 |
+| [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.2.0 |
+| [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.2.0 |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.1.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.1.0 |
 | [GOV.UK Forms (Product pages)](https://github.com/alphagov/forms-product-page/) | 5.1.0 |
 | [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | 5.1.0 |
 | [GOV.UK Forms (Forms runner)](https://github.com/alphagov/forms-runner/) | 5.1.0 |
-| [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.1.0 |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/packages/gafl-webapp-service/) | ^5.1.0 |
-| [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.1.0 |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.1.0 |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 5.1.0 |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 |
 | [Visit someone in prison (Staff-facing manage service)](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.1.0 |
 | [Visit someone in prison (Public-facing booking service)](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.1.0 |
-| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.0.0 |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.0.0 |
-| [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.0.0 |
-| [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.0.0 |
-| [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.0.0 |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.8.0 |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | ^4.8.0 |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^4.8.0 |
