@@ -6,13 +6,17 @@ This shows the current known govuk-frontend version of services, based on their 
 | Service | GOVUK Frontend version |
 | ------- | ---------------------:|
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.2.0 |
+| [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.2.0 |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.2.0 |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.2.0 |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.2.0 |
+| [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.2.0 |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.2.0 |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.2.0 |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.2.0 |
+| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.2.0 |
+| [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.2.0 |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.2.0 |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.1.0 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.1.0 |
@@ -20,7 +24,6 @@ This shows the current known govuk-frontend version of services, based on their 
 | [GOV.UK Forms (Admin application)](https://github.com/alphagov/forms-admin/) | 5.1.0 |
 | [GOV.UK Forms (Forms runner)](https://github.com/alphagov/forms-runner/) | 5.1.0 |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/packages/gafl-webapp-service/) | ^5.1.0 |
-| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.1.0 |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/cosmetics-web/) | 5.1.0 |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 |
 | [Visit someone in prison (Staff-facing manage service)](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.1.0 |
@@ -41,16 +44,13 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.7.0 |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/Childrens-Social-Care-CPD/) | ^4.7.0 |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^4.7.0 |
-| [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | 4.7.0 |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^4.7.0 |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^4.7.0 |
-| [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | 4.7.0 |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.7.0 |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) (Front end)](https://github.com/trade-tariff/trade-tariff-frontend/) | ^4.7.0 |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) (Calculator front end)](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | ^4.7.0 |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |
-| [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^4.7.0 |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 4.7.0 |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |

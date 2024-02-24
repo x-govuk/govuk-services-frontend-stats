@@ -388,7 +388,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.1.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -494,7 +494,7 @@
     {
       "repo": "ministryofjustice/find-unclaimed-court-money",
       "serviceName": "Find unclaimed court money",
-      "govukversion": "4.7.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "alphagov/finder-frontend",
@@ -505,7 +505,7 @@
     {
       "repo": "ministryofjustice/help-with-child-arrangements",
       "serviceName": "Get help with child arrangements",
-      "govukversion": "4.7.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "govuk-one-login/onboarding-product-page",
@@ -598,7 +598,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^4.7.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
