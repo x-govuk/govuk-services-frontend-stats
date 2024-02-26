@@ -102,33 +102,38 @@ repos_with_govuk_frontend.sort! do |a, b|
   end
 end
 
+def has_tudor_crown?(version)
+  version = version.gsub(/[\^\~]/, "")
+  version.start_with?("3.15") || version.start_with?("4.8") || (version.start_with?("5") && !version.start_with?("5.0"))
+end
+
 # Update README.md
 File.open("README.md", 'w') do |file|
 
-  file.write "# GOV.UK services - govuk-frontend version status\n\n\n"
+  file.write "# GOV.UK services – GOV.UK Frontend versions\n\n"
 
-  file.write "This shows the current known govuk-frontend version of services, based on their public source code.\n\n"
+  file.write "The following table shows the current version of [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) used by different services, based on their publicly available source code.\n\n"
 
-  file.write "| Service | GOVUK Frontend version |\n"
-  file.write "| ------- | ---------------------:|\n"
+  file.write "| Service | GOV.UK\u00a0Frontend | Tudor\u00a0Crown? |\n"
+  file.write "| :------ | -------------------: | :---------------: |\n"
 
   repos_with_govuk_frontend.each do |repo|
 
     display_name = repo["serviceName"].to_s
+    repo_url = "https://github.com/#{repo['repo']}/#{repo['packageLocation']}"
+    version = repo["govukversion"].to_s
 
     other_repos_for_same_service = repos_with_govuk_frontend.detect do |other_repo|
       (other_repo["serviceName"] == repo["serviceName"]) && (other_repo["repo"] != repo["repo"])
     end
 
     if other_repos_for_same_service && repo["name"]
-      display_name += " (" + repo["name"] + ")"
+      display_name += " – " + repo["name"]
     end
 
-    file.write "| [" + display_name + "](https://github.com/" + repo["repo"].to_s + "/" + repo["packageLocation"].to_s + ") | " + repo["govukversion"].to_s + " |\n"
+    tudor_crown = has_tudor_crown?(version) ? "👑" : ""
+
+    file.write "| [#{display_name}](#{repo_url}) | #{version} | #{tudor_crown} |\n"
   end
 
-  file.write "\n"
-
 end
-
-
