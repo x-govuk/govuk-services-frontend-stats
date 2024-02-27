@@ -110,8 +110,6 @@ end
 # Update README.md
 File.open("README.md", 'w') do |file|
 
-  file.write "# GOV.UK services – GOV.UK Frontend versions\n\n"
-
   file.write "The following table shows the current version of [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) used by different services, based on their publicly available source code.\n\n"
 
   file.write "| Service | GOV.UK\u00a0Frontend | Tudor\u00a0Crown? |\n"
