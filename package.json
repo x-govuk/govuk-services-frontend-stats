@@ -1,0 +1,29 @@
+{
+  "name": "govuk-services-frontend-stats",
+  "version": "0.0.1",
+  "description": "Documentation for govuk-rspec-helpers",
+  "homepage": "https://x-govuk.github.io/govuk-services-frontend-stats/",
+  "bugs": {
+    "url": "https://github.com/x-govuk/govuk-services-frontend-stats/issues"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/x-govuk/govuk-services-frontend-stats.git"
+  },
+  "scripts": {
+    "build": "eleventy --quiet",
+    "start": "eleventy --serve --quiet"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@11ty/eleventy": "^2.0.1",
+    "@x-govuk/govuk-eleventy-plugin": "^5.0.3",
+    "eleventy": "^1.0.6"
+  },
+  "engines": {
+    "node": "^20"
+  }
+}
