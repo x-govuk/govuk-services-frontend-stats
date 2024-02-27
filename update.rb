@@ -120,7 +120,13 @@ File.open("README.md", 'w') do |file|
   repos_with_govuk_frontend.each do |repo|
 
     display_name = repo["serviceName"].to_s
-    repo_url = "https://github.com/#{repo['repo']}/#{repo['packageLocation']}"
+
+    repo_url = "https://github.com/#{repo['repo']}/"
+
+    if repo['packageLocation']
+      repo_url += "tree/main/#{repo['packageLocation']}"
+    end
+
     version = repo["govukversion"].to_s
 
     other_repos_for_same_service = repos_with_govuk_frontend.detect do |other_repo|
