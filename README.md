@@ -7,6 +7,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | ------- | ---------------------:|
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.2.0 |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.2.0 |
+| [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.2.0 |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.2.0 |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.2.0 |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.2.0 |
@@ -29,8 +30,9 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/packages/gafl-webapp-service/) | ^5.1.0 |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 |
 | [Visit someone in prison (Public-facing booking service)](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.1.0 |
-| [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.0.0 |
+| [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.0.0 |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.8.0 |
+| [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | ^4.8.0 |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^4.8.0 |
 | [GOV.UK One Login (Product page)](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.8.0 |
@@ -41,9 +43,7 @@ This shows the current known govuk-frontend version of services, based on their 
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^4.8.0 |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/packages/applicant/) | ^4.8 |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^4.7.8 |
-| [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^4.7.0 |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 |
-| [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.7.0 |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/Childrens-Social-Care-CPD/) | ^4.7.0 |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^4.7.0 |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^4.7.0 |

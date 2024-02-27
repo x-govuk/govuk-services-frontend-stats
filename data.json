@@ -40,7 +40,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^4.7.0"
+      "govukversion": "^5.0.0"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -80,7 +80,7 @@
     {
       "repo": "ministryofjustice/cla_public",
       "serviceName": "Check if you can get legal aid",
-      "govukversion": "^4.7.0"
+      "govukversion": "^4.8.0"
     },
     {
       "repo": "UKGovernmentBEIS/payment-practices-reporting",
@@ -158,7 +158,7 @@
     {
       "repo": "DFE-Digital/find-a-lost-trn",
       "serviceName": "Find a lost teacher reference number (TRN)",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "DFE-Digital/teaching-school-hub-finder",
