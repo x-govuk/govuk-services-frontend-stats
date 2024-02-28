@@ -7,6 +7,9 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.2.0 | 👑 |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.2.0 | 👑 |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.2.0 | 👑 |
+| [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.2.0 | 👑 |
+| [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | 5.2.0 | 👑 |
+| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | 5.2.0 | 👑 |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.2.0 | 👑 |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | 👑 |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.2.0 | 👑 |
@@ -17,12 +20,10 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.2.0 | 👑 |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.2.0 | 👑 |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.2.0 | 👑 |
+| [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.2.0 | 👑 |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.2.0 | 👑 |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.2.0 | 👑 |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.1.0 | 👑 |
-| [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.1.0 | 👑 |
-| [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | 5.1.0 | 👑 |
-| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | 5.1.0 | 👑 |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.1.0 | 👑 |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.1.0 | 👑 |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 | 👑 |
@@ -51,7 +52,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | ^4.7.0 |  |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 |  |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 |  |
-| [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 4.7.0 |  |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 |  |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 |  |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 |  |

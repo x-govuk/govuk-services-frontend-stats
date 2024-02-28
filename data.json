@@ -215,13 +215,13 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.1.0",
+      "govukversion": "5.2.0",
       "name": "Product pages"
     },
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.1.0",
+      "govukversion": "5.2.0",
       "name": "Admin application"
     },
     {
@@ -478,7 +478,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.1.0",
+      "govukversion": "5.2.0",
       "name": "Forms runner"
     },
     {
@@ -603,7 +603,7 @@
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
       "serviceName": "Support for early career teachers",
-      "govukversion": "4.7.0"
+      "govukversion": "5.2.0"
     },
     {
       "repo": "alphagov/platforms-product-page",
