@@ -112,7 +112,7 @@ File.open("README.md", 'w') do |file|
 
   file.write "The following table shows the current version of [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) used by different services, based on their publicly available source code.\n\n"
 
-  file.write "| Service | GOV.UK\u00a0Frontend | Tudor\u00a0Crown? |\n"
+  file.write "| Service | Frontend | Crown |\n"
   file.write "| :------ | -------------------: | :---------------: |\n"
 
   repos_with_govuk_frontend.each do |repo|
@@ -135,7 +135,11 @@ File.open("README.md", 'w') do |file|
       display_name += " – " + repo["name"]
     end
 
-    tudor_crown = has_tudor_crown?(version) ? "👑" : ""
+    tudor_crown = "<img src=\"assets/"
+    tudor_crown += has_tudor_crown?(version) ? "new" : "old"
+    tudor_crown += "-crown.svg\" alt=\""
+    tudor_crown += has_tudor_crown?(version) ? "New" : "Old"
+    tudor_crown += " crown\">"
 
     file.write "| [#{display_name}](#{repo_url}) | #{version} | #{tudor_crown} |\n"
   end
