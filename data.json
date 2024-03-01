@@ -276,7 +276,7 @@
     {
       "repo": "UKHomeOfficeForms/hof",
       "serviceName": "Home Office Forms",
-      "govukversion": "3.14"
+      "govukversion": "3.15"
     },
     {
       "repo": "DFE-Digital/early-careers-framework",
@@ -321,7 +321,7 @@
     {
       "repo": "alphagov/pay-frontend",
       "serviceName": "GOV.UK Pay",
-      "govukversion": "^4.7.8"
+      "govukversion": "^4.8.0"
     },
     {
       "repo": "ministryofjustice/peoplefinder",
@@ -332,7 +332,7 @@
       "repo": "DFE-Digital/plan-technology-for-your-school",
       "serviceName": "Plan technology for your school",
       "packageLocation": "src/Dfe.PlanTech.Web.Node/",
-      "govukversion": "^4.7.0"
+      "govukversion": "^5.1.0"
     },
     {
       "repo": "digital-land/digital-land.info",
@@ -378,7 +378,7 @@
     {
       "repo": "DFE-Digital/refer-serious-misconduct",
       "serviceName": "Refer serious misconduct by a teacher in England",
-      "govukversion": "4.7.0"
+      "govukversion": "5.1.0"
     },
     {
       "repo": "DFE-Digital/npq-registration",

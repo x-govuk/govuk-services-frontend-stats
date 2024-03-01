@@ -27,6 +27,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.0.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
@@ -39,10 +41,10 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^4.7.8 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
@@ -50,8 +52,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.6.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 4.6.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
@@ -68,9 +68,9 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for innovation funding](https://github.com/InnovateUKGitHub/innovation-funding-service/tree/main/ifs-web-service/) | ^3.3.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/tree/main/packages/web-comment/) | ^3.15.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | ^3.15.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Home Office Forms](https://github.com/UKHomeOfficeForms/hof/) | 3.15 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for a Gender Recognition Certificate](https://github.com/cabinetoffice/grc-app/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Coronavirus (COVID-19) in the UK ](https://github.com/publichealthengland/coronavirus-dashboard/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Home Office Forms](https://github.com/UKHomeOfficeForms/hof/) | 3.14 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^3.13.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [The King’s Award for Voluntary Service](https://github.com/bitzesty/qavs-v2/) | ^3.13.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Get information about schools](https://github.com/DFE-Digital/get-information-about-schools/tree/main/Web/Edubase.Web.UI/) | ^3.12.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
