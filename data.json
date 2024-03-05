@@ -35,7 +35,7 @@
     {
       "repo": "hmcts/probate-frontend",
       "serviceName": "Apply for Probate",
-      "govukversion": "^4.6.0"
+      "govukversion": "^4.8.0"
     },
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
@@ -265,7 +265,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^4.7.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -383,7 +383,7 @@
     {
       "repo": "DFE-Digital/npq-registration",
       "serviceName": "Register for a National Professional Qualification",
-      "govukversion": "^4.8.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "DFE-Digital/register-trainee-teachers",
