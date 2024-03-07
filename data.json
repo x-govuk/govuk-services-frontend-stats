@@ -620,7 +620,7 @@
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing booking service",
-      "govukversion": "^5.1.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "alphagov/platforms-product-page",
