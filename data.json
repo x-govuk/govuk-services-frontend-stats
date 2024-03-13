@@ -249,7 +249,7 @@
     {
       "repo": "DFE-Digital/get-into-teaching-app",
       "serviceName": "Get Into Teaching",
-      "govukversion": "^5.1.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "DFE-Digital/get-teacher-training-adviser-service",
@@ -451,7 +451,7 @@
     {
       "repo": "trade-tariff/trade-tariff-frontend",
       "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
-      "govukversion": "^4.7.0",
+      "govukversion": "4.7.0",
       "name": "Front end"
     },
     {
