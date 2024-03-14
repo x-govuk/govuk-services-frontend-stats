@@ -90,7 +90,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.1.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -163,7 +163,7 @@
     {
       "repo": "DFE-Digital/teaching-school-hub-finder",
       "serviceName": "Find a teaching school hub",
-      "govukversion": "4.6.0"
+      "govukversion": "5.2.0"
     },
     {
       "repo": "cabinetoffice/gap-find-apply-web",
