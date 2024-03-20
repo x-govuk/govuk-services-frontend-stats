@@ -128,7 +128,7 @@
       "repo": "DFE-Digital/childrens-social-care-cpd",
       "packageLocation": "Childrens-Social-Care-CPD/",
       "serviceName": "Develop your career in child and family social work",
-      "govukversion": "^4.7.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "DFE-Digital/eapim-developer-hub",
