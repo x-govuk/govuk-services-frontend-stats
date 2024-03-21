@@ -463,7 +463,7 @@
     {
       "repo": "UKForeignOffice/verify-apostille-service",
       "serviceName": "Verify an apostille",
-      "govukversion": "^4.7.0"
+      "govukversion": "^4.8.0"
     },
     {
       "repo": "dvla/vdr-core",

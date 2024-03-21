@@ -48,13 +48,13 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^4.3.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
