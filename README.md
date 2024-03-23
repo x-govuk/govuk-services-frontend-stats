@@ -17,6 +17,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -32,7 +33,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.0.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
@@ -60,7 +60,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^4.3.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.2.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Gender pay gap reporting](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
+| [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Sign up for flood warnings](https://github.com/DEFRA/flood-xws-contact-web/) | 4.0.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Find and Use an API](https://github.com/DFE-Digital/eapim-developer-hub/) | ^3.6.0 | <img src="assets/old-crown.svg" alt="Old crown"> |

@@ -227,7 +227,7 @@
     {
       "repo": "cabinetoffice/gender-pay-gap",
       "packageLocation": "GenderPayGap.WebUI/",
-      "serviceName": "Gender pay gap reporting",
+      "serviceName": "Gender pay gap service",
       "govukversion": "^4.0.1"
     },
     {
@@ -325,7 +325,7 @@
     },
     {
       "repo": "ministryofjustice/peoplefinder",
-      "serviceName": "People Finder",
+      "serviceName": "MoJ People Finder",
       "skip": true
     },
     {
@@ -577,7 +577,7 @@
       "repo": "DEFRA/rod-licensing",
       "serviceName": "Get a rod fishing licence",
       "packageLocation": "packages/gafl-webapp-service/",
-      "govukversion": "^5.1.0"
+      "govukversion": "^5.2.0"
     },
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
