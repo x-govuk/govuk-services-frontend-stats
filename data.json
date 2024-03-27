@@ -221,7 +221,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.2.0",
+      "govukversion": "5.3.0",
       "name": "Admin application"
     },
     {
@@ -632,6 +632,11 @@
       "serviceName": "GOV.UK One Login",
       "name": "Authentication frontend",
       "govukversion": "^4.8.0"
+    },
+    {
+      "repo": "DFE-Digital/improve-workload-and-wellbeing-for-school-staff",
+      "serviceName": "Improve workload and wellbeing for school staff",
+      "govukversion": "^5.2.0"
     }
   ]
 }
