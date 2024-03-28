@@ -215,7 +215,7 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.2.0",
+      "govukversion": "5.3.0",
       "name": "Product pages"
     },
     {
@@ -614,7 +614,7 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.3.0"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
@@ -636,7 +636,7 @@
     {
       "repo": "DFE-Digital/improve-workload-and-wellbeing-for-school-staff",
       "serviceName": "Improve workload and wellbeing for school staff",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.3.0"
     }
   ]
 }
