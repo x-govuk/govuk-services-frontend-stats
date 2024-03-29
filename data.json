@@ -50,7 +50,7 @@
     {
       "repo": "ministryofjustice/laa-apply-for-legal-aid",
       "serviceName": "Apply for legal aid",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.3.0"
     },
     {
       "repo": "SkillsFundingAgency/das-employerapprenticeshipsservice",
