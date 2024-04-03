@@ -40,7 +40,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.0.0"
+      "govukversion": "^5.3.0"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -281,7 +281,7 @@
     {
       "repo": "DFE-Digital/early-careers-framework",
       "serviceName": "Manage training for early career teachers",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.3.0"
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
