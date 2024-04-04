@@ -90,7 +90,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.3.0"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -348,7 +348,7 @@
     {
       "repo": "UKGovernmentBEIS/beis-opss-psd",
       "serviceName": "Product safety database",
-      "govukversion": "5.2.0"
+      "govukversion": "5.3.0"
     },
     {
       "repo": "alphagov/govuk-prototype-kit",
@@ -436,7 +436,7 @@
       "repo": "UKGovernmentBEIS/beis-opss-cosmetics",
       "packageLocation": "cosmetics-web/",
       "serviceName": "Submit cosmetic product notifications",
-      "govukversion": "5.2.0"
+      "govukversion": "5.3.0"
     },
     {
       "repo": "communitiesuk/submit-social-housing-lettings-and-sales-data",
