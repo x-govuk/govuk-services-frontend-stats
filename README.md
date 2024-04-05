@@ -8,6 +8,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -18,7 +19,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
