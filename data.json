@@ -8,7 +8,7 @@
     {
       "repo": "DFE-Digital/access-your-teaching-qualifications",
       "serviceName": "Access your teaching qualifications",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.3.0"
     },
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
@@ -285,7 +285,7 @@
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
-      "serviceName": "Make a money claim online",
+      "serviceName": "Money Claims",
       "skip": true
     },
     {
@@ -315,7 +315,7 @@
     },
     {
       "repo": "UKHomeOffice?utf8=%E2%9C%93&q=passport",
-      "serviceName": "Apply online for a UK passport",
+      "serviceName": "Apply for a passport",
       "skip": true
     },
     {
@@ -413,7 +413,7 @@
     {
       "repo": "DFE-Digital/schools-experience",
       "serviceName": "Get school experience",
-      "govukversion": "^4.0.1"
+      "govukversion": "5.2.0"
     },
     {
       "repo": "ministryofjustice/money-to-prisoners-send-money",

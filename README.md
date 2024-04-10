@@ -2,6 +2,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown |
 | :------ | -------------------: | :---------------: |
+| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -15,7 +16,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -28,6 +28,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -62,7 +63,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.2.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Sign up for flood warnings](https://github.com/DEFRA/flood-xws-contact-web/) | 4.0.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Find and Use an API](https://github.com/DFE-Digital/eapim-developer-hub/) | ^3.6.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [National Pupil Database (NPD)](https://github.com/DFE-Digital/npd-find-and-explore/) | ^3.5.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
