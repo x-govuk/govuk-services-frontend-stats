@@ -265,7 +265,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.3.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -383,7 +383,7 @@
     {
       "repo": "DFE-Digital/npq-registration",
       "serviceName": "Register for a National Professional Qualification",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.3.0"
     },
     {
       "repo": "DFE-Digital/register-trainee-teachers",
