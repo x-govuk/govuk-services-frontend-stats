@@ -15,6 +15,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -32,7 +33,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
