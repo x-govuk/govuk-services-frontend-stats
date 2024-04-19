@@ -603,7 +603,7 @@
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
       "serviceName": "Support for early career teachers",
-      "govukversion": "5.2.0"
+      "govukversion": "5.3.0"
     },
     {
       "repo": "alphagov/platforms-product-page",
