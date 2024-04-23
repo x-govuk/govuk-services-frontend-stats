@@ -40,7 +40,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -215,13 +215,13 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.3.0",
+      "govukversion": "5.3.1",
       "name": "Product pages"
     },
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.3.0",
+      "govukversion": "5.3.1",
       "name": "Admin application"
     },
     {
@@ -388,7 +388,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -478,7 +478,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.3.0",
+      "govukversion": "5.3.1",
       "name": "Forms runner"
     },
     {
