@@ -90,7 +90,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -265,7 +265,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -348,7 +348,7 @@
     {
       "repo": "UKGovernmentBEIS/beis-opss-psd",
       "serviceName": "Product safety database",
-      "govukversion": "5.3.0"
+      "govukversion": "5.3.1"
     },
     {
       "repo": "alphagov/govuk-prototype-kit",
@@ -436,7 +436,7 @@
       "repo": "UKGovernmentBEIS/beis-opss-cosmetics",
       "packageLocation": "cosmetics-web/",
       "serviceName": "Submit cosmetic product notifications",
-      "govukversion": "5.3.0"
+      "govukversion": "5.3.1"
     },
     {
       "repo": "communitiesuk/submit-social-housing-lettings-and-sales-data",
@@ -637,6 +637,11 @@
       "repo": "DFE-Digital/improve-workload-and-wellbeing-for-school-staff",
       "serviceName": "Improve workload and wellbeing for school staff",
       "govukversion": "^5.3.0"
+    },
+    {
+      "repo": "ministryofjustice/grc-app",
+      "serviceName": "Apply for a Gender Recognition Certificate",
+      "govukversion": "^3.14.0"
     }
   ]
 }
