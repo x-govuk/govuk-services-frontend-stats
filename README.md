@@ -71,7 +71,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | ^3.15.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Home Office Forms](https://github.com/UKHomeOfficeForms/hof/) | 3.15 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for a Gender Recognition Certificate](https://github.com/cabinetoffice/grc-app/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Apply for a Gender Recognition Certificate](https://github.com//) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
+| [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Coronavirus (COVID-19) in the UK ](https://github.com/publichealthengland/coronavirus-dashboard/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^3.13.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [The King’s Award for Voluntary Service](https://github.com/bitzesty/qavs-v2/) | ^3.13.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
