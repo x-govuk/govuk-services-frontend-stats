@@ -8,7 +8,7 @@
     {
       "repo": "DFE-Digital/access-your-teaching-qualifications",
       "serviceName": "Access your teaching qualifications",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
@@ -50,7 +50,7 @@
     {
       "repo": "ministryofjustice/laa-apply-for-legal-aid",
       "serviceName": "Apply for legal aid",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "SkillsFundingAgency/das-employerapprenticeshipsservice",
@@ -281,7 +281,7 @@
     {
       "repo": "DFE-Digital/early-careers-framework",
       "serviceName": "Manage training for early career teachers",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
@@ -614,13 +614,13 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing booking service",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "alphagov/platforms-product-page",
