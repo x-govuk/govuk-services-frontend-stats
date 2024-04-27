@@ -446,7 +446,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
@@ -598,7 +598,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
