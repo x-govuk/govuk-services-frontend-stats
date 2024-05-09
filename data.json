@@ -249,7 +249,7 @@
     {
       "repo": "DFE-Digital/get-into-teaching-app",
       "serviceName": "Get Into Teaching",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "DFE-Digital/get-teacher-training-adviser-service",
@@ -383,7 +383,7 @@
     {
       "repo": "DFE-Digital/npq-registration",
       "serviceName": "Register for a National Professional Qualification",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "DFE-Digital/register-trainee-teachers",
@@ -451,7 +451,7 @@
     {
       "repo": "trade-tariff/trade-tariff-frontend",
       "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
-      "govukversion": "4.7.0",
+      "govukversion": "5.3.1",
       "name": "Front end"
     },
     {
@@ -571,7 +571,7 @@
       "repo": "trade-tariff/trade-tariff-duty-calculator",
       "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
       "name": "Calculator front end",
-      "govukversion": "^4.7.0"
+      "govukversion": "5.3.1"
     },
     {
       "repo": "DEFRA/rod-licensing",

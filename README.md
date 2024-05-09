@@ -10,19 +10,21 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -55,8 +57,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^4.3.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
