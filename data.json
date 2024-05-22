@@ -281,7 +281,7 @@
     {
       "repo": "DFE-Digital/early-careers-framework",
       "serviceName": "Manage training for early career teachers",
-      "govukversion": "^5.3.1"
+      "govukversion": "^5.4.0"
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
@@ -348,7 +348,7 @@
     {
       "repo": "UKGovernmentBEIS/beis-opss-psd",
       "serviceName": "Product safety database",
-      "govukversion": "5.3.1"
+      "govukversion": "5.4.0"
     },
     {
       "repo": "alphagov/govuk-prototype-kit",
@@ -388,7 +388,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.3.1"
+      "govukversion": "^5.4.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -530,7 +530,7 @@
       "repo": "communitiesuk/epb-frontend",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register front end",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.4.0"
     },
     {
       "repo": "communitiesuk/epb-register-api",
