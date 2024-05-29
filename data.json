@@ -249,7 +249,7 @@
     {
       "repo": "DFE-Digital/get-into-teaching-app",
       "serviceName": "Get Into Teaching",
-      "govukversion": "^5.3.1"
+      "govukversion": "^5.4.0"
     },
     {
       "repo": "DFE-Digital/get-teacher-training-adviser-service",
