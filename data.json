@@ -413,7 +413,7 @@
     {
       "repo": "DFE-Digital/schools-experience",
       "serviceName": "Get school experience",
-      "govukversion": "5.2.0"
+      "govukversion": "^5.4.0"
     },
     {
       "repo": "ministryofjustice/money-to-prisoners-send-money",
