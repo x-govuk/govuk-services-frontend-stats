@@ -378,7 +378,7 @@
     {
       "repo": "DFE-Digital/refer-serious-misconduct",
       "serviceName": "Refer serious misconduct by a teacher in England",
-      "govukversion": "5.2.0"
+      "govukversion": "5.4.0"
     },
     {
       "repo": "DFE-Digital/npq-registration",
