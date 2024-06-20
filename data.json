@@ -14,7 +14,8 @@
       "repo": "Planning-Inspectorate/appeal-planning-decision",
       "packageLocation": "packages/web-comment/",
       "serviceName": "Appeal a planning decision",
-      "govukversion": "^3.15.0"
+      "govukversion": "^3.15.0",
+      "skip": "maybe"
     },
     {
       "repo": "DFE-Digital/Dfe.Academies.External",
