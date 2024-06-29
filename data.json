@@ -485,7 +485,7 @@
     {
       "repo": "DFE-Digital/teacher-pay-calculator",
       "serviceName": "Calculate teacher pay",
-      "govukversion": "4.7.0"
+      "govukversion": "5.4.0"
     },
     {
       "repo": "DFE-Digital/claim-additional-payments-for-teaching",
