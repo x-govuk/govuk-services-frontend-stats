@@ -8,6 +8,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -45,7 +46,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Product page](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |

@@ -175,7 +175,7 @@
     {
       "repo": "ministryofjustice/fala",
       "serviceName": "Find a legal aid adviser or family mediator",
-      "govukversion": "^4.8.0"
+      "govukversion": "^5.4.0"
     },
     {
       "repo": "DFE-Digital/npd-find-and-explore",
