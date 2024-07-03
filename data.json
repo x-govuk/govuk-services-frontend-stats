@@ -566,7 +566,7 @@
     {
       "repo": "DFE-Digital/early-years-foundation-recovery",
       "serviceName": "Early years child development training",
-      "govukversion": "^4.7.0"
+      "govukversion": "^5.3.1"
     },
     {
       "repo": "trade-tariff/trade-tariff-duty-calculator",

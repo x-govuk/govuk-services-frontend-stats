@@ -31,6 +31,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -56,7 +57,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
