@@ -8,7 +8,7 @@
     {
       "repo": "DFE-Digital/access-your-teaching-qualifications",
       "serviceName": "Access your teaching qualifications",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.4.1"
     },
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
@@ -116,7 +116,7 @@
     {
       "repo": "alphagov/govuk-design-system",
       "serviceName": "GOV.UK Design System",
-      "govukversion": "^5.4.0",
+      "govukversion": "^5.4.1",
       "name": "Website"
     },
     {
@@ -573,7 +573,7 @@
       "repo": "trade-tariff/trade-tariff-duty-calculator",
       "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
       "name": "Calculator front end",
-      "govukversion": "5.3.1"
+      "govukversion": "5.4.1"
     },
     {
       "repo": "DEFRA/rod-licensing",
@@ -600,7 +600,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.4.1"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
@@ -644,6 +644,11 @@
       "repo": "ministryofjustice/grc-app",
       "serviceName": "Apply for a Gender Recognition Certificate",
       "govukversion": "^3.14.0"
+    },
+    {
+      "repo": "Planning-Inspectorate/applications-service",
+      "serviceName": "Find a National Infrastructure Project",
+      "skip": "maybe"
     }
   ]
 }
