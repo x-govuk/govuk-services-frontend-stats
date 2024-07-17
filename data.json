@@ -91,7 +91,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.4.1"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -217,13 +217,13 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.4.0",
+      "govukversion": "5.4.1",
       "name": "Product pages"
     },
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.4.0",
+      "govukversion": "5.4.1",
       "name": "Admin application"
     },
     {
@@ -350,7 +350,7 @@
     {
       "repo": "UKGovernmentBEIS/beis-opss-psd",
       "serviceName": "Product safety database",
-      "govukversion": "5.4.0"
+      "govukversion": "5.4.1"
     },
     {
       "repo": "alphagov/govuk-prototype-kit",
@@ -438,7 +438,7 @@
       "repo": "UKGovernmentBEIS/beis-opss-cosmetics",
       "packageLocation": "cosmetics-web/",
       "serviceName": "Submit cosmetic product notifications",
-      "govukversion": "5.4.0"
+      "govukversion": "5.4.1"
     },
     {
       "repo": "communitiesuk/submit-social-housing-lettings-and-sales-data",
@@ -480,7 +480,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.4.0",
+      "govukversion": "5.4.1",
       "name": "Forms runner"
     },
     {
