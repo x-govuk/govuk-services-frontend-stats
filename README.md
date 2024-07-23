@@ -13,6 +13,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -29,8 +31,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |

@@ -448,7 +448,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.4.1"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
@@ -616,7 +616,7 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.4.1"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
