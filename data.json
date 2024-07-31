@@ -507,7 +507,7 @@
     {
       "repo": "ministryofjustice/help-with-child-arrangements",
       "serviceName": "Get help with child arrangements",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.4.1"
     },
     {
       "repo": "govuk-one-login/onboarding-product-page",
