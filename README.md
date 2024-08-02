@@ -10,6 +10,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -48,7 +49,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Product page](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
