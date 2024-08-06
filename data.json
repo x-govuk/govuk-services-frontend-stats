@@ -251,7 +251,7 @@
     {
       "repo": "DFE-Digital/get-into-teaching-app",
       "serviceName": "Get Into Teaching",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.4.1"
     },
     {
       "repo": "DFE-Digital/get-teacher-training-adviser-service",
@@ -267,7 +267,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.4.1"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",

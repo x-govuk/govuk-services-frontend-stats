@@ -11,6 +11,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -26,9 +28,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
