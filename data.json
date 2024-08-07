@@ -240,7 +240,7 @@
     {
       "repo": "DFE-Digital/buy-for-your-school",
       "serviceName": "Get help buying for schools",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.4.0"
     },
     {
       "repo": "DFE-Digital/get-information-about-schools",
