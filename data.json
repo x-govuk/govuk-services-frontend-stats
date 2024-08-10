@@ -116,7 +116,7 @@
     {
       "repo": "alphagov/govuk-design-system",
       "serviceName": "GOV.UK Design System",
-      "govukversion": "^5.4.1",
+      "govukversion": "^5.5.0",
       "name": "Website"
     },
     {
@@ -415,7 +415,7 @@
     {
       "repo": "DFE-Digital/schools-experience",
       "serviceName": "Get school experience",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.4.1"
     },
     {
       "repo": "ministryofjustice/money-to-prisoners-send-money",
