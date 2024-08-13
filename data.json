@@ -380,7 +380,7 @@
     {
       "repo": "DFE-Digital/refer-serious-misconduct",
       "serviceName": "Refer serious misconduct by a teacher in England",
-      "govukversion": "5.4.1"
+      "govukversion": "5.5.0"
     },
     {
       "repo": "DFE-Digital/npq-registration",
@@ -649,6 +649,11 @@
       "repo": "Planning-Inspectorate/applications-service",
       "serviceName": "Find a National Infrastructure Project",
       "skip": "maybe"
+    },
+    {
+      "repo": "acteng/update-your-capital-schemes",
+      "serviceName": "Update your capital schemes",
+      "govukversion": "~5.4.0"
     }
   ]
 }
