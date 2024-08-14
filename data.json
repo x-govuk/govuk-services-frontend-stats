@@ -8,7 +8,7 @@
     {
       "repo": "DFE-Digital/access-your-teaching-qualifications",
       "serviceName": "Access your teaching qualifications",
-      "govukversion": "^5.4.1"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
@@ -350,7 +350,7 @@
     {
       "repo": "UKGovernmentBEIS/beis-opss-psd",
       "serviceName": "Product safety database",
-      "govukversion": "5.4.1"
+      "govukversion": "5.5.0"
     },
     {
       "repo": "alphagov/govuk-prototype-kit",
@@ -438,7 +438,7 @@
       "repo": "UKGovernmentBEIS/beis-opss-cosmetics",
       "packageLocation": "cosmetics-web/",
       "serviceName": "Submit cosmetic product notifications",
-      "govukversion": "5.4.1"
+      "govukversion": "5.5.0"
     },
     {
       "repo": "communitiesuk/submit-social-housing-lettings-and-sales-data",
