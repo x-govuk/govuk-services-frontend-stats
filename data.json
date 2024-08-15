@@ -41,7 +41,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -496,7 +496,7 @@
     {
       "repo": "ministryofjustice/find-unclaimed-court-money",
       "serviceName": "Find unclaimed court money",
-      "govukversion": "^5.4.1"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "alphagov/finder-frontend",
@@ -507,7 +507,7 @@
     {
       "repo": "ministryofjustice/help-with-child-arrangements",
       "serviceName": "Get help with child arrangements",
-      "govukversion": "^5.4.1"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "govuk-one-login/onboarding-product-page",
