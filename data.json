@@ -51,7 +51,7 @@
     {
       "repo": "ministryofjustice/laa-apply-for-legal-aid",
       "serviceName": "Apply for legal aid",
-      "govukversion": "^5.4.1"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "SkillsFundingAgency/das-employerapprenticeshipsservice",
@@ -240,7 +240,7 @@
     {
       "repo": "DFE-Digital/buy-for-your-school",
       "serviceName": "Get help buying for schools",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "DFE-Digital/get-information-about-schools",
@@ -267,7 +267,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.4.1"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -390,7 +390,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.4.1"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
