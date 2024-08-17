@@ -223,7 +223,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.4.1",
+      "govukversion": "5.5.0",
       "name": "Admin application"
     },
     {
