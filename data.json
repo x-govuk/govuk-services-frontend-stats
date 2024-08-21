@@ -91,7 +91,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.4.1"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -283,7 +283,7 @@
     {
       "repo": "DFE-Digital/early-careers-framework",
       "serviceName": "Manage training for early career teachers",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
@@ -532,7 +532,7 @@
       "repo": "communitiesuk/epb-frontend",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register front end",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.5.0"
     },
     {
       "repo": "communitiesuk/epb-register-api",
