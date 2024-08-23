@@ -217,7 +217,7 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.4.1",
+      "govukversion": "5.5.0",
       "name": "Product pages"
     },
     {
@@ -480,7 +480,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.4.1",
+      "govukversion": "5.5.0",
       "name": "Forms runner"
     },
     {
