@@ -3,6 +3,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | Service | Frontend | Crown |
 | :------ | -------------------: | :---------------: |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Apply for a divorce](https://github.com//) | 5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |

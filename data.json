@@ -654,6 +654,11 @@
       "repo": "acteng/update-your-capital-schemes",
       "serviceName": "Update your capital schemes",
       "govukversion": "~5.4.0"
+    },
+    {
+      "repo": "hmcts/nfdiv-frontend",
+      "serviceName": "Apply for a divorce",
+      "govukversion": "5.5.0"
     }
   ]
 }
