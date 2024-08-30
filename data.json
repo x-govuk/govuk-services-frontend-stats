@@ -23,11 +23,6 @@
       "skip": true
     },
     {
-      "repo": "hmcts/div-petitioner-frontend",
-      "serviceName": "Apply for a divorce",
-      "govukversion": "^2.11.0"
-    },
-    {
       "repo": "InnovateUKGitHub/innovation-funding-service",
       "packageLocation": "ifs-web-service/",
       "serviceName": "Apply for innovation funding",
