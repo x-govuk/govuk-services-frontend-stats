@@ -36,7 +36,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.5.0"
+      "govukversion": "^5.6.0"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -212,13 +212,13 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.5.0",
+      "govukversion": "5.6.0",
       "name": "Product pages"
     },
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.5.0",
+      "govukversion": "5.6.0",
       "name": "Admin application"
     },
     {
@@ -475,7 +475,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.5.0",
+      "govukversion": "5.6.0",
       "name": "Forms runner"
     },
     {
@@ -595,7 +595,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.5.0"
+      "govukversion": "^5.6.0"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
@@ -653,7 +653,7 @@
     {
       "repo": "hmcts/nfdiv-frontend",
       "serviceName": "Apply for a divorce",
-      "govukversion": "5.5.0"
+      "govukversion": "5.6.0"
     }
   ]
 }
