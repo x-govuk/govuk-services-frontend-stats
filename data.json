@@ -46,7 +46,7 @@
     {
       "repo": "ministryofjustice/laa-apply-for-legal-aid",
       "serviceName": "Apply for legal aid",
-      "govukversion": "^5.5.0"
+      "govukversion": "^5.6.0"
     },
     {
       "repo": "SkillsFundingAgency/das-employerapprenticeshipsservice",
@@ -385,7 +385,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.5.0"
+      "govukversion": "^5.6.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
