@@ -12,6 +12,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -29,7 +30,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
