@@ -154,7 +154,7 @@
     {
       "repo": "DFE-Digital/find-a-lost-trn",
       "serviceName": "Find a lost teacher reference number (TRN)",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.6.0"
     },
     {
       "repo": "DFE-Digital/teaching-school-hub-finder",
@@ -318,7 +318,7 @@
     {
       "repo": "alphagov/pay-frontend",
       "serviceName": "GOV.UK Pay",
-      "govukversion": "^4.8.0"
+      "govukversion": "^5.6.0"
     },
     {
       "repo": "ministryofjustice/peoplefinder",
