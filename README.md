@@ -38,6 +38,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -45,7 +46,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |

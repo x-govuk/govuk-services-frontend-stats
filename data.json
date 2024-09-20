@@ -91,7 +91,7 @@
     {
       "repo": "alphagov/paas-product-pages",
       "serviceName": "GOV.UK Platform as a Service",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.4.0"
     },
     {
       "repo": "UKForeignOffice/fco-consular-appointments-slotpicker",
