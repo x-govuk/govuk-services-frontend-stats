@@ -520,7 +520,7 @@
     {
       "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^4.8.0",
+      "govukversion": "^5.2.0",
       "name": "Account management frontend"
     },
     {
