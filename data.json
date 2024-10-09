@@ -262,7 +262,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.5.0"
+      "govukversion": "^5.6.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -590,7 +590,7 @@
     {
       "repo": "DEFRA/rod-catch-returns-frontend",
       "serviceName": "Report your salmon or sea trout catch",
-      "govukversion": "^3.15.0"
+      "govukversion": "^5.6.0"
     },
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",

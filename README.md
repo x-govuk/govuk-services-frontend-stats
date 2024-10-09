@@ -16,11 +16,13 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -28,7 +30,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -71,7 +72,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [National Pupil Database (NPD)](https://github.com/DFE-Digital/npd-find-and-explore/) | ^3.5.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Apply for innovation funding](https://github.com/InnovateUKGitHub/innovation-funding-service/tree/main/ifs-web-service/) | ^3.3.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/tree/main/packages/web-comment/) | ^3.15.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | ^3.15.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Home Office Forms](https://github.com/UKHomeOfficeForms/hof/) | 3.15 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for a Gender Recognition Certificate](https://github.com/cabinetoffice/grc-app/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
