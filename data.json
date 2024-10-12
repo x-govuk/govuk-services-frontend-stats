@@ -111,7 +111,7 @@
     {
       "repo": "alphagov/govuk-design-system",
       "serviceName": "GOV.UK Design System",
-      "govukversion": "^5.7.0",
+      "govukversion": "^5.7.1",
       "name": "Website"
     },
     {
@@ -527,7 +527,7 @@
       "repo": "communitiesuk/epb-frontend",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register front end",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.7.0"
     },
     {
       "repo": "communitiesuk/epb-register-api",
@@ -595,7 +595,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.7.1"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
@@ -654,7 +654,7 @@
     {
       "repo": "hmcts/nfdiv-frontend",
       "serviceName": "Apply for a divorce",
-      "govukversion": "5.6.0"
+      "govukversion": "5.7.0"
     }
   ]
 }
