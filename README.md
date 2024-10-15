@@ -2,12 +2,12 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown |
 | :------ | -------------------: | :---------------: |
+| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.7.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.7.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
