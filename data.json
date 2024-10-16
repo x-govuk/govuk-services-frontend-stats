@@ -36,7 +36,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.7.1"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -218,7 +218,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.6.0",
+      "govukversion": "^5.7.1",
       "name": "Admin application"
     },
     {
@@ -345,7 +345,7 @@
     {
       "repo": "UKGovernmentBEIS/beis-opss-psd",
       "serviceName": "Product safety database",
-      "govukversion": "5.6.0"
+      "govukversion": "5.7.1"
     },
     {
       "repo": "alphagov/govuk-prototype-kit",
@@ -433,7 +433,7 @@
       "repo": "UKGovernmentBEIS/beis-opss-cosmetics",
       "packageLocation": "cosmetics-web/",
       "serviceName": "Submit cosmetic product notifications",
-      "govukversion": "5.6.0"
+      "govukversion": "5.7.1"
     },
     {
       "repo": "communitiesuk/submit-social-housing-lettings-and-sales-data",
@@ -611,13 +611,13 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.7.1"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing booking service",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.7.1"
     },
     {
       "repo": "alphagov/platforms-product-page",
