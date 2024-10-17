@@ -124,7 +124,7 @@
       "repo": "DFE-Digital/childrens-social-care-cpd",
       "packageLocation": "Childrens-Social-Care-CPD/",
       "serviceName": "Develop your career in child and family social work",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.6.0"
     },
     {
       "repo": "DFE-Digital/eapim-developer-hub",
@@ -385,7 +385,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.7.1"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -443,7 +443,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.7.1"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
