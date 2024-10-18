@@ -31,7 +31,7 @@
     {
       "repo": "hmcts/probate-frontend",
       "serviceName": "Apply for Probate",
-      "govukversion": "^4.8.0"
+      "govukversion": "^4.9.0"
     },
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
@@ -491,7 +491,7 @@
     {
       "repo": "ministryofjustice/find-unclaimed-court-money",
       "serviceName": "Find unclaimed court money",
-      "govukversion": "^5.5.0"
+      "govukversion": "^5.7.1"
     },
     {
       "repo": "alphagov/finder-frontend",
@@ -502,7 +502,7 @@
     {
       "repo": "ministryofjustice/help-with-child-arrangements",
       "serviceName": "Get help with child arrangements",
-      "govukversion": "^5.5.0"
+      "govukversion": "^5.7.1"
     },
     {
       "repo": "govuk-one-login/onboarding-product-page",
