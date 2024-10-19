@@ -8,8 +8,10 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -23,7 +25,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -76,7 +77,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for a Gender Recognition Certificate](https://github.com/cabinetoffice/grc-app/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Coronavirus (COVID-19) in the UK ](https://github.com/publichealthengland/coronavirus-dashboard/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^3.13.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [The King’s Award for Voluntary Service](https://github.com/bitzesty/qavs-v2/) | ^3.13.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Get information about schools](https://github.com/DFE-Digital/get-information-about-schools/tree/main/Web/Edubase.Web.UI/) | ^3.12.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Report your Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/) | ^3.11.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
