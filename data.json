@@ -262,7 +262,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.7.1"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -334,7 +334,7 @@
     {
       "repo": "digital-land/digital-land.info",
       "serviceName": "planning.data.gov.uk",
-      "govukversion": "4.2.0"
+      "govukversion": "4.9.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-2",
