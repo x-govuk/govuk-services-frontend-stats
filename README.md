@@ -13,6 +13,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -30,7 +31,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
