@@ -212,7 +212,7 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.6.0",
+      "govukversion": "5.7.1",
       "name": "Product pages"
     },
     {
