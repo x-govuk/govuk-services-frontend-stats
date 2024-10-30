@@ -196,7 +196,7 @@
     {
       "repo": "DEFRA/fmp-app",
       "serviceName": "Flood map for planning",
-      "govukversion": "^4.8.0"
+      "govukversion": "^4.9.0"
     },
     {
       "repo": "DEFRA/flood-app",
