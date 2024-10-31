@@ -410,7 +410,7 @@
     {
       "repo": "DFE-Digital/schools-experience",
       "serviceName": "Get school experience",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.7.1"
     },
     {
       "repo": "ministryofjustice/money-to-prisoners-send-money",
@@ -460,7 +460,7 @@
     {
       "repo": "UKForeignOffice/verify-apostille-service",
       "serviceName": "Verify an apostille",
-      "govukversion": "^4.8.0"
+      "govukversion": "^4.9.0"
     },
     {
       "repo": "dvla/vdr-core",
@@ -655,6 +655,21 @@
       "repo": "hmcts/nfdiv-frontend",
       "serviceName": "Apply for a divorce",
       "govukversion": "5.7.1"
+    },
+    {
+      "repo": "DFE-Digital/fh-services",
+      "serviceName": "Connect families to support",
+      "skip": "maybe"
+    },
+    {
+      "repo": "DFE-Digital/fh-services",
+      "serviceName": "Find support for your family",
+      "skip": "maybe"
+    },
+    {
+      "repo": "DFE-Digital/fh-services",
+      "serviceName": "Manage family support services and accounts",
+      "skip": "maybe"
     }
   ]
 }
