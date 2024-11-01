@@ -5,6 +5,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -39,7 +40,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |

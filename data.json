@@ -170,7 +170,7 @@
     {
       "repo": "ministryofjustice/fala",
       "serviceName": "Find a legal aid adviser or family mediator",
-      "govukversion": "^5.4.0",
+      "govukversion": "5.7.1",
       "skip": "maybe"
     },
     {
@@ -658,7 +658,7 @@
     },
     {
       "repo": "DFE-Digital/fh-services",
-      "serviceName": "Connect families to support",
+      "serviceName": "Manage family support services and accounts",
       "skip": "maybe"
     },
     {
