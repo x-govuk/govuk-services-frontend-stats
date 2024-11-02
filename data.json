@@ -303,7 +303,7 @@
     {
       "repo": "alphagov/notifications-admin",
       "serviceName": "GOV.UK Notify",
-      "govukversion": "5.4.1"
+      "govukversion": "5.7.1"
     },
     {
       "repo": "alphagov/datagovuk_find",
