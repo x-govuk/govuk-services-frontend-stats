@@ -268,7 +268,7 @@
       "repo": "UKHomeOffice/home-office-design-system",
       "packageLocation": "components/page/",
       "serviceName": "Home Office Design System",
-      "govukversion": "4.4.1"
+      "govukversion": "5.7.1"
     },
     {
       "repo": "UKHomeOfficeForms/hof",

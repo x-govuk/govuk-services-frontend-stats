@@ -16,6 +16,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -65,7 +66,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Sign up for flood warnings](https://github.com/DEFRA/flood-xws-contact-web/) | 4.0.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
