@@ -12,6 +12,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -32,7 +33,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | 5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
