@@ -29,6 +29,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -40,7 +41,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.4.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
