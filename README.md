@@ -20,6 +20,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -53,7 +54,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
