@@ -57,6 +57,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
+| [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -64,7 +65,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
