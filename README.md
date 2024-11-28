@@ -43,6 +43,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -56,7 +57,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
