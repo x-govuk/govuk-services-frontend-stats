@@ -2,6 +2,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown |
 | :------ | -------------------: | :---------------: |
+| [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -73,11 +74,10 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [National Pupil Database (NPD)](https://github.com/DFE-Digital/npd-find-and-explore/) | ^3.5.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Apply for innovation funding](https://github.com/InnovateUKGitHub/innovation-funding-service/tree/main/ifs-web-service/) | ^3.3.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/tree/main/packages/web-comment/) | ^3.15.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get information about schools](https://github.com/DFE-Digital/get-information-about-schools/tree/main/Web/Edubase.Web.UI/) | ^3.15.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Home Office Forms](https://github.com/UKHomeOfficeForms/hof/) | 3.15 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for a Gender Recognition Certificate](https://github.com/cabinetoffice/grc-app/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Coronavirus (COVID-19) in the UK ](https://github.com/publichealthengland/coronavirus-dashboard/) | ^3.14.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [The King’s Award for Voluntary Service](https://github.com/bitzesty/qavs-v2/) | ^3.13.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Get information about schools](https://github.com/DFE-Digital/get-information-about-schools/tree/main/Web/Edubase.Web.UI/) | ^3.12.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Report your Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/) | ^3.11.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Report modern slavery](https://github.com/UKHomeOffice/modern-slavery/) | ^2.7.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
