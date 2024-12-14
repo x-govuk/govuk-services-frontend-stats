@@ -29,6 +29,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -56,7 +57,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.1.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
