@@ -12,10 +12,8 @@
     },
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
-      "packageLocation": "packages/web-comment/",
       "serviceName": "Appeal a planning decision",
-      "govukversion": "^3.15.0",
-      "skip": "maybe"
+      "govukversion": "^3.15.0"
     },
     {
       "repo": "DFE-Digital/Dfe.Academies.External",
@@ -170,8 +168,7 @@
     {
       "repo": "ministryofjustice/fala",
       "serviceName": "Find a legal aid adviser or family mediator",
-      "govukversion": "5.7.1",
-      "skip": "maybe"
+      "govukversion": "5.7.1"
     },
     {
       "repo": "DFE-Digital/npd-find-and-explore",
@@ -605,7 +602,7 @@
     {
       "repo": "alphagov/platforms-product-page",
       "serviceName": "GOV.UK UK Government Security",
-      "skip": "maybe"
+      "skip": true
     },
     {
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
@@ -622,7 +619,7 @@
     {
       "repo": "alphagov/platforms-product-page",
       "serviceName": "GOV.UK UK Government Security",
-      "skip": "maybe"
+      "skip": true
     },
     {
       "repo": "govuk-one-login/authentication-frontend",
@@ -643,7 +640,6 @@
     {
       "repo": "Planning-Inspectorate/applications-service",
       "serviceName": "Find a National Infrastructure Project",
-      "skip": "maybe",
       "govukversion": "^5.6.0"
     },
     {
@@ -659,17 +655,8 @@
     {
       "repo": "DFE-Digital/fh-services",
       "serviceName": "Manage family support services and accounts",
-      "skip": "maybe"
-    },
-    {
-      "repo": "DFE-Digital/fh-services",
-      "serviceName": "Find support for your family",
-      "skip": "maybe"
-    },
-    {
-      "repo": "DFE-Digital/fh-services",
-      "serviceName": "Manage family support services and accounts",
-      "skip": "maybe"
+      "packageLocation": "src/shared/web-components/src/familyhubs-frontend/",
+      "govukversion": "5.2.0"
     }
   ]
 }
