@@ -222,7 +222,7 @@
       "repo": "cabinetoffice/gender-pay-gap",
       "packageLocation": "GenderPayGap.WebUI/",
       "serviceName": "Gender pay gap service",
-      "govukversion": "^4.0.1"
+      "govukversion": "^4.9.0"
     },
     {
       "repo": "UKHomeOffice/gro",

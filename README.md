@@ -60,6 +60,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
+| [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
@@ -69,7 +70,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
-| [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Sign up for flood warnings](https://github.com/DEFRA/flood-xws-contact-web/) | 4.0.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Find and Use an API](https://github.com/DFE-Digital/eapim-developer-hub/) | ^3.6.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [National Pupil Database (NPD)](https://github.com/DFE-Digital/npd-find-and-explore/) | ^3.5.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
