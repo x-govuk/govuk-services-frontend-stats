@@ -5,7 +5,9 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -18,7 +20,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -57,7 +58,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Manage family support services and accounts](https://github.com/DFE-Digital/fh-services/tree/main/src/shared/web-components/src/familyhubs-frontend/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |

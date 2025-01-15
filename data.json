@@ -352,7 +352,7 @@
     {
       "repo": "DFE-Digital/publish-teacher-training",
       "serviceName": "Publish teacher training courses",
-      "govukversion": "5.2.0"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "bitzesty/qae",
@@ -524,7 +524,7 @@
       "repo": "communitiesuk/epb-frontend",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register front end",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "communitiesuk/epb-register-api",
