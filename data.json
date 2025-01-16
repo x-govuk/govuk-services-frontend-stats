@@ -44,7 +44,7 @@
     {
       "repo": "ministryofjustice/laa-apply-for-legal-aid",
       "serviceName": "Apply for legal aid",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "SkillsFundingAgency/das-employerapprenticeshipsservice",
@@ -342,7 +342,7 @@
     {
       "repo": "UKGovernmentBEIS/beis-opss-psd",
       "serviceName": "Product safety database",
-      "govukversion": "5.7.1"
+      "govukversion": "5.8.0"
     },
     {
       "repo": "alphagov/govuk-prototype-kit",
@@ -440,7 +440,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
@@ -488,7 +488,7 @@
     {
       "repo": "ministryofjustice/find-unclaimed-court-money",
       "serviceName": "Find unclaimed court money",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "alphagov/finder-frontend",
@@ -499,7 +499,7 @@
     {
       "repo": "ministryofjustice/help-with-child-arrangements",
       "serviceName": "Get help with child arrangements",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "govuk-one-login/onboarding-product-page",
