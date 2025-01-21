@@ -215,7 +215,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.7.1",
+      "govukversion": "^5.8.0",
       "name": "Admin application"
     },
     {
@@ -382,7 +382,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
