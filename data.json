@@ -243,7 +243,7 @@
     {
       "repo": "DFE-Digital/get-into-teaching-app",
       "serviceName": "Get Into Teaching",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "DFE-Digital/get-teacher-training-adviser-service",
@@ -259,7 +259,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -407,7 +407,7 @@
     {
       "repo": "DFE-Digital/schools-experience",
       "serviceName": "Get school experience",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "ministryofjustice/money-to-prisoners-send-money",
@@ -430,7 +430,7 @@
       "repo": "UKGovernmentBEIS/beis-opss-cosmetics",
       "packageLocation": "cosmetics-web/",
       "serviceName": "Submit cosmetic product notifications",
-      "govukversion": "5.7.1"
+      "govukversion": "5.8.0"
     },
     {
       "repo": "communitiesuk/submit-social-housing-lettings-and-sales-data",
