@@ -377,7 +377,7 @@
     {
       "repo": "DFE-Digital/npq-registration",
       "serviceName": "Register for a National Professional Qualification",
-      "govukversion": "^5.4.0"
+      "govukversion": "^5.8"
     },
     {
       "repo": "DFE-Digital/register-trainee-teachers",
