@@ -576,7 +576,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
@@ -608,13 +608,13 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing booking service",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "alphagov/platforms-product-page",
