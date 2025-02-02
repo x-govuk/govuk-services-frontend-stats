@@ -67,6 +67,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Product page](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [MoJ Forms](https://github.com//) | 4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [MoJ Forms](https://github.com//) | 4.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^4.0.1 | <img src="assets/old-crown.svg" alt="Old crown"> |

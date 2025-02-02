@@ -657,6 +657,18 @@
       "serviceName": "Manage family support services and accounts",
       "packageLocation": "src/shared/web-components/src/familyhubs-frontend/",
       "govukversion": "5.2.0"
+    },
+    {
+      "repo": "ministryofjustice/formbuilder-product-page",
+      "serviceName": "MoJ Forms",
+      "name": "Product page",
+      "govukversion": "4.8.0"
+    },
+    {
+      "repo": "ministryofjustice/fb-editor",
+      "serviceName": "MoJ Forms",
+      "name": "Form builder",
+      "govukversion": "4.8.0"
     }
   ]
 }
