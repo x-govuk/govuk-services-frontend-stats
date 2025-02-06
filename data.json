@@ -559,7 +559,7 @@
     {
       "repo": "DFE-Digital/early-years-foundation-recovery",
       "serviceName": "Early years child development training",
-      "govukversion": "^5.3.1"
+      "govukversion": "^5.8.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-duty-calculator",
@@ -650,7 +650,7 @@
     {
       "repo": "hmcts/nfdiv-frontend",
       "serviceName": "Apply for a divorce",
-      "govukversion": "5.7.1"
+      "govukversion": "5.8.0"
     },
     {
       "repo": "DFE-Digital/fh-services",
