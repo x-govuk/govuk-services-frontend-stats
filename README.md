@@ -2,6 +2,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown |
 | :------ | -------------------: | :---------------: |
+| [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -58,7 +59,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Manage family support services and accounts](https://github.com/DFE-Digital/fh-services/tree/main/src/shared/web-components/src/familyhubs-frontend/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
