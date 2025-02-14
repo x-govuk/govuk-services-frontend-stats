@@ -8,6 +8,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -40,7 +41,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.7.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.7.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
