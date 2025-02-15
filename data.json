@@ -565,7 +565,7 @@
       "repo": "trade-tariff/trade-tariff-duty-calculator",
       "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
       "name": "Calculator front end",
-      "govukversion": "5.4.1"
+      "govukversion": "5.8.0"
     },
     {
       "repo": "DEFRA/rod-licensing",
