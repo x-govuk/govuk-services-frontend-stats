@@ -21,6 +21,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -53,7 +54,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 5.3.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
