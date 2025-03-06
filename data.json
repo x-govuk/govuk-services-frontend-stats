@@ -209,7 +209,7 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.8.0",
+      "govukversion": "5.9.0",
       "name": "Product pages"
     },
     {
@@ -440,7 +440,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
@@ -650,7 +650,7 @@
     {
       "repo": "hmcts/nfdiv-frontend",
       "serviceName": "Apply for a divorce",
-      "govukversion": "5.8.0"
+      "govukversion": "5.9.0"
     },
     {
       "repo": "DFE-Digital/fh-services",

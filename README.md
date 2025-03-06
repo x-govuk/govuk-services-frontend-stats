@@ -2,9 +2,11 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown |
 | :------ | -------------------: | :---------------: |
+| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -12,7 +14,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -29,7 +30,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.8 | <img src="assets/new-crown.svg" alt="New crown"> |
