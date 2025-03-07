@@ -3,11 +3,11 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | Service | Frontend | Crown |
 | :------ | -------------------: | :---------------: |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
