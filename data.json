@@ -215,7 +215,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.8.0",
+      "govukversion": "^5.9.0",
       "name": "Admin application"
     },
     {
@@ -472,7 +472,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.8.0",
+      "govukversion": "^5.9.0",
       "name": "Forms runner"
     },
     {
@@ -565,7 +565,7 @@
       "repo": "trade-tariff/trade-tariff-duty-calculator",
       "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
       "name": "Calculator front end",
-      "govukversion": "5.8.0"
+      "govukversion": "5.9.0"
     },
     {
       "repo": "DEFRA/rod-licensing",
@@ -608,13 +608,13 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing booking service",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "alphagov/platforms-product-page",
