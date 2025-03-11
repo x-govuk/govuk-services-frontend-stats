@@ -430,7 +430,7 @@
       "repo": "UKGovernmentBEIS/beis-opss-cosmetics",
       "packageLocation": "cosmetics-web/",
       "serviceName": "Submit cosmetic product notifications",
-      "govukversion": "5.8.0"
+      "govukversion": "5.9.0"
     },
     {
       "repo": "communitiesuk/submit-social-housing-lettings-and-sales-data",
@@ -576,7 +576,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
@@ -592,7 +592,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
