@@ -34,7 +34,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -445,7 +445,7 @@
     {
       "repo": "trade-tariff/trade-tariff-frontend",
       "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
-      "govukversion": "5.8.0",
+      "govukversion": "5.9.0",
       "name": "Front end"
     },
     {
