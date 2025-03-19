@@ -275,7 +275,7 @@
     {
       "repo": "DFE-Digital/early-careers-framework",
       "serviceName": "Manage training for early career teachers",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
@@ -352,7 +352,7 @@
     {
       "repo": "DFE-Digital/publish-teacher-training",
       "serviceName": "Publish teacher training courses",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "bitzesty/qae",
@@ -478,12 +478,12 @@
     {
       "repo": "DFE-Digital/teacher-pay-calculator",
       "serviceName": "Calculate teacher pay",
-      "govukversion": "5.4.0"
+      "govukversion": "5.9.0"
     },
     {
       "repo": "DFE-Digital/claim-additional-payments-for-teaching",
       "serviceName": "Claim Additional Payments for Teaching",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "ministryofjustice/find-unclaimed-court-money",
@@ -656,7 +656,7 @@
       "repo": "DFE-Digital/fh-services",
       "serviceName": "Manage family support services and accounts",
       "packageLocation": "src/shared/web-components/src/familyhubs-frontend/",
-      "govukversion": "5.2.0"
+      "govukversion": "5.8.0"
     },
     {
       "repo": "ministryofjustice/formbuilder-product-page",

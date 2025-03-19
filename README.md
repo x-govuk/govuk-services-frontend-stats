@@ -5,7 +5,9 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -13,14 +15,15 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -29,8 +32,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Manage family support services and accounts](https://github.com/DFE-Digital/fh-services/tree/main/src/shared/web-components/src/familyhubs-frontend/) | 5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.8 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -49,7 +51,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.5.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^5.4.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -58,7 +59,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Manage family support services and accounts](https://github.com/DFE-Digital/fh-services/tree/main/src/shared/web-components/src/familyhubs-frontend/) | 5.2.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | <img src="assets/old-crown.svg" alt="Old crown"> |
