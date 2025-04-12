@@ -22,6 +22,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -43,7 +44,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.7.0 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.7.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
