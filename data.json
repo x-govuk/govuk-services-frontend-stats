@@ -13,7 +13,7 @@
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
       "serviceName": "Appeal a planning decision",
-      "govukversion": "^3.15.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "DFE-Digital/Dfe.Academies.External",
@@ -243,7 +243,7 @@
     {
       "repo": "DFE-Digital/get-into-teaching-app",
       "serviceName": "Get Into Teaching",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.9.0"
     },
     {
       "repo": "DFE-Digital/get-teacher-training-adviser-service",
