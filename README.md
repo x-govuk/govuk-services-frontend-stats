@@ -13,6 +13,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
+| [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.9.0 | <img src="assets/new-crown.svg" alt="New crown"> |
@@ -39,12 +41,10 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.8 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.7.1 | <img src="assets/new-crown.svg" alt="New crown"> |
-| [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.7.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | <img src="assets/new-crown.svg" alt="New crown"> |

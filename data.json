@@ -300,7 +300,7 @@
     {
       "repo": "alphagov/notifications-admin",
       "serviceName": "GOV.UK Notify",
-      "govukversion": "5.7.1"
+      "govukversion": "5.9.0"
     },
     {
       "repo": "alphagov/datagovuk_find",
@@ -517,7 +517,7 @@
     {
       "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^5.7.0",
+      "govukversion": "^5.9.0",
       "name": "Account management frontend"
     },
     {
