@@ -576,7 +576,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "^5.9.0"
+      "govukversion": "^5.10.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
