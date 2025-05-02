@@ -140,13 +140,13 @@ File.open("README.md", 'w') do |file|
       display_name += " – " + repo["name"]
     end
 
-    tudor_crown = "<img src=\"assets/"
+    tudor_crown = "!["
+    tudor_crown += has_tudor_crown?(version) ? "New" : "Old"
+    tudor_crown += " crown](assets/"
     tudor_crown += has_tudor_crown?(version) ? "new" : "old"
     tudor_crown += "-crown.svg"
     tudor_crown += can_rebrand?(version) ? "#rebrand" : ""
-    tudor_crown += "\" alt=\""
-    tudor_crown += has_tudor_crown?(version) ? "New" : "Old"
-    tudor_crown += " crown\">"
+    tudor_crown += ")"
 
     file.write "| [#{display_name}](#{repo_url}) | #{version} | #{tudor_crown} |\n"
   end
