@@ -6,7 +6,7 @@ on:
       - main
 
   schedule:
-    - cron: '0 1 * * *'
+    - cron: "0 1 * * *"
 
   # Enable running this workflow manually from the Actions tab
   workflow_dispatch:
@@ -26,18 +26,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-    - name: Setup Pages
-      uses: actions/configure-pages@v3
-    - name: Install dependencies
-      run: npm ci
-    - name: Build with Eleventy
-      run: npm run-script build
-    - name: Upload artifact
-      uses: actions/upload-pages-artifact@v1
-      with:
-        path: '_site/'
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Install dependencies
+        run: npm ci
+      - name: Build with Eleventy
+        run: npm run-script build
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "_site/"
 
   deploy:
     environment:
@@ -48,4 +48,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v1
+        uses: actions/deploy-pages@v4
