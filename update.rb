@@ -107,12 +107,17 @@ def has_tudor_crown?(version)
   version.start_with?("3.15") || version.start_with?("4.8") || (version.start_with?("5") && !version.start_with?("5.0"))
 end
 
+def can_rebrand?(version)
+  version = version.gsub(/[\^\~]/, "")
+  version.start_with?("4.9") || (version.start_with?("5.10"))
+end
+
 # Update README.md
 File.open("README.md", 'w') do |file|
 
   file.write "The following table shows the current version of [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) used by different services, based on their publicly available source code.\n\n"
 
-  file.write "| Service | Frontend | Crown |\n"
+  file.write "| Service | Frontend | Crown/brand |\n"
   file.write "| :------ | -------------------: | :---------------: |\n"
 
   repos_with_govuk_frontend.each do |repo|
@@ -137,7 +142,9 @@ File.open("README.md", 'w') do |file|
 
     tudor_crown = "<img src=\"assets/"
     tudor_crown += has_tudor_crown?(version) ? "new" : "old"
-    tudor_crown += "-crown.svg\" alt=\""
+    tudor_crown += "-crown.svg"
+    tudor_crown += can_rebrand?(version) ? "#rebrand" : ""
+    tudor_crown += "\" alt=\""
     tudor_crown += has_tudor_crown?(version) ? "New" : "Old"
     tudor_crown += " crown\">"
 
