@@ -109,7 +109,7 @@ end
 
 def can_rebrand?(version)
   version = version.gsub(/[\^\~]/, "")
-  version.start_with?("4.9") || (version.start_with?("5.10"))
+  version.start_with?("4.10") || (version.start_with?("5.10"))
 end
 
 # Update README.md
