@@ -104,7 +104,7 @@ end
 
 def has_tudor_crown?(version)
   version = version.gsub(/[\^\~]/, "")
-  version.start_with?("3.15") || version.start_with?("4.8") || (version.start_with?("5") && !version.start_with?("5.0"))
+  version.start_with?("3.15") || version.start_with?("4.8") || version.start_with?("4.9") || version.start_with?("4.10") || (version.start_with?("5") && !version.start_with?("5.0"))
 end
 
 def can_rebrand?(version)
