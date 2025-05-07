@@ -90,8 +90,8 @@ end
 repos_with_govuk_frontend = data["repos"].select {|repo|  repo["govukversion"] }
 
 repos_with_govuk_frontend.sort! do |a, b|
-  version_a = a["govukversion"].gsub(/[\^\~]/, "")
-  version_b = b["govukversion"].gsub(/[\^\~]/, "")
+  version_a = Gem::Version.new(a["govukversion"].gsub(/[\^~]/, ""))
+  version_b = Gem::Version.new(b["govukversion"].gsub(/[\^~]/, ""))
 
   if version_a < version_b
     1
