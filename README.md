@@ -8,14 +8,12 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
-| [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
@@ -52,10 +50,12 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |

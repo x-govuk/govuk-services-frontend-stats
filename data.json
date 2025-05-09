@@ -472,7 +472,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.9.0",
+      "govukversion": "^5.10.0",
       "name": "Forms runner"
     },
     {
@@ -592,7 +592,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.9.0"
+      "govukversion": "^5.10.0"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
