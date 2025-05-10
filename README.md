@@ -4,7 +4,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | :------ | -------------------: | :---------------: |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
-| [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
@@ -46,6 +45,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | ![New crown](assets/new-crown.svg) |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.2.0 | ![New crown](assets/new-crown.svg) |
+| [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
