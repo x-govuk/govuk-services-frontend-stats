@@ -7,7 +7,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
@@ -50,6 +49,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -60,6 +60,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
@@ -67,7 +68,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Product page](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.8.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.8.0 | ![New crown](assets/new-crown.svg) |
 | [MoJ Forms – Product page](https://github.com/ministryofjustice/formbuilder-product-page/) | 4.8.0 | ![New crown](assets/new-crown.svg) |
 | [MoJ Forms – Form builder](https://github.com/ministryofjustice/fb-editor/) | 4.8.0 | ![New crown](assets/new-crown.svg) |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | ![New crown](assets/new-crown.svg) |

@@ -511,13 +511,13 @@
       "repo": "govuk-one-login/onboarding-self-service-experience",
       "serviceName": "GOV.UK One Login",
       "packageLocation": "express/",
-      "govukversion": "^4.8.0",
+      "govukversion": "^4.9.0",
       "name": "Admin tool"
     },
     {
       "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^5.9.0",
+      "govukversion": "^5.10.0",
       "name": "Account management frontend"
     },
     {
