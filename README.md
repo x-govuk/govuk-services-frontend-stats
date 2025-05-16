@@ -3,7 +3,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
-| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
@@ -30,7 +29,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.5.0 | ![New crown](assets/new-crown.svg) |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.5.0 | ![New crown](assets/new-crown.svg) |
@@ -42,14 +40,16 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | ![New crown](assets/new-crown.svg) |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.2.0 | ![New crown](assets/new-crown.svg) |
+| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
