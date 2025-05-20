@@ -15,7 +15,7 @@ export default function (eleventyConfig) {
     themeColor: "#2288aa",
     titleSuffix: "X-GOVUK",
     url: process.env.GITHUB_ACTIONS
-      ? "https://x-govuk.github.io/govuk-rspec-helpers/"
+      ? "https://x-govuk.github.io/govuk-services-frontend-stats/"
       : "/",
     stylesheets: ["/assets/application.css"],
     header: {
