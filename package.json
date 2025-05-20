@@ -9,7 +9,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/x-govuk/govuk-services-frontend-stats.git"
+    "url": "git+https://github.com/x-govuk/govuk-services-frontend-stats.git"
   },
   "scripts": {
     "build": "eleventy --quiet",
@@ -19,11 +19,11 @@
     "access": "public"
   },
   "dependencies": {
-    "@11ty/eleventy": "^3.0.0",
-    "@x-govuk/govuk-eleventy-plugin": "^6.0.0"
+    "@11ty/eleventy": "^3.1.0",
+    "@x-govuk/govuk-eleventy-plugin": "^7.0.0"
   },
   "engines": {
-    "node": "^20"
+    "node": ">=22"
   },
   "type": "module"
 }
