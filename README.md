@@ -5,7 +5,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
@@ -59,6 +58,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
