@@ -13,7 +13,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
-| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Manage family support services and accounts](https://github.com/DFE-Digital/fh-services/tree/main/src/shared/web-components/src/familyhubs-frontend/) | 5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.8 | ![New crown](assets/new-crown.svg) |
@@ -60,6 +59,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
