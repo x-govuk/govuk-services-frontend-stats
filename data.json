@@ -353,7 +353,7 @@
     {
       "repo": "DFE-Digital/publish-teacher-training",
       "serviceName": "Publish teacher training courses",
-      "govukversion": "^5.10.1"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "bitzesty/qae",
@@ -653,7 +653,7 @@
     {
       "repo": "hmcts/nfdiv-frontend",
       "serviceName": "Apply for a divorce",
-      "govukversion": "5.10.1"
+      "govukversion": "5.10.2"
     },
     {
       "repo": "DFE-Digital/fh-services",
