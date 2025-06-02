@@ -672,6 +672,18 @@
       "serviceName": "MoJ Forms",
       "name": "Form builder",
       "govukversion": "4.8.0"
+    },
+    {
+      "repo": "govuk-one-login/mobile-ios-one-login-app",
+      "serviceName": "GOV.UK Wallet",
+      "name": "iOS app",
+      "skip": "maybe"
+    },
+    {
+      "repo": "govuk-one-login/mobile-android-one-login-app",
+      "serviceName": "GOV.UK Wallet",
+      "name": "Android app",
+      "skip": "maybe"
     }
   ]
 }
