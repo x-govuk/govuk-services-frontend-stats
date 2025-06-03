@@ -109,7 +109,7 @@
     {
       "repo": "alphagov/govuk-design-system",
       "serviceName": "GOV.UK Design System",
-      "govukversion": "^5.10.1",
+      "govukversion": "^5.10.2",
       "name": "Website"
     },
     {
@@ -209,13 +209,13 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.10.1",
+      "govukversion": "5.10.2",
       "name": "Product pages"
     },
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.10.1",
+      "govukversion": "^5.10.2",
       "name": "Admin application"
     },
     {
@@ -383,7 +383,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.10.1"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -475,7 +475,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.10.1",
+      "govukversion": "^5.10.2",
       "name": "Forms runner"
     },
     {
@@ -579,7 +579,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "^5.10.1"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
@@ -611,13 +611,13 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.10.1"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing booking service",
-      "govukversion": "^5.10.1"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "alphagov/platforms-product-page",
