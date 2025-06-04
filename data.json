@@ -300,7 +300,7 @@
     {
       "repo": "alphagov/notifications-admin",
       "serviceName": "GOV.UK Notify",
-      "govukversion": "5.10.0"
+      "govukversion": "5.10.2"
     },
     {
       "repo": "alphagov/datagovuk_find",
@@ -447,7 +447,7 @@
     {
       "repo": "trade-tariff/trade-tariff-frontend",
       "serviceName": "Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff)",
-      "govukversion": "^5.10.1",
+      "govukversion": "^5.10.2",
       "name": "Front end",
       "skip": "maybe"
     },
