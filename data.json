@@ -44,7 +44,7 @@
     {
       "repo": "ministryofjustice/laa-apply-for-legal-aid",
       "serviceName": "Apply for legal aid",
-      "govukversion": "^5.10.1"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "SkillsFundingAgency/das-employerapprenticeshipsservice",
@@ -358,7 +358,8 @@
     {
       "repo": "bitzesty/qae",
       "serviceName": "King's Awards for Enterprise",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.7.1",
+      "skip": "maybe"
     },
     {
       "repo": "bitzesty/qavs-v2",
@@ -442,7 +443,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^5.10.1"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
@@ -595,7 +596,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.10.1"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
