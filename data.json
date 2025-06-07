@@ -275,7 +275,7 @@
     {
       "repo": "DFE-Digital/early-careers-framework",
       "serviceName": "Manage training for early career teachers",
-      "govukversion": "^5.9.0"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
@@ -649,7 +649,7 @@
     {
       "repo": "acteng/update-your-capital-schemes",
       "serviceName": "Update your capital schemes",
-      "govukversion": "~5.9.0"
+      "govukversion": "~5.10.0"
     },
     {
       "repo": "hmcts/nfdiv-frontend",
