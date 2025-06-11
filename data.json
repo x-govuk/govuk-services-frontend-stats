@@ -315,7 +315,7 @@
     {
       "repo": "alphagov/pay-frontend",
       "serviceName": "GOV.UK Pay",
-      "govukversion": "^5.10.1"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "ministryofjustice/peoplefinder",
@@ -521,7 +521,7 @@
     {
       "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^5.10.0",
+      "govukversion": "^5.10.2",
       "name": "Account management frontend"
     },
     {
