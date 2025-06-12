@@ -15,7 +15,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Manage family support services and accounts](https://github.com/DFE-Digital/fh-services/tree/main/src/shared/web-components/src/familyhubs-frontend/) | 5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.8 | ![New crown](assets/new-crown.svg) |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
-| [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
 | [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
@@ -59,6 +58,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
