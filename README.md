@@ -36,6 +36,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -57,7 +58,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
