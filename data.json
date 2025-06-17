@@ -348,7 +348,7 @@
     {
       "repo": "alphagov/govuk-prototype-kit",
       "serviceName": "GOV.UK Prototype Kit",
-      "govukversion": "5.2.0"
+      "govukversion": "5.10.2"
     },
     {
       "repo": "DFE-Digital/publish-teacher-training",

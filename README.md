@@ -31,7 +31,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.3.0 | ![New crown](assets/new-crown.svg) |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.2.0 | ![New crown](assets/new-crown.svg) |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.2.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -44,6 +43,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
