@@ -259,7 +259,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.9.0"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
