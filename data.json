@@ -104,12 +104,12 @@
     {
       "repo": "UKGovernmentBEIS/energy-label-service",
       "serviceName": "Create an energy label",
-      "govukversion": "^4.0.1"
+      "govukversion": "^5.11.0"
     },
     {
       "repo": "alphagov/govuk-design-system",
       "serviceName": "GOV.UK Design System",
-      "govukversion": "^5.10.2",
+      "govukversion": "^5.11.0",
       "name": "Website"
     },
     {
@@ -209,7 +209,7 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.10.2",
+      "govukversion": "5.11.0",
       "name": "Product pages"
     },
     {
@@ -348,7 +348,7 @@
     {
       "repo": "alphagov/govuk-prototype-kit",
       "serviceName": "GOV.UK Prototype Kit",
-      "govukversion": "5.10.2"
+      "govukversion": "5.11.0"
     },
     {
       "repo": "DFE-Digital/publish-teacher-training",
@@ -476,7 +476,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.10.2",
+      "govukversion": "^5.11.0",
       "name": "Forms runner"
     },
     {
@@ -575,7 +575,7 @@
       "repo": "DEFRA/rod-licensing",
       "serviceName": "Get a rod fishing licence",
       "packageLocation": "packages/gafl-webapp-service/",
-      "govukversion": "^5.2.0"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
