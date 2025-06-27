@@ -31,6 +31,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
+| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
@@ -40,7 +41,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
