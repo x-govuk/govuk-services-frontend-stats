@@ -34,7 +34,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.10.2"
+      "govukversion": "^5.11.0"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -157,7 +157,7 @@
     {
       "repo": "DFE-Digital/teaching-school-hub-finder",
       "serviceName": "Find a teaching school hub",
-      "govukversion": "5.4.0"
+      "govukversion": "5.10.2"
     },
     {
       "repo": "cabinetoffice/gap-find-apply-web",
@@ -443,7 +443,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^5.10.2"
+      "govukversion": "^5.11.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
