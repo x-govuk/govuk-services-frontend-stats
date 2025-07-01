@@ -38,8 +38,11 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
+| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
+| [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
+| [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -48,13 +51,10 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
