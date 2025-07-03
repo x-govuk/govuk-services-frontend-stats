@@ -215,7 +215,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.10.2",
+      "govukversion": "^5.11.0",
       "name": "Admin application"
     },
     {
@@ -461,7 +461,7 @@
     {
       "repo": "UKForeignOffice/verify-apostille-service",
       "serviceName": "Verify an apostille",
-      "govukversion": "^4.9.0"
+      "govukversion": "^4.10.0"
     },
     {
       "repo": "dvla/vdr-core",

@@ -35,6 +35,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
+| [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
@@ -46,7 +47,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -66,7 +66,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
-| [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Product page](https://github.com/govuk-one-login/onboarding-product-page/) | ^4.8.0 | ![New crown](assets/new-crown.svg) |
@@ -74,6 +73,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [MoJ Forms – Form builder](https://github.com/ministryofjustice/fb-editor/) | 4.8.0 | ![New crown](assets/new-crown.svg) |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | ![New crown](assets/new-crown.svg) |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | ![Old crown](assets/old-crown.svg) |
+| [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Sign up for flood warnings](https://github.com/DEFRA/flood-xws-contact-web/) | 4.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Find and Use an API](https://github.com/DFE-Digital/eapim-developer-hub/) | ^3.6.0 | ![Old crown](assets/old-crown.svg) |
 | [National Pupil Database (NPD)](https://github.com/DFE-Digital/npd-find-and-explore/) | ^3.5.0 | ![Old crown](assets/old-crown.svg) |
