@@ -51,14 +51,14 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
+| [UK Integrated Online Tariff – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Look up commodity codes, import duties, taxes and controls (UK Integrated Online Tariff) – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
+| [UK Integrated Online Tariff – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
