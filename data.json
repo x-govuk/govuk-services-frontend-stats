@@ -259,7 +259,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.10.2"
+      "govukversion": "^5.11.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -634,7 +634,7 @@
     {
       "repo": "DFE-Digital/improve-workload-and-wellbeing-for-school-staff",
       "serviceName": "Improve workload and wellbeing for school staff",
-      "govukversion": "^5.3.0"
+      "govukversion": "^5.11.0"
     },
     {
       "repo": "ministryofjustice/grc-app",
