@@ -36,6 +36,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
+| [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
@@ -63,7 +64,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.9.0 | ![New crown](assets/new-crown.svg) |

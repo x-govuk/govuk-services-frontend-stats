@@ -629,7 +629,7 @@
       "repo": "govuk-one-login/authentication-frontend",
       "serviceName": "GOV.UK One Login",
       "name": "Authentication frontend",
-      "govukversion": "4.9.0"
+      "govukversion": "5.11.0"
     },
     {
       "repo": "DFE-Digital/improve-workload-and-wellbeing-for-school-staff",
