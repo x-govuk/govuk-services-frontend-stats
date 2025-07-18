@@ -110,7 +110,8 @@
       "repo": "alphagov/govuk-design-system",
       "serviceName": "GOV.UK Design System",
       "govukversion": "^5.11.0",
-      "name": "Website"
+      "name": "Website",
+      "skip": "maybe"
     },
     {
       "repo": "alphagov/govuk-frontend",
