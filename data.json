@@ -34,7 +34,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.11.0"
+      "govukversion": "^5.11.1"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -522,7 +522,7 @@
     {
       "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^5.10.2",
+      "govukversion": "^5.11.1",
       "name": "Account management frontend"
     },
     {
@@ -581,7 +581,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "^5.11.0"
+      "govukversion": "^5.11.1"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
