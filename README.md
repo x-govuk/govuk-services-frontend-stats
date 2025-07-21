@@ -18,6 +18,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
+| [Check the children's barred list](https://github.com//) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
@@ -26,6 +27,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
+| [Apply for qualified teacher status (QTS) in England](https://github.com//) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
@@ -72,6 +74,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [MoJ Forms – Product page](https://github.com/ministryofjustice/formbuilder-product-page/) | 4.8.0 | ![New crown](assets/new-crown.svg) |
 | [MoJ Forms – Form builder](https://github.com/ministryofjustice/fb-editor/) | 4.8.0 | ![New crown](assets/new-crown.svg) |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | ![New crown](assets/new-crown.svg) |
+| [Complete conversions, transfers and changes](https://github.com//) | ^4.7.0 | ![Old crown](assets/old-crown.svg) |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | ![Old crown](assets/old-crown.svg) |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Sign up for flood warnings](https://github.com/DEFRA/flood-xws-contact-web/) | 4.0.0 | ![Old crown](assets/old-crown.svg) |

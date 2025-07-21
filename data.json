@@ -686,6 +686,21 @@
       "serviceName": "GOV.UK Wallet",
       "name": "Android app",
       "skip": "maybe"
+    },
+    {
+      "repo": "DFE-Digital/apply-for-qualified-teacher-status",
+      "serviceName": "Apply for qualified teacher status (QTS) in England",
+      "govukversion": "^5.11.1"
+    },
+    {
+      "repo": "DFE-Digital/check-childrens-barred-list",
+      "serviceName": "Check the children's barred list",
+      "govukversion": "^5.6.0"
+    },
+    {
+      "repo": "DFE-Digital/dfe-complete-conversions-transfers-and-changes",
+      "serviceName": "Complete conversions, transfers and changes",
+      "govukversion": "^4.7.0"
     }
   ]
 }
