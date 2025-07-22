@@ -597,7 +597,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.11.0"
+      "govukversion": "^5.11.1"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
@@ -619,7 +619,7 @@
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing booking service",
-      "govukversion": "^5.11.0"
+      "govukversion": "^5.11.1"
     },
     {
       "repo": "alphagov/platforms-product-page",
