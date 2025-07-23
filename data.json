@@ -84,7 +84,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.11.0"
+      "govukversion": "^5.11.1"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -613,7 +613,7 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.11.0"
+      "govukversion": "^5.11.1"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
@@ -630,7 +630,7 @@
       "repo": "govuk-one-login/authentication-frontend",
       "serviceName": "GOV.UK One Login",
       "name": "Authentication frontend",
-      "govukversion": "5.11.0"
+      "govukversion": "5.11.1"
     },
     {
       "repo": "DFE-Digital/improve-workload-and-wellbeing-for-school-staff",
