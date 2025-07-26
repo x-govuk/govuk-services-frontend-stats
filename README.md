@@ -31,6 +31,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
+| [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.11.1 | ![New crown](assets/new-crown.svg) |
+| [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
@@ -41,8 +43,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Product page](https://github.com/govuk-one-login/onboarding-product-page/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
