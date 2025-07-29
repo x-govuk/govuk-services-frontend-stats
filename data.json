@@ -301,7 +301,7 @@
     {
       "repo": "alphagov/notifications-admin",
       "serviceName": "GOV.UK Notify",
-      "govukversion": "5.11.0"
+      "govukversion": "5.11.1"
     },
     {
       "repo": "alphagov/datagovuk_find",
@@ -385,7 +385,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.11.0"
+      "govukversion": "^5.11.1"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
