@@ -27,6 +27,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
+| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
@@ -54,7 +55,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Report your Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
-| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
