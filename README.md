@@ -4,7 +4,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | :------ | -------------------: | :---------------: |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
-| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
@@ -37,6 +36,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.1 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.1 | ![New crown](assets/new-crown.svg) |
+| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
