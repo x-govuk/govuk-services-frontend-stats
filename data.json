@@ -592,7 +592,7 @@
     {
       "repo": "DEFRA/rod-catch-returns-frontend",
       "serviceName": "Report your salmon or sea trout catch",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.10.2"
     },
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
