@@ -517,7 +517,7 @@
       "repo": "govuk-one-login/onboarding-self-service-experience",
       "serviceName": "GOV.UK One Login",
       "packageLocation": "express/",
-      "govukversion": "^5.11.0",
+      "govukversion": "^5.11.1",
       "name": "Admin tool"
     },
     {

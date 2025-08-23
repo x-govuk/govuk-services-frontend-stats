@@ -34,6 +34,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.1 | ![New crown](assets/new-crown.svg) |
+| [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.1 | ![New crown](assets/new-crown.svg) |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.11.1 | ![New crown](assets/new-crown.svg) |
@@ -49,7 +50,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK One Login – Product page](https://github.com/govuk-one-login/onboarding-product-page/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.11.0 | ![New crown](assets/new-crown.svg) |
