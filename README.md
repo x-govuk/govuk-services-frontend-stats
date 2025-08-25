@@ -12,7 +12,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.8 | ![New crown](assets/new-crown.svg) |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
-| [King's Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
+| [King’s Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |

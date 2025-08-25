@@ -359,7 +359,7 @@
     },
     {
       "repo": "bitzesty/qae",
-      "serviceName": "King's Awards for Enterprise",
+      "serviceName": "King’s Awards for Enterprise",
       "govukversion": "^5.7.1",
       "skip": "maybe"
     },
@@ -607,7 +607,7 @@
     },
     {
       "repo": "alphagov/platforms-product-page",
-      "serviceName": "GOV.UK UK Government Security",
+      "serviceName": "Government Security",
       "skip": true
     },
     {
