@@ -13,7 +13,7 @@
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
       "serviceName": "Appeal a planning decision",
-      "govukversion": "^5.9.0"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "DFE-Digital/Dfe.Academies.External",
@@ -34,7 +34,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.11.1"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -84,7 +84,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.11.1"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -216,7 +216,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.11.1",
+      "govukversion": "^5.11.2",
       "name": "Admin application"
     },
     {
@@ -355,7 +355,7 @@
     {
       "repo": "DFE-Digital/publish-teacher-training",
       "serviceName": "Publish teacher training courses",
-      "govukversion": "^5.11.0"
+      "govukversion": "^5.11.1"
     },
     {
       "repo": "bitzesty/qae",
@@ -582,7 +582,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "^5.11.1"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
