@@ -104,12 +104,25 @@ end
 
 def has_tudor_crown?(version)
   version = version.gsub(/[\^\~]/, "")
-  version.start_with?("3.15") || version.start_with?("4.8") || version.start_with?("4.9") || version.start_with?("4.10") || (version.start_with?("5") && !version.start_with?("5.0"))
+
+  # Split version string into major and minor components
+  major, minor = version.split('.').map(&:to_i)
+
+  # Check if version is greater than 3.15, 4.8 or 5.x
+  (major == 3 && minor >= 15) ||
+  (major == 4 && minor >= 8) ||
+  (major == 5)
 end
 
 def can_rebrand?(version)
   version = version.gsub(/[\^\~]/, "")
-  version.start_with?("4.10") || (version.start_with?("5.10"))
+
+  # Split version string into major and minor components
+  major, minor = version.split('.').map(&:to_i)
+
+  # Check if version is greater than 4.10 or 5.10
+  (major == 4 && minor >= 10) ||
+  (major == 5 && minor >= 10)
 end
 
 # Update README.md
