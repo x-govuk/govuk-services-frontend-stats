@@ -2,27 +2,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
-| [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
-| [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
-| [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
-| [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
-| [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
-| [Manage family support services and accounts](https://github.com/DFE-Digital/fh-services/tree/main/src/shared/web-components/src/familyhubs-frontend/) | 5.8.0 | ![New crown](assets/new-crown.svg) |
-| [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.8 | ![New crown](assets/new-crown.svg) |
-| [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
-| [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
-| [King’s Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
-| [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
-| [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
-| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
-| [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
-| [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
-| [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
-| [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.5.0 | ![New crown](assets/new-crown.svg) |
-| [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.5.0 | ![New crown](assets/new-crown.svg) |
-| [Check for flooding](https://github.com/DEFRA/flood-app/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
-| [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
-| [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -67,23 +46,44 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [UK Integrated Online Tariff – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
+| [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
+| [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
+| [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
+| [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
+| [Manage family support services and accounts](https://github.com/DFE-Digital/fh-services/tree/main/src/shared/web-components/src/familyhubs-frontend/) | 5.8.0 | ![New crown](assets/new-crown.svg) |
+| [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.8 | ![New crown](assets/new-crown.svg) |
+| [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
+| [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
+| [King’s Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
+| [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
+| [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
+| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
+| [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
+| [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
+| [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
+| [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.5.0 | ![New crown](assets/new-crown.svg) |
+| [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.5.0 | ![New crown](assets/new-crown.svg) |
+| [Check for flooding](https://github.com/DEFRA/flood-app/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
+| [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
+| [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
+| [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | ![New crown](assets/new-crown.svg) |
+| [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | ![New crown](assets/new-crown.svg) |
 | [MoJ Forms – Product page](https://github.com/ministryofjustice/formbuilder-product-page/) | 4.8.0 | ![New crown](assets/new-crown.svg) |
 | [MoJ Forms – Form builder](https://github.com/ministryofjustice/fb-editor/) | 4.8.0 | ![New crown](assets/new-crown.svg) |
-| [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | ![New crown](assets/new-crown.svg) |
 | [Complete conversions, transfers and changes](https://github.com/DFE-Digital/dfe-complete-conversions-transfers-and-changes/) | ^4.7.0 | ![Old crown](assets/old-crown.svg) |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | ![Old crown](assets/old-crown.svg) |
-| [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Sign up for flood warnings](https://github.com/DEFRA/flood-xws-contact-web/) | 4.0.0 | ![Old crown](assets/old-crown.svg) |
-| [Find and Use an API](https://github.com/DFE-Digital/eapim-developer-hub/) | ^3.6.0 | ![Old crown](assets/old-crown.svg) |
-| [National Pupil Database (NPD)](https://github.com/DFE-Digital/npd-find-and-explore/) | ^3.5.0 | ![Old crown](assets/old-crown.svg) |
-| [Apply for innovation funding](https://github.com/InnovateUKGitHub/innovation-funding-service/tree/main/ifs-web-service/) | ^3.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Get information about schools](https://github.com/DFE-Digital/get-information-about-schools/tree/main/Web/Edubase.Web.UI/) | ^3.15.0 | ![New crown](assets/new-crown.svg) |
 | [Home Office Forms](https://github.com/UKHomeOfficeForms/hof/) | 3.15 | ![New crown](assets/new-crown.svg) |
 | [Apply for a Gender Recognition Certificate](https://github.com/cabinetoffice/grc-app/) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |
 | [Coronavirus (COVID-19) in the UK ](https://github.com/publichealthengland/coronavirus-dashboard/) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |
 | [The King’s Award for Voluntary Service](https://github.com/bitzesty/qavs-v2/) | ^3.13.0 | ![Old crown](assets/old-crown.svg) |
+| [Find and Use an API](https://github.com/DFE-Digital/eapim-developer-hub/) | ^3.6.0 | ![Old crown](assets/old-crown.svg) |
+| [National Pupil Database (NPD)](https://github.com/DFE-Digital/npd-find-and-explore/) | ^3.5.0 | ![Old crown](assets/old-crown.svg) |
+| [Apply for innovation funding](https://github.com/InnovateUKGitHub/innovation-funding-service/tree/main/ifs-web-service/) | ^3.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Report modern slavery](https://github.com/UKHomeOffice/modern-slavery/) | ^2.7.0 | ![Old crown](assets/old-crown.svg) |
