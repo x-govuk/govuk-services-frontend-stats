@@ -44,7 +44,7 @@
     {
       "repo": "ministryofjustice/laa-apply-for-legal-aid",
       "serviceName": "Apply for legal aid",
-      "govukversion": "^5.11.1"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "SkillsFundingAgency/das-employerapprenticeshipsservice",
@@ -386,7 +386,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.11.1"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -523,7 +523,7 @@
     {
       "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^5.11.1",
+      "govukversion": "^5.11.2",
       "name": "Account management frontend"
     },
     {
@@ -691,7 +691,7 @@
     {
       "repo": "DFE-Digital/apply-for-qualified-teacher-status",
       "serviceName": "Apply for qualified teacher status (QTS) in England",
-      "govukversion": "^5.11.1"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "DFE-Digital/check-childrens-barred-list",
