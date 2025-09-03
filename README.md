@@ -17,6 +17,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -50,7 +51,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Develop your career in child and family social work](https://github.com/DFE-Digital/childrens-social-care-cpd/tree/main/Childrens-Social-Care-CPD/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
-| [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Manage family support services and accounts](https://github.com/DFE-Digital/fh-services/tree/main/src/shared/web-components/src/familyhubs-frontend/) | 5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.8 | ![New crown](assets/new-crown.svg) |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
