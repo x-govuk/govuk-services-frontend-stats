@@ -277,7 +277,7 @@
     {
       "repo": "DFE-Digital/early-careers-framework",
       "serviceName": "Manage training for early career teachers",
-      "govukversion": "^5.10.2"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
