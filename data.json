@@ -391,7 +391,7 @@
     {
       "repo": "UKHomeOffice/modern-slavery",
       "serviceName": "Report modern slavery",
-      "govukversion": "^2.7.0"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "UKGovernmentBEIS/beis-report-official-development-assistance",
@@ -473,7 +473,7 @@
     {
       "repo": "alphagov/govwifi-product-page",
       "serviceName": "GovWifi",
-      "govukversion": "^4.9.0"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "alphagov/forms-runner",
@@ -631,7 +631,7 @@
       "repo": "govuk-one-login/authentication-frontend",
       "serviceName": "GOV.UK One Login",
       "name": "Authentication frontend",
-      "govukversion": "5.11.1"
+      "govukversion": "5.11.2"
     },
     {
       "repo": "DFE-Digital/improve-workload-and-wellbeing-for-school-staff",

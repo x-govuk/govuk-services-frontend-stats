@@ -11,9 +11,12 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Report modern slavery](https://github.com/UKHomeOffice/modern-slavery/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -23,7 +26,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -69,7 +71,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
-| [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | ![New crown](assets/new-crown.svg) |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | ![New crown](assets/new-crown.svg) |
@@ -86,4 +87,3 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find and Use an API](https://github.com/DFE-Digital/eapim-developer-hub/) | ^3.6.0 | ![Old crown](assets/old-crown.svg) |
 | [National Pupil Database (NPD)](https://github.com/DFE-Digital/npd-find-and-explore/) | ^3.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for innovation funding](https://github.com/InnovateUKGitHub/innovation-funding-service/tree/main/ifs-web-service/) | ^3.3.0 | ![Old crown](assets/old-crown.svg) |
-| [Report modern slavery](https://github.com/UKHomeOffice/modern-slavery/) | ^2.7.0 | ![Old crown](assets/old-crown.svg) |
