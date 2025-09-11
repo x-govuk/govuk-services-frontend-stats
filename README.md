@@ -19,6 +19,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Report modern slavery](https://github.com/UKHomeOffice/modern-slavery/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -40,6 +41,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report your Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -48,7 +50,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Submit cosmetic product notifications](https://github.com/UKGovernmentBEIS/beis-opss-cosmetics/tree/main/cosmetics-web/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [UK Integrated Online Tariff – Calculator front end](https://github.com/trade-tariff/trade-tariff-duty-calculator/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Calculate teacher pay](https://github.com/DFE-Digital/teacher-pay-calculator/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.9.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.8.0 | ![New crown](assets/new-crown.svg) |
@@ -69,7 +70,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
-| [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^4.10.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 4.9.0 | ![New crown](assets/new-crown.svg) |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | ![New crown](assets/new-crown.svg) |

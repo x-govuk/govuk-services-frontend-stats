@@ -463,7 +463,7 @@
     {
       "repo": "UKForeignOffice/verify-apostille-service",
       "serviceName": "Verify an apostille",
-      "govukversion": "^4.10.0"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "dvla/vdr-core",
@@ -651,7 +651,7 @@
     {
       "repo": "acteng/update-your-capital-schemes",
       "serviceName": "Update your capital schemes",
-      "govukversion": "~5.10.0"
+      "govukversion": "~5.11.0"
     },
     {
       "repo": "hmcts/nfdiv-frontend",
