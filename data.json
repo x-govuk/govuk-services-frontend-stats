@@ -656,7 +656,7 @@
     {
       "repo": "hmcts/nfdiv-frontend",
       "serviceName": "Apply for a divorce",
-      "govukversion": "5.11.1"
+      "govukversion": "5.11.2"
     },
     {
       "repo": "DFE-Digital/fh-services",

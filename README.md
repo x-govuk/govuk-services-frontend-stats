@@ -3,6 +3,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -22,7 +23,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
