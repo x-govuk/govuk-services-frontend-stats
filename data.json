@@ -702,6 +702,30 @@
       "repo": "DFE-Digital/dfe-complete-conversions-transfers-and-changes",
       "serviceName": "Complete conversions, transfers and changes",
       "govukversion": "^4.7.0"
+    },
+    {
+      "repo": "Crown-Commercial-Service/digitalmarketplace-supplier-frontend",
+      "serviceName": "Digital Marketplace",
+      "name": "Supplier frontend",
+      "govukversion": "2.13.0"
+    },
+    {
+      "repo": "Crown-Commercial-Service/digitalmarketplace-buyer-frontend",
+      "serviceName": "Digital Marketplace",
+      "name": "Buyer frontend",
+      "govukversion": "^3.14.0"
+    },
+    {
+      "repo": "Crown-Commercial-Service/digitalmarketplace-briefs-frontend",
+      "serviceName": "Digital Marketplace",
+      "name": "Supplier briefs frontend",
+      "govukversion": "^3.14.0"
+    },
+    {
+      "repo": "Crown-Commercial-Service/digitalmarketplace-api",
+      "serviceName": "Digital Marketplace",
+      "name": "API",
+      "skip": "maybe"
     }
   ]
 }
