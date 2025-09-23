@@ -83,10 +83,10 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Home Office Forms](https://github.com/UKHomeOfficeForms/hof/) | 3.15 | ![New crown](assets/new-crown.svg) |
 | [Apply for a Gender Recognition Certificate](https://github.com/cabinetoffice/grc-app/) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |
 | [Coronavirus (COVID-19) in the UK ](https://github.com/publichealthengland/coronavirus-dashboard/) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |
-| [Digital Marketplace](https://github.com//) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |
-| [Digital Marketplace](https://github.com//) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |
+| [Digital Marketplace – Buyer frontend](https://github.com/Crown-Commercial-Service/digitalmarketplace-buyer-frontend/) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |
+| [Digital Marketplace – Supplier briefs frontend](https://github.com/Crown-Commercial-Service/digitalmarketplace-briefs-frontend/) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |
 | [The King’s Award for Voluntary Service](https://github.com/bitzesty/qavs-v2/) | ^3.13.0 | ![Old crown](assets/old-crown.svg) |
 | [Find and Use an API](https://github.com/DFE-Digital/eapim-developer-hub/) | ^3.6.0 | ![Old crown](assets/old-crown.svg) |
 | [National Pupil Database (NPD)](https://github.com/DFE-Digital/npd-find-and-explore/) | ^3.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for innovation funding](https://github.com/InnovateUKGitHub/innovation-funding-service/tree/main/ifs-web-service/) | ^3.3.0 | ![Old crown](assets/old-crown.svg) |
-| [Digital Marketplace](https://github.com//) | 2.13.0 | ![Old crown](assets/old-crown.svg) |
+| [Digital Marketplace – Supplier frontend](https://github.com/Crown-Commercial-Service/digitalmarketplace-supplier-frontend/) | 2.13.0 | ![Old crown](assets/old-crown.svg) |
