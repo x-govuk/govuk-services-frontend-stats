@@ -2,6 +2,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
+| [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.12.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.12.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.12.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.12.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -18,11 +20,9 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report modern slavery](https://github.com/UKHomeOffice/modern-slavery/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
