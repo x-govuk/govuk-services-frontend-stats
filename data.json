@@ -210,7 +210,7 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.11.2",
+      "govukversion": "5.12.0",
       "name": "Product pages"
     },
     {
@@ -530,7 +530,7 @@
       "repo": "communitiesuk/epb-frontend",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register front end",
-      "govukversion": "^5.11.0"
+      "govukversion": "^5.11.2"
     },
     {
       "repo": "communitiesuk/epb-register-api",
