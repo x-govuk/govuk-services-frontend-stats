@@ -84,7 +84,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.11.2"
+      "govukversion": "^5.12.0"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -216,7 +216,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^5.11.2",
+      "govukversion": "^5.12.0",
       "name": "Admin application"
     },
     {
@@ -261,7 +261,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.11.2"
+      "govukversion": "^5.12.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -386,7 +386,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.11.2"
+      "govukversion": "^5.12.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
