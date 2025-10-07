@@ -593,12 +593,12 @@
     {
       "repo": "DEFRA/rod-catch-returns-frontend",
       "serviceName": "Report your salmon or sea trout catch",
-      "govukversion": "^5.10.2"
+      "govukversion": "5.10.2"
     },
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.11.2"
+      "govukversion": "^5.12.0"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
