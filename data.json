@@ -13,7 +13,7 @@
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
       "serviceName": "Appeal a planning decision",
-      "govukversion": "^5.11.2"
+      "govukversion": "^5.12.0"
     },
     {
       "repo": "DFE-Digital/Dfe.Academies.External",
@@ -582,7 +582,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "^5.11.2"
+      "govukversion": "^5.12.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
