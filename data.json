@@ -199,7 +199,7 @@
     {
       "repo": "DEFRA/flood-app",
       "serviceName": "Check for flooding",
-      "govukversion": "^5.10.0"
+      "govukversion": "5.10.0"
     },
     {
       "repo": "alphagov/travel-advice-publisher",
