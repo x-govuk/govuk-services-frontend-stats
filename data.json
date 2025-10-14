@@ -13,7 +13,7 @@
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
       "serviceName": "Appeal a planning decision",
-      "govukversion": "^5.12.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "DFE-Digital/Dfe.Academies.External",
@@ -84,7 +84,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.12.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -261,7 +261,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^5.12.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -272,12 +272,12 @@
     {
       "repo": "UKHomeOfficeForms/hof",
       "serviceName": "Home Office Forms",
-      "govukversion": "3.15"
+      "govukversion": "3.15.0"
     },
     {
       "repo": "DFE-Digital/early-careers-framework",
       "serviceName": "Manage training for early career teachers",
-      "govukversion": "^5.12.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "hmcts/cmc-legal-rep-frontend",
@@ -614,13 +614,13 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.12.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing booking service",
-      "govukversion": "^5.12.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "alphagov/platforms-product-page",
