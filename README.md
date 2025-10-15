@@ -4,13 +4,13 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | :------ | -------------------: | :---------------: |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.12.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.12.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.12.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.12.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.12.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.12.0 | ![New crown](assets/new-crown.svg#rebrand) |
