@@ -445,7 +445,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^5.12.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
@@ -641,7 +641,7 @@
     {
       "repo": "ministryofjustice/grc-app",
       "serviceName": "Apply for a Gender Recognition Certificate",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "Planning-Inspectorate/applications-service",
