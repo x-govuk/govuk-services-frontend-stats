@@ -376,7 +376,7 @@
     {
       "repo": "DFE-Digital/refer-serious-misconduct",
       "serviceName": "Refer serious misconduct by a teacher in England",
-      "govukversion": "5.5.0"
+      "govukversion": "5.13.0"
     },
     {
       "repo": "DFE-Digital/npq-registration",
@@ -386,7 +386,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.12.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -411,7 +411,7 @@
     {
       "repo": "DFE-Digital/schools-experience",
       "serviceName": "Get school experience",
-      "govukversion": "5.9.0"
+      "govukversion": "5.11.0"
     },
     {
       "repo": "ministryofjustice/money-to-prisoners-send-money",
