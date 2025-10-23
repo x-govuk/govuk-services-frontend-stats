@@ -582,7 +582,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "^5.12.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
@@ -598,7 +598,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.12.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
