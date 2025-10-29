@@ -2,9 +2,12 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
+| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -19,7 +22,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -64,10 +66,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [King’s Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
-| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
-| [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.5.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |

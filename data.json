@@ -8,7 +8,7 @@
     {
       "repo": "DFE-Digital/access-your-teaching-qualifications",
       "serviceName": "Access your teaching qualifications",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
@@ -153,7 +153,7 @@
     {
       "repo": "DFE-Digital/find-a-lost-trn",
       "serviceName": "Find a lost teacher reference number (TRN)",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "DFE-Digital/teaching-school-hub-finder",
@@ -691,7 +691,7 @@
     {
       "repo": "DFE-Digital/apply-for-qualified-teacher-status",
       "serviceName": "Apply for qualified teacher status (QTS) in England",
-      "govukversion": "^5.11.2"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "DFE-Digital/check-childrens-barred-list",
