@@ -651,7 +651,7 @@
     {
       "repo": "acteng/update-your-capital-schemes",
       "serviceName": "Update your capital schemes",
-      "govukversion": "~5.11.0"
+      "govukversion": "~5.13.0"
     },
     {
       "repo": "hmcts/nfdiv-frontend",

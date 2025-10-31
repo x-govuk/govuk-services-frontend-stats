@@ -19,6 +19,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -47,7 +48,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report your Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
