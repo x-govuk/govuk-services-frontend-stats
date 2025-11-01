@@ -26,9 +26,6 @@ export default function (eleventyConfig) {
     stylesheets: ["/assets/application.css"],
     themeColor: "#2288aa",
     titleSuffix: "X-GOVUK",
-    url: process.env.GITHUB_ACTIONS
-      ? "https://x-govuk.org/govuk-services-frontend-stats/"
-      : "/",
   });
 
   // Passthrough
@@ -41,8 +38,5 @@ export default function (eleventyConfig) {
     dataTemplateEngine: "njk",
     htmlTemplateEngine: "njk",
     markdownTemplateEngine: "njk",
-    pathPrefix: process.env.GITHUB_ACTIONS
-      ? "/govuk-services-frontend-stats/"
-      : "/",
   };
 }

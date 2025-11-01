@@ -1,8 +1,8 @@
 {
   "name": "govuk-services-frontend-stats",
   "version": "0.0.1",
-  "description": "Documentation for govuk-rspec-helpers",
-  "homepage": "https://x-govuk.org/govuk-services-frontend-stats/",
+  "description": "Current versions of GOV.UK Frontend used by different services, based on their publicly available source code",
+  "homepage": "https://govuk-services-frontend-stats.x-govuk.org",
   "bugs": {
     "url": "https://github.com/x-govuk/govuk-services-frontend-stats/issues"
   },
