@@ -34,7 +34,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.11.2"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -523,7 +523,7 @@
     {
       "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^5.11.2",
+      "govukversion": "^5.13.0",
       "name": "Account management frontend"
     },
     {
