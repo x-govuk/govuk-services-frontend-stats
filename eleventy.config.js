@@ -12,7 +12,7 @@ export default function (eleventyConfig) {
       },
     },
     header: {
-      homepageUrl: "https://x-govuk.github.io",
+      homepageUrl: "https://x-govuk.org",
     },
     icons: {
       mask: "https://raw.githubusercontent.com/x-govuk/logo/main/images/x-govuk-icon-mask.svg?raw=true",
@@ -27,7 +27,7 @@ export default function (eleventyConfig) {
     themeColor: "#2288aa",
     titleSuffix: "X-GOVUK",
     url: process.env.GITHUB_ACTIONS
-      ? "https://x-govuk.github.io/govuk-services-frontend-stats/"
+      ? "https://x-govuk.org/govuk-services-frontend-stats/"
       : "/",
   });
 
