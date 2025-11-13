@@ -234,7 +234,7 @@
     {
       "repo": "DFE-Digital/buy-for-your-school",
       "serviceName": "Get help buying for schools",
-      "govukversion": "^5.5.0"
+      "govukversion": "^5.11.1"
     },
     {
       "repo": "DFE-Digital/get-information-about-schools",
@@ -473,7 +473,7 @@
     {
       "repo": "alphagov/govwifi-product-page",
       "serviceName": "GovWifi",
-      "govukversion": "^5.11.2"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "alphagov/forms-runner",
