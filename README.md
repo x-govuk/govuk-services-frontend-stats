@@ -17,6 +17,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -46,7 +47,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK One Login – Product page](https://github.com/govuk-one-login/onboarding-product-page/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get information about schools](https://github.com/DFE-Digital/get-information-about-schools/tree/main/Web/Edubase.Web.UI/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report your Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
