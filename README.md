@@ -15,6 +15,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -38,7 +39,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -72,6 +72,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
+| [Home Office Forms](https://github.com/UKHomeOfficeForms/hof/) | 4.10 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Gender pay gap service](https://github.com/cabinetoffice/gender-pay-gap/tree/main/GenderPayGap.WebUI/) | ^4.9.0 | ![New crown](assets/new-crown.svg) |
 | [Check if you can get legal aid](https://github.com/ministryofjustice/cla_public/) | ^4.8.0 | ![New crown](assets/new-crown.svg) |
 | [Find a grant](https://github.com/cabinetoffice/gap-find-apply-web/tree/main/packages/applicant/) | ^4.8 | ![New crown](assets/new-crown.svg) |
@@ -80,7 +81,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Complete conversions, transfers and changes](https://github.com/DFE-Digital/dfe-complete-conversions-transfers-and-changes/) | ^4.7.0 | ![Old crown](assets/old-crown.svg) |
 | [Find postgraduate teacher training](https://github.com/DFE-Digital/find-teacher-training/) | ^4.4.1 | ![Old crown](assets/old-crown.svg) |
 | [Sign up for flood warnings](https://github.com/DEFRA/flood-xws-contact-web/) | 4.0.0 | ![Old crown](assets/old-crown.svg) |
-| [Home Office Forms](https://github.com/UKHomeOfficeForms/hof/) | 3.15.0 | ![New crown](assets/new-crown.svg) |
 | [Apply for a Gender Recognition Certificate](https://github.com/cabinetoffice/grc-app/) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |
 | [Coronavirus (COVID-19) in the UK ](https://github.com/publichealthengland/coronavirus-dashboard/) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |
 | [Digital Marketplace – Buyer frontend](https://github.com/Crown-Commercial-Service/digitalmarketplace-buyer-frontend/) | ^3.14.0 | ![Old crown](assets/old-crown.svg) |

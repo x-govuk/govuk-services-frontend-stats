@@ -234,7 +234,7 @@
     {
       "repo": "DFE-Digital/buy-for-your-school",
       "serviceName": "Get help buying for schools",
-      "govukversion": "^5.11.1"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "DFE-Digital/get-information-about-schools",
@@ -272,7 +272,7 @@
     {
       "repo": "UKHomeOfficeForms/hof",
       "serviceName": "Home Office Forms",
-      "govukversion": "3.15.0"
+      "govukversion": "4.10"
     },
     {
       "repo": "DFE-Digital/early-careers-framework",
