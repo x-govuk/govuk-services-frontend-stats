@@ -494,7 +494,7 @@
     {
       "repo": "ministryofjustice/find-unclaimed-court-money",
       "serviceName": "Find unclaimed court money",
-      "govukversion": "^5.11.1"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "alphagov/finder-frontend",
