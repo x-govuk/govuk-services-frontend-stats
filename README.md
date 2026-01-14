@@ -22,6 +22,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -66,7 +67,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^5.8 | ![New crown](assets/new-crown.svg) |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
 | [King’s Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
-| [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
 | [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |

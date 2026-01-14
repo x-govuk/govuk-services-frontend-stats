@@ -328,7 +328,7 @@
       "repo": "DFE-Digital/plan-technology-for-your-school",
       "serviceName": "Plan technology for your school",
       "packageLocation": "src/Dfe.PlanTech.Web.Node/",
-      "govukversion": "^5.7.1"
+      "govukversion": "^5.13.0"
     },
     {
       "repo": "digital-land/digital-land.info",
