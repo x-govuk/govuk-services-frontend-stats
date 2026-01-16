@@ -34,7 +34,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^5.13.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -598,7 +598,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^5.13.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
@@ -651,12 +651,12 @@
     {
       "repo": "acteng/update-your-capital-schemes",
       "serviceName": "Update your capital schemes",
-      "govukversion": "~5.13.0"
+      "govukversion": "~5.14.0"
     },
     {
       "repo": "hmcts/nfdiv-frontend",
       "serviceName": "Apply for a divorce",
-      "govukversion": "5.13.0"
+      "govukversion": "5.14.0"
     },
     {
       "repo": "DFE-Digital/fh-services",
