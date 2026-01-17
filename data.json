@@ -386,7 +386,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^5.13.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -523,7 +523,7 @@
     {
       "repo": "govuk-one-login/di-account-management-frontend",
       "serviceName": "GOV.UK One Login",
-      "govukversion": "^5.13.0",
+      "govukversion": "^5.14.0",
       "name": "Account management frontend"
     },
     {
