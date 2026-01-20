@@ -84,7 +84,7 @@
     {
       "repo": "ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid",
       "serviceName": "Check if your client qualifies for legal aid",
-      "govukversion": "^5.13.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "alphagov/paas-product-pages",
@@ -582,7 +582,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "^5.13.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
@@ -614,13 +614,13 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.13.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing booking service",
-      "govukversion": "^5.13.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "alphagov/platforms-product-page",
@@ -691,7 +691,7 @@
     {
       "repo": "DFE-Digital/apply-for-qualified-teacher-status",
       "serviceName": "Apply for qualified teacher status (QTS) in England",
-      "govukversion": "^5.13.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "DFE-Digital/check-childrens-barred-list",

@@ -3,17 +3,20 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -22,15 +25,12 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report modern slavery](https://github.com/UKHomeOffice/modern-slavery/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
