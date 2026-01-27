@@ -2,6 +2,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
+| [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -15,7 +16,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
