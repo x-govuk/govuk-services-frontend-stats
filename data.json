@@ -169,7 +169,7 @@
     {
       "repo": "ministryofjustice/fala",
       "serviceName": "Find a legal aid adviser or family mediator",
-      "govukversion": "5.11.0"
+      "govukversion": "5.14.0"
     },
     {
       "repo": "DFE-Digital/npd-find-and-explore",
@@ -445,7 +445,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^5.13.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
