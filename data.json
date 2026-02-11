@@ -210,7 +210,7 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "5.13.0",
+      "govukversion": "5.14.0",
       "name": "Product pages"
     },
     {
@@ -391,7 +391,7 @@
     {
       "repo": "UKHomeOffice/modern-slavery",
       "serviceName": "Report modern slavery",
-      "govukversion": "^5.11.2"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "UKGovernmentBEIS/beis-report-official-development-assistance",
