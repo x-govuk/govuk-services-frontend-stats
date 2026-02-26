@@ -473,7 +473,7 @@
     {
       "repo": "alphagov/govwifi-product-page",
       "serviceName": "GovWifi",
-      "govukversion": "^5.13.0"
+      "govukversion": "^6.0.0"
     },
     {
       "repo": "alphagov/forms-runner",
