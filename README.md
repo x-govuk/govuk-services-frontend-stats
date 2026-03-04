@@ -2,9 +2,9 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
+| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
