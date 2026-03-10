@@ -261,7 +261,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^6.0.0"
+      "govukversion": "^6.1.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -494,7 +494,7 @@
     {
       "repo": "ministryofjustice/find-unclaimed-court-money",
       "serviceName": "Find unclaimed court money",
-      "govukversion": "^5.14.0"
+      "govukversion": "^6.1.0"
     },
     {
       "repo": "alphagov/finder-frontend",
