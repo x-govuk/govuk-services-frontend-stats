@@ -691,7 +691,7 @@
     {
       "repo": "DFE-Digital/apply-for-qualified-teacher-status",
       "serviceName": "Apply for qualified teacher status (QTS) in England",
-      "govukversion": "^5.14.0"
+      "govukversion": "^6.0.0"
     },
     {
       "repo": "DFE-Digital/check-childrens-barred-list",
