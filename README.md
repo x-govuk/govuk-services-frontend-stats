@@ -2,11 +2,12 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
+| [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
+| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
-| [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -34,12 +35,11 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Manage training for early career teachers](https://github.com/DFE-Digital/early-careers-framework/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Plan technology for your school](https://github.com/DFE-Digital/plan-technology-for-your-school/tree/main/src/Dfe.PlanTech.Web.Node/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^5.11.12 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
