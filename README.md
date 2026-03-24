@@ -2,6 +2,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
+| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.1.0 | ![Old crown](assets/old-crown.svg) |
@@ -25,7 +26,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
