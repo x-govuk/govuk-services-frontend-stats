@@ -34,7 +34,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^6.0.0"
+      "govukversion": "^6.1.0"
     },
     {
       "repo": "cabinetoffice/grc-app",

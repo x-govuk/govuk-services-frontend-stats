@@ -5,6 +5,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
+| [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
@@ -15,7 +16,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
-| [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
