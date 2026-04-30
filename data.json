@@ -29,7 +29,7 @@
     {
       "repo": "hmcts/probate-frontend",
       "serviceName": "Apply for Probate",
-      "govukversion": "^5.8.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
