@@ -16,6 +16,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
+| [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^6.0 | ![Old crown](assets/old-crown.svg) |
@@ -26,7 +27,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report modern slavery](https://github.com/UKHomeOffice/modern-slavery/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a Gender Recognition Certificate](https://github.com/ministryofjustice/grc-app/) | ^5.13.0 | ![New crown](assets/new-crown.svg#rebrand) |
