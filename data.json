@@ -261,7 +261,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^6.1.0"
+      "govukversion": "^6.2.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -445,7 +445,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^6.2.0"
+      "govukversion": "^6.1.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
@@ -614,13 +614,13 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^5.14.0"
+      "govukversion": "^6.2.0"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
       "serviceName": "Visit someone in prison",
       "name": "Public-facing booking service",
-      "govukversion": "^5.14.0"
+      "govukversion": "^6.2.0"
     },
     {
       "repo": "alphagov/platforms-product-page",
