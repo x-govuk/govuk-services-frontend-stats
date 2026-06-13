@@ -20,6 +20,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
+| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^6.0 | ![Old crown](assets/old-crown.svg) |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 6.0.0 | ![Old crown](assets/old-crown.svg) |
@@ -27,7 +28,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for Probate](https://github.com/hmcts/probate-frontend/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Check if your client qualifies for legal aid](https://github.com/ministryofjustice/laa-estimate-financial-eligibility-for-legal-aid/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Account management frontend](https://github.com/govuk-one-login/di-account-management-frontend/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report modern slavery](https://github.com/UKHomeOffice/modern-slavery/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
