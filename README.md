@@ -4,6 +4,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | :------ | -------------------: | :---------------: |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
+| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
@@ -15,7 +16,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
-| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
