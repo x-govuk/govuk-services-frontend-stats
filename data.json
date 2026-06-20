@@ -216,7 +216,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^6.1.0",
+      "govukversion": "^6.2.0",
       "name": "Admin application"
     },
     {
@@ -489,7 +489,7 @@
     {
       "repo": "DFE-Digital/claim-additional-payments-for-teaching",
       "serviceName": "Claim Additional Payments for Teaching",
-      "govukversion": "^6.0.0"
+      "govukversion": "^6.2.0"
     },
     {
       "repo": "ministryofjustice/find-unclaimed-court-money",
