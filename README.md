@@ -2,8 +2,8 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
+| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
-| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
