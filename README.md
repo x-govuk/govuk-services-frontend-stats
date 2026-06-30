@@ -3,13 +3,14 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
+| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.3.0 | ![Old crown](assets/old-crown.svg) |
+| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
-| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
@@ -17,7 +18,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
-| [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~6.1.0 | ![Old crown](assets/old-crown.svg) |

@@ -386,7 +386,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^6.1.0"
+      "govukversion": "^6.3.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -582,7 +582,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "6.2.0"
+      "govukversion": "6.3.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
