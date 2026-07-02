@@ -210,7 +210,7 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "6.2.0",
+      "govukversion": "6.3.0",
       "name": "Product pages"
     },
     {
@@ -234,7 +234,7 @@
     {
       "repo": "DFE-Digital/buy-for-your-school",
       "serviceName": "Get help buying for schools",
-      "govukversion": "^5.13.0"
+      "govukversion": "^5.14.0"
     },
     {
       "repo": "DFE-Digital/get-information-about-schools",
