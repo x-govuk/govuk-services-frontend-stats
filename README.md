@@ -2,7 +2,9 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
+| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
+| [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
@@ -14,7 +16,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.2.0 | ![Old crown](assets/old-crown.svg) |
-| [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
@@ -68,7 +69,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Manage family support services and accounts](https://github.com/DFE-Digital/fh-services/tree/main/src/shared/web-components/src/familyhubs-frontend/) | 5.8.0 | ![New crown](assets/new-crown.svg) |
 | [Home Office Design System](https://github.com/UKHomeOffice/home-office-design-system/tree/main/components/page/) | 5.7.1 | ![New crown](assets/new-crown.svg) |
 | [King’s Awards for Enterprise](https://github.com/bitzesty/qae/) | ^5.7.1 | ![New crown](assets/new-crown.svg) |
-| [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [Find a National Infrastructure Project](https://github.com/Planning-Inspectorate/applications-service/) | ^5.6.0 | ![New crown](assets/new-crown.svg) |
 | [GOV.UK Platform as a Service](https://github.com/alphagov/paas-product-pages/) | ^5.4.0 | ![New crown](assets/new-crown.svg) |
 | [Support for early career teachers](https://github.com/DFE-Digital/support-for-early-career-teachers/) | 5.3.0 | ![New crown](assets/new-crown.svg) |
