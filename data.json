@@ -44,7 +44,8 @@
     {
       "repo": "ministryofjustice/laa-apply-for-legal-aid",
       "serviceName": "Apply for legal aid",
-      "govukversion": "^6.1.0"
+      "govukversion": "^6.1.0",
+      "skip": "maybe"
     },
     {
       "repo": "SkillsFundingAgency/das-employerapprenticeshipsservice",
@@ -216,7 +217,7 @@
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^6.2.0",
+      "govukversion": "^6.3.0",
       "name": "Admin application"
     },
     {
