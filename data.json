@@ -479,7 +479,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^6.2.0",
+      "govukversion": "^6.3.0",
       "name": "Forms runner"
     },
     {
