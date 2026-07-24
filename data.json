@@ -599,7 +599,7 @@
     {
       "repo": "ministryofjustice/send-legal-mail-to-prisons",
       "serviceName": "Send legal mail to prisons",
-      "govukversion": "^6.1.0"
+      "govukversion": "^6.3.0"
     },
     {
       "repo": "DFE-Digital/support-for-early-career-teachers",
@@ -657,7 +657,7 @@
     {
       "repo": "hmcts/nfdiv-frontend",
       "serviceName": "Apply for a divorce",
-      "govukversion": "6.3.0"
+      "govukversion": "6.4.0"
     },
     {
       "repo": "DFE-Digital/fh-services",
