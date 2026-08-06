@@ -110,8 +110,8 @@ def has_tudor_crown?(version)
 
   # Check if version is greater than 3.15, 4.8 or 5.x
   (major == 3 && minor >= 15) ||
-  (major == 4 && minor >= 8) ||
-  (major == 5)
+    (major == 4 && minor >= 8) ||
+    (major >= 5)
 end
 
 def can_rebrand?(version)
@@ -122,7 +122,7 @@ def can_rebrand?(version)
 
   # Check if version is greater than 4.10 or 5.10
   (major == 4 && minor >= 10) ||
-  (major == 5 && minor >= 10)
+    (major == 5 && minor >= 10) || (major >= 6)
 end
 
 # Update README.md
