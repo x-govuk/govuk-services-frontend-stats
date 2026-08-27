@@ -13,7 +13,8 @@
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
       "serviceName": "Appeal a planning decision",
-      "govukversion": "^5.14.0"
+      "govukversion": "^5.14.0",
+      "skip": "maybe"
     },
     {
       "repo": "DFE-Digital/Dfe.Academies.External",
@@ -647,7 +648,8 @@
     {
       "repo": "Planning-Inspectorate/applications-service",
       "serviceName": "Find a National Infrastructure Project",
-      "govukversion": "^5.6.0"
+      "govukversion": "^5.6.0",
+      "skip": "maybe"
     },
     {
       "repo": "acteng/update-your-capital-schemes",
