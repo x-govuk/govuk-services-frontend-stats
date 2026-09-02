@@ -584,7 +584,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "6.4.0"
+      "govukversion": "6.5.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
@@ -677,7 +677,7 @@
       "repo": "ministryofjustice/fb-editor",
       "serviceName": "MoJ Forms",
       "name": "Form builder",
-      "govukversion": "4.8.0"
+      "govukversion": "6.4.0"
     },
     {
       "repo": "govuk-one-login/mobile-ios-one-login-app",
