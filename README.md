@@ -7,6 +7,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
+| [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
@@ -44,7 +45,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GovWifi](https://github.com/alphagov/govwifi-product-page/) | ^5.11.12 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
