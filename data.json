@@ -236,7 +236,7 @@
     {
       "repo": "DFE-Digital/buy-for-your-school",
       "serviceName": "Get help buying for schools",
-      "govukversion": "^5.14.0"
+      "govukversion": "^6.4.0"
     },
     {
       "repo": "DFE-Digital/get-information-about-schools",
@@ -263,7 +263,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^6.4.0"
+      "govukversion": "^6.5.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
