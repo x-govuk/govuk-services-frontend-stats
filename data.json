@@ -8,7 +8,7 @@
     {
       "repo": "DFE-Digital/access-your-teaching-qualifications",
       "serviceName": "Access your teaching qualifications",
-      "govukversion": "^6.3.0"
+      "govukversion": "^6.4.0"
     },
     {
       "repo": "Planning-Inspectorate/appeal-planning-decision",
@@ -304,7 +304,7 @@
     {
       "repo": "alphagov/notifications-admin",
       "serviceName": "GOV.UK Notify",
-      "govukversion": "6.4.0"
+      "govukversion": "6.5.0"
     },
     {
       "repo": "alphagov/datagovuk_find",
@@ -388,7 +388,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^6.4.0"
+      "govukversion": "^6.5.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
@@ -480,7 +480,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^6.4.0",
+      "govukversion": "^6.5.0",
       "name": "Forms runner"
     },
     {
