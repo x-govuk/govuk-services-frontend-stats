@@ -447,7 +447,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^6.4.0"
+      "govukversion": "^6.5.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
