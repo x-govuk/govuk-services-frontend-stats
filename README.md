@@ -7,6 +7,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.5.0 | ![Old crown](assets/old-crown.svg) |
+| [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
@@ -48,7 +49,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
