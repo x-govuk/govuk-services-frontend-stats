@@ -28,9 +28,9 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
+| [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
-| [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
