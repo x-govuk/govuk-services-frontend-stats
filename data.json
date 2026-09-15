@@ -160,7 +160,7 @@
     {
       "repo": "DFE-Digital/teaching-school-hub-finder",
       "serviceName": "Find a teaching school hub",
-      "govukversion": "6.4.0"
+      "govukversion": "6.5.0"
     },
     {
       "repo": "cabinetoffice/gap-find-apply-web",
@@ -383,7 +383,7 @@
     {
       "repo": "DFE-Digital/npq-registration",
       "serviceName": "Register for a National Professional Qualification",
-      "govukversion": "^6.4"
+      "govukversion": "^6.5"
     },
     {
       "repo": "DFE-Digital/register-trainee-teachers",
