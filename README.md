@@ -6,6 +6,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.5.0 | ![Old crown](assets/old-crown.svg) |
+| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
@@ -21,7 +22,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
-| [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [MoJ Forms – Form builder](https://github.com/ministryofjustice/fb-editor/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
