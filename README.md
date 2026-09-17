@@ -2,13 +2,15 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
+| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.5.1 | ![Old crown](assets/old-crown.svg) |
+| [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.5.1 | ![Old crown](assets/old-crown.svg) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
+| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
-| [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^6.5 | ![Old crown](assets/old-crown.svg) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
@@ -18,20 +20,19 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
-| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Get help buying for schools](https://github.com/DFE-Digital/buy-for-your-school/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [MoJ Forms – Form builder](https://github.com/ministryofjustice/fb-editor/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Refer serious misconduct by a teacher in England](https://github.com/DFE-Digital/refer-serious-misconduct/) | 6.4.0 | ![Old crown](assets/old-crown.svg) |
-| [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
 | [Check the children's barred list](https://github.com/DFE-Digital/check-childrens-barred-list/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a lost teacher reference number (TRN)](https://github.com/DFE-Digital/find-a-lost-trn/) | ^6.3.0 | ![Old crown](assets/old-crown.svg) |
 | [Update your capital schemes](https://github.com/acteng/update-your-capital-schemes/) | ~6.2.0 | ![Old crown](assets/old-crown.svg) |
 | [Apply for legal aid](https://github.com/ministryofjustice/laa-apply-for-legal-aid/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Find unclaimed court money](https://github.com/ministryofjustice/find-unclaimed-court-money/) | ^6.1.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a legal aid adviser or family mediator](https://github.com/ministryofjustice/fala/) | 6.0.0 | ![Old crown](assets/old-crown.svg) |
+| [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Submit social housing lettings and sales data (CORE)](https://github.com/communitiesuk/submit-social-housing-lettings-and-sales-data/) | 6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Verify an apostille](https://github.com/UKForeignOffice/verify-apostille-service/) | ^6.0.0 | ![Old crown](assets/old-crown.svg) |
 | [Appeal a planning decision](https://github.com/Planning-Inspectorate/appeal-planning-decision/) | ^5.14.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -57,7 +58,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get information about schools](https://github.com/DFE-Digital/get-information-about-schools/tree/main/Web/Edubase.Web.UI/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report your Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [UK Integrated Online Tariff – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
