@@ -5,6 +5,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -16,7 +17,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
