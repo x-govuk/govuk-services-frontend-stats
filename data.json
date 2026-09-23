@@ -357,7 +357,7 @@
     {
       "repo": "DFE-Digital/publish-teacher-training",
       "serviceName": "Publish teacher training courses",
-      "govukversion": "^6.5.0"
+      "govukversion": "^6.5.1"
     },
     {
       "repo": "bitzesty/qae",
