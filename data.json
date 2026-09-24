@@ -447,7 +447,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^6.5.0"
+      "govukversion": "^6.5.1"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
@@ -532,7 +532,7 @@
       "repo": "communitiesuk/epb-frontend",
       "serviceName": "Get a new energy certificate",
       "name": "Energy performance of buildings register front end",
-      "govukversion": "^6.5.0"
+      "govukversion": "^6.5.1"
     },
     {
       "repo": "communitiesuk/epb-register-api",
