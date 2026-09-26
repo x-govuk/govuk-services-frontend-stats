@@ -35,7 +35,7 @@
     {
       "repo": "DFE-Digital/apply-for-teacher-training",
       "serviceName": "Apply for teacher training",
-      "govukversion": "^6.4.0"
+      "govukversion": "^6.5.1"
     },
     {
       "repo": "cabinetoffice/grc-app",
@@ -212,13 +212,13 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "6.4.0",
+      "govukversion": "6.5.1",
       "name": "Product pages"
     },
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^6.4.0",
+      "govukversion": "^6.5.1",
       "name": "Admin application"
     },
     {
@@ -677,7 +677,7 @@
       "repo": "ministryofjustice/fb-editor",
       "serviceName": "MoJ Forms",
       "name": "Form builder",
-      "govukversion": "6.4.0"
+      "govukversion": "4.8.0"
     },
     {
       "repo": "govuk-one-login/mobile-ios-one-login-app",
