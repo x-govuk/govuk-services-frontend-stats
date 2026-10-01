@@ -18,6 +18,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.5.0 | ![Old crown](assets/old-crown.svg) |
+| [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^6.5 | ![Old crown](assets/old-crown.svg) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.5.0 | ![Old crown](assets/old-crown.svg) |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.4.0 | ![Old crown](assets/old-crown.svg) |
@@ -53,7 +54,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Design System](https://github.com/alphagov/govuk-design-system/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Product page](https://github.com/govuk-one-login/onboarding-product-page/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | 5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get information about schools](https://github.com/DFE-Digital/get-information-about-schools/tree/main/Web/Edubase.Web.UI/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report your Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
