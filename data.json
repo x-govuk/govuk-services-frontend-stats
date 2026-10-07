@@ -654,7 +654,7 @@
     {
       "repo": "acteng/update-your-capital-schemes",
       "serviceName": "Update your capital schemes",
-      "govukversion": "~6.2.0"
+      "govukversion": "~6.3.0"
     },
     {
       "repo": "hmcts/nfdiv-frontend",
@@ -694,7 +694,7 @@
     {
       "repo": "DFE-Digital/apply-for-qualified-teacher-status",
       "serviceName": "Apply for qualified teacher status (QTS) in England",
-      "govukversion": "^6.5.0"
+      "govukversion": "^6.5.1"
     },
     {
       "repo": "DFE-Digital/check-childrens-barred-list",
