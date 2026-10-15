@@ -171,7 +171,8 @@
     {
       "repo": "ministryofjustice/fala",
       "serviceName": "Find a legal aid adviser or family mediator",
-      "govukversion": "6.0.0"
+      "govukversion": "6.0.0",
+      "skip": "maybe"
     },
     {
       "repo": "DFE-Digital/npd-find-and-explore",
@@ -304,7 +305,7 @@
     {
       "repo": "alphagov/notifications-admin",
       "serviceName": "GOV.UK Notify",
-      "govukversion": "6.5.0"
+      "govukversion": "6.5.1"
     },
     {
       "repo": "alphagov/datagovuk_find",
@@ -319,7 +320,7 @@
     {
       "repo": "alphagov/pay-frontend",
       "serviceName": "GOV.UK Pay",
-      "govukversion": "^6.0.0"
+      "govukversion": "^6.5.1"
     },
     {
       "repo": "ministryofjustice/peoplefinder",
