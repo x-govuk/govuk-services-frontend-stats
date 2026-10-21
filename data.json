@@ -264,7 +264,7 @@
     {
       "repo": "ministryofjustice/hwf-publicapp",
       "serviceName": "Get help paying court and tribunal fees",
-      "govukversion": "^6.5.1"
+      "govukversion": "^6.6.0"
     },
     {
       "repo": "UKHomeOffice/home-office-design-system",
@@ -358,7 +358,7 @@
     {
       "repo": "DFE-Digital/publish-teacher-training",
       "serviceName": "Publish teacher training courses",
-      "govukversion": "^6.5.1"
+      "govukversion": "^6.6.0"
     },
     {
       "repo": "bitzesty/qae",
