@@ -160,7 +160,7 @@
     {
       "repo": "DFE-Digital/teaching-school-hub-finder",
       "serviceName": "Find a teaching school hub",
-      "govukversion": "6.5.0"
+      "govukversion": "6.5.1"
     },
     {
       "repo": "cabinetoffice/gap-find-apply-web",
