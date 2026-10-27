@@ -568,7 +568,7 @@
     {
       "repo": "DFE-Digital/early-years-foundation-recovery",
       "serviceName": "Early years child development training",
-      "govukversion": "6.5.1"
+      "govukversion": "6.6.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-duty-calculator",
@@ -585,7 +585,7 @@
     {
       "repo": "ministryofjustice/help-with-prison-visits-external",
       "serviceName": "Get help with the cost of prison visits",
-      "govukversion": "6.5.1"
+      "govukversion": "6.6.0"
     },
     {
       "repo": "ministryofjustice/prison-visits-public",
@@ -617,7 +617,7 @@
       "repo": "ministryofjustice/book-a-prison-visit-staff-ui",
       "serviceName": "Visit someone in prison",
       "name": "Staff-facing manage service",
-      "govukversion": "^6.5.1"
+      "govukversion": "^6.6.0"
     },
     {
       "repo": "ministryofjustice/hmpps-book-a-prison-visit-ui",
