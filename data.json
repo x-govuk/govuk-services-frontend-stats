@@ -160,7 +160,7 @@
     {
       "repo": "DFE-Digital/teaching-school-hub-finder",
       "serviceName": "Find a teaching school hub",
-      "govukversion": "6.5.1"
+      "govukversion": "6.6.0"
     },
     {
       "repo": "cabinetoffice/gap-find-apply-web",
@@ -248,7 +248,7 @@
     {
       "repo": "DFE-Digital/get-into-teaching-app",
       "serviceName": "Get Into Teaching",
-      "govukversion": "^5.11.1"
+      "govukversion": "^6.6.0"
     },
     {
       "repo": "DFE-Digital/get-teacher-training-adviser-service",
@@ -305,7 +305,7 @@
     {
       "repo": "alphagov/notifications-admin",
       "serviceName": "GOV.UK Notify",
-      "govukversion": "6.5.1"
+      "govukversion": "6.6.0"
     },
     {
       "repo": "alphagov/datagovuk_find",
@@ -384,7 +384,7 @@
     {
       "repo": "DFE-Digital/npq-registration",
       "serviceName": "Register for a National Professional Qualification",
-      "govukversion": "^6.5"
+      "govukversion": "^6.6"
     },
     {
       "repo": "DFE-Digital/register-trainee-teachers",
@@ -481,7 +481,7 @@
     {
       "repo": "alphagov/forms-runner",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^6.5.1",
+      "govukversion": "^6.6.0",
       "name": "Forms runner"
     },
     {
