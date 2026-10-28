@@ -3,18 +3,20 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | Service | Frontend | Crown/brand |
 | :------ | -------------------: | :---------------: |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | 6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help paying court and tribunal fees](https://github.com/ministryofjustice/hwf-publicapp/) | ^6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with the cost of prison visits](https://github.com/ministryofjustice/help-with-prison-visits-external/) | 6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Publish teacher training courses](https://github.com/DFE-Digital/publish-teacher-training/) | ^6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^6.6 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Staff-facing manage service](https://github.com/ministryofjustice/book-a-prison-visit-staff-ui/) | ^6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Admin application](https://github.com/alphagov/forms-admin/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Forms – Forms runner](https://github.com/alphagov/forms-runner/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [GOV.UK Notify](https://github.com/alphagov/notifications-admin/) | 6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Prototype Kit](https://github.com/alphagov/govuk-prototype-kit/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -22,7 +24,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Teaching Vacancies](https://github.com/DFE-Digital/teaching-vacancies/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Register for a National Professional Qualification](https://github.com/DFE-Digital/npq-registration/) | ^6.5 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Register trainee teachers](https://github.com/DFE-Digital/register-trainee-teachers/) | ^6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -49,7 +50,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [GOV.UK One Login – Authentication frontend](https://github.com/govuk-one-login/authentication-frontend/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [planning.data.gov.uk](https://github.com/digital-land/digital-land.info/) | 5.11.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK One Login – Admin tool](https://github.com/govuk-one-login/onboarding-self-service-experience/tree/main/express/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Get Into Teaching](https://github.com/DFE-Digital/get-into-teaching-app/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get help with child arrangements](https://github.com/ministryofjustice/help-with-child-arrangements/) | ^5.11.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Create an energy label](https://github.com/UKGovernmentBEIS/energy-label-service/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Flood map for planning](https://github.com/DEFRA/fmp-app/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
