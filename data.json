@@ -213,13 +213,13 @@
     {
       "repo": "alphagov/forms-product-page",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "6.5.1",
+      "govukversion": "6.6.0",
       "name": "Product pages"
     },
     {
       "repo": "alphagov/forms-admin",
       "serviceName": "GOV.UK Forms",
-      "govukversion": "^6.5.1",
+      "govukversion": "^6.6.0",
       "name": "Admin application"
     },
     {
@@ -448,7 +448,7 @@
     {
       "repo": "DFE-Digital/teaching-vacancies",
       "serviceName": "Teaching Vacancies",
-      "govukversion": "^6.5.1"
+      "govukversion": "^6.6.0"
     },
     {
       "repo": "trade-tariff/trade-tariff-frontend",
@@ -568,7 +568,8 @@
     {
       "repo": "DFE-Digital/early-years-foundation-recovery",
       "serviceName": "Early years child development training",
-      "govukversion": "6.6.0"
+      "govukversion": "6.6.0",
+      "skip": "maybe"
     },
     {
       "repo": "trade-tariff/trade-tariff-duty-calculator",
@@ -695,7 +696,7 @@
     {
       "repo": "DFE-Digital/apply-for-qualified-teacher-status",
       "serviceName": "Apply for qualified teacher status (QTS) in England",
-      "govukversion": "^6.5.1"
+      "govukversion": "^6.6.0"
     },
     {
       "repo": "DFE-Digital/check-childrens-barred-list",
