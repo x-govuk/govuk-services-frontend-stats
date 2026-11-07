@@ -389,7 +389,7 @@
     {
       "repo": "DFE-Digital/register-trainee-teachers",
       "serviceName": "Register trainee teachers",
-      "govukversion": "^6.5.0"
+      "govukversion": "^6.6.0"
     },
     {
       "repo": "UKHomeOffice/modern-slavery",
