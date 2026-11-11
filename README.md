@@ -22,6 +22,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Visit someone in prison – Public-facing booking service](https://github.com/ministryofjustice/hmpps-book-a-prison-visit-ui/) | ^6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Pay](https://github.com/alphagov/pay-frontend/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get a new energy certificate](https://github.com/communitiesuk/epb-frontend/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | 6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -58,7 +59,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get information about schools](https://github.com/DFE-Digital/get-information-about-schools/tree/main/Web/Edubase.Web.UI/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Improve workload and wellbeing for school staff](https://github.com/DFE-Digital/improve-workload-and-wellbeing-for-school-staff/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report your Official Development Assistance](https://github.com/UKGovernmentBEIS/beis-report-official-development-assistance/) | ^5.11.0 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Report your salmon or sea trout catch](https://github.com/DEFRA/rod-catch-returns-frontend/) | 5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [UK Integrated Online Tariff – Front end](https://github.com/trade-tariff/trade-tariff-frontend/) | ^5.10.2 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Product safety database](https://github.com/UKGovernmentBEIS/beis-opss-psd/) | 5.10.1 | ![New crown](assets/new-crown.svg#rebrand) |
