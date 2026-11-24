@@ -492,7 +492,7 @@
     {
       "repo": "DFE-Digital/claim-additional-payments-for-teaching",
       "serviceName": "Claim Additional Payments for Teaching",
-      "govukversion": "^6.5.0"
+      "govukversion": "^6.6.0"
     },
     {
       "repo": "ministryofjustice/find-unclaimed-court-money",
