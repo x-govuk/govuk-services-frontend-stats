@@ -4,6 +4,7 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | :------ | -------------------: | :---------------: |
 | [Apply for qualified teacher status (QTS) in England](https://github.com/DFE-Digital/apply-for-qualified-teacher-status/) | ^6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for teacher training](https://github.com/DFE-Digital/apply-for-teacher-training/) | ^6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
+| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Early years child development training](https://github.com/DFE-Digital/early-years-foundation-recovery/) | 6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Find a teaching school hub](https://github.com/DFE-Digital/teaching-school-hub-finder/) | 6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [GOV.UK Forms – Product pages](https://github.com/alphagov/forms-product-page/) | 6.6.0 | ![New crown](assets/new-crown.svg#rebrand) |
@@ -26,7 +27,6 @@ The following table shows the current version of [GOV.UK Frontend](https://githu
 | [Get a rod fishing licence](https://github.com/DEFRA/rod-licensing/tree/main/packages/gafl-webapp-service/) | 6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Get school experience](https://github.com/DFE-Digital/schools-experience/) | 6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Send legal mail to prisons](https://github.com/ministryofjustice/send-legal-mail-to-prisons/) | ^6.5.1 | ![New crown](assets/new-crown.svg#rebrand) |
-| [Claim Additional Payments for Teaching](https://github.com/DFE-Digital/claim-additional-payments-for-teaching/) | ^6.5.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Access your teaching qualifications](https://github.com/DFE-Digital/access-your-teaching-qualifications/) | ^6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Apply for a divorce](https://github.com/hmcts/nfdiv-frontend/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
 | [Check for flooding](https://github.com/DEFRA/flood-app/) | 6.4.0 | ![New crown](assets/new-crown.svg#rebrand) |
